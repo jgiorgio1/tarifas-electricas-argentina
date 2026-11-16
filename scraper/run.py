@@ -186,7 +186,7 @@ def _read(s, kind, d, origen, intentos):
         man = json.loads((ROOT / "scraper" / "manual" / d["manual"]).read_text())
         parsed = {"vigencia": man["vigencia"], "tablas": man["tablas"]}
         doc["transcripcion_manual"] = {"fuente": man["fuente"], "nota": man["nota"],
-                                       "archivo": f"https://github.com/ian-maccormack/tarifas-electricas-ar/blob/main/scraper/manual/{d['manual']}"}
+                                       "archivo": f"https://github.com/jgiorgio1/tarifas-electricas-argentina/blob/main/scraper/manual/{d['manual']}"}
     tablas = validate(parsed.get("tablas", []))
     used_ocr = False
     if not tablas and tipo == "pdf" and not d.get("sin_ocr") and (s.get("ocr") or len(text.strip()) < 200):

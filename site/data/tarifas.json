@@ -40862,7 +40862,7 @@
     "transcripcion_manual": {
      "fuente": "Boletín Oficial de Tierra del Fuego N° 6169 (17/09/2026), págs. 257-258: Resolución D.P.E. N° 595/26 y su Anexo I (escaneados)",
      "nota": "Transcripción manual del Anexo I escaneado: cada valor se leyó dos veces sobre la imagen del Boletín Oficial (a 220 y 300 dpi). El OCR automático no lee bien este escaneo.",
-     "archivo": "https://github.com/ian-maccormack/tarifas-electricas-ar/blob/main/scraper/manual/dpe-res-595-26.json"
+     "archivo": "https://github.com/jgiorgio1/tarifas-electricas-argentina/blob/main/scraper/manual/dpe-res-595-26.json"
     }
    },
    "vigencia": "Facturación con vencimiento en octubre de 2026 (CT Decr. Prov. 2489/2024 + Res. SE#MEC 190/2026, septiembre 2026)",
