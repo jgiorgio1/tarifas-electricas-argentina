@@ -30249,5 +30249,3442 @@
     ]
    }
   ]
+ },
+ {
+  "id": "secheep",
+  "detectado": "2026-11-16T19:58:14+00:00",
+  "sha256": "401b06ea80254ee8389a4f9679f35b802f1cc03de83883f5ce35ee046a50c786",
+  "url": "https://www.secheep.gob.ar/downloads/paginas/cuadros-tarifarios/Anexo-I-y-II-Cuadro-Tarifario-de-aplicacion-y-sin-subsidio-Noviembre-2026.pdf",
+  "titulo": "Anexo I y II Cuadro Tarifario de aplicaciÃ³n y sin subsidio - Noviembre 2026",
+  "vigencia": null,
+  "tablas": [
+   {
+    "titulo": "Página 1 — transcripción por OCR",
+    "filas": [
+     {
+      "grupo": "Cuadro Tarifario de Aplicación noviembre 2026",
+      "concepto": "Cargo Fijo",
+      "unidad": "$/MES",
+      "valores": [
+       0.0
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cuadro Tarifario de Aplicación noviembre 2026",
+      "concepto": "Cargo Variable 1ros. 50 KWh-mes",
+      "unidad": "$/KWhn",
+      "valores": [
+       173.3031
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cuadro Tarifario de Aplicación noviembre 2026",
+      "concepto": "Cargo Variable stes. 100 KWh-mes",
+      "unidad": "$/Kwh",
+      "valores": [
+       173.3031
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Variable stes, 150 KWh-mes",
+      "concepto": "Cargo Variable exc. 300 KWh-mes",
+      "unidad": "$/Kwh",
+      "valores": [
+       173.3031
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Variable stes, 150 KWh-mes",
+      "concepto": "Cargo Fijo",
+      "unidad": "$/MES",
+      "valores": [
+       0.0,
+       3631.72,
+       3631.72
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Variable stes, 150 KWh-mes",
+      "concepto": "Cargo Variable 1ros. 50 KWh-mes",
+      "unidad": "$/Kwh",
+      "valores": [
+       59.3258,
+       30.75,
+       90.0758
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Variable stes. 100 KWh-mes.",
+      "concepto": "Cargo Variable stes. 150 KWh-mes",
+      "unidad": "$/Kwh",
+      "valores": [
+       59.3258
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Variable stes. 100 KWh-mes.",
+      "concepto": "Cargo Variable stes, 200 KWh-mes",
+      "unidad": "$/KwWh",
+      "valores": [
+       59.3258
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Variable stes. 100 KWh-mes.",
+      "concepto": "Cargo Variable exc. 500 KWh-mes",
+      "unidad": "$/KWh",
+      "valores": [
+       173.3031
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Variable stes. 100 KWh-mes.",
+      "concepto": "Excedente s/Res. Sech. 9759",
+      "unidad": "$/Kwh",
+      "valores": [
+       43.3258,
+       32.6696,
+       75.9953
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Variable stes. 100 KWh-mes.",
+      "concepto": "Excedente s/Res. Sech. 9759",
+      "unidad": "$/Kwh",
+      "valores": [
+       43.3258,
+       32.6696,
+       75.9953
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Variable exc. 50 KWh-mes",
+      "concepto": "Cargo Fijo",
+      "unidad": "$/MES",
+      "valores": [
+       null,
+       3631.72,
+       3631.72
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Variable exc. 50 KWh-mes",
+      "concepto": "Cargo Variable exc. 50 KWh-mes",
+      "unidad": "$/Kwh",
+      "valores": [
+       59.3258,
+       48.3844,
+       107.7102
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Variable exc. 50 KWh-mes",
+      "concepto": "Cargo Fijo",
+      "unidad": "$/MES",
+      "valores": [
+       4081.33,
+       4081.33
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Variable exc. 50 KWh-mes",
+      "concepto": "Cargo Fijo",
+      "unidad": "$/MES",
+      "valores": [
+       null,
+       3631.72,
+       3631.72
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Variable exc. 50 KWh-mes",
+      "concepto": "Cargo Variable 1ros. 50 KWh-mes",
+      "unidad": "$/KwWh",
+      "valores": [
+       3.0287,
+       30.75,
+       33.7787
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Variable exc. 50 KWh-mes",
+      "concepto": "Cargo Variable stes, 100 KWh-mes",
+      "unidad": "$/Kwh",
+      "valores": [
+       3.0287,
+       48.3844,
+       51.4131
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Variable exc. 50 KWh-mes",
+      "concepto": "Cargo Variable stes. 150 KWh-mes",
+      "unidad": "$/KWh",
+      "valores": [
+       3.0287
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Variable exc. 50 KWh-mes",
+      "concepto": "Cargo Variable exc. 300 KWh-mes",
+      "unidad": "$/KWh",
+      "valores": [
+       3.0287
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Variable exc. 50 KWh-mes",
+      "concepto": "Primeros 50 Kwh",
+      "unidad": "$/Kwh",
+      "valores": [
+       29.6629,
+       15.375,
+       45.0379
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Variable exc. 50 KWh-mes",
+      "concepto": "Siguientes 50 Kwh",
+      "unidad": "$/Kwh",
+      "valores": [
+       29.6629,
+       24.1922,
+       53.8551
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Variable exc. 50 KWh-mes",
+      "concepto": "Primeros 50 Kwh",
+      "unidad": "$/Kwh",
+      "valores": [
+       59.3258,
+       30.75,
+       90.0758
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Variable exc. 50 KWh-mes",
+      "concepto": "Siguientes 100 Kwh",
+      "unidad": "$/KWh",
+      "valores": [
+       59.3258
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Variable exc. 50 KWh-mes",
+      "concepto": "Siguientes 30 Kwh",
+      "unidad": "$/Kwh",
+      "valores": [
+       59.3258
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Variable exc. 50 KWh-mes",
+      "concepto": "Primeros 50 Kwh",
+      "unidad": "$/Kwh",
+      "valores": [
+       59.3258,
+       30.75,
+       90.0758
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Variable exc. 50 KWh-mes",
+      "concepto": "Siguientes 100 Kwh",
+      "unidad": "$/KWh",
+      "valores": [
+       59.3258
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Variable exc. 50 KWh-mes",
+      "concepto": "Siguientes 100 Kwh",
+      "unidad": "$/Kwh",
+      "valores": [
+       59.3258
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Variable exc. 50 KWh-mes",
+      "concepto": "Cargo Variable KWh-mes",
+      "unidad": "$/KWh",
+      "valores": [
+       170.147
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Variable exc. 50 KWh-mes",
+      "concepto": "Cargo Fijo",
+      "unidad": "$/MES",
+      "valores": [
+       null,
+       9947.88,
+       9947.88
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Variable exc. 50 KWh-mes",
+      "concepto": "Cargo Variable exc, KWh-mes",
+      "unidad": "$/KwWh",
+      "valores": [
+       170.147
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Variable KWh-mes",
+      "concepto": "Cargo Fijo",
+      "unidad": "$/MES",
+      "valores": [
+       0.0,
+       8156.77,
+       8156.77
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Variable KWh-mes",
+      "concepto": "Cargo Variable Lros, 250 KWH",
+      "unidad": null,
+      "valores": [
+       85.7737,
+       284.0078
+      ],
+      "columnas": null
+     }
+    ]
+   },
+   {
+    "titulo": "Página 2 — transcripción por OCR",
+    "filas": [
+     {
+      "grupo": "Energía del Chaco",
+      "concepto": "Cargo Fijo",
+      "unidad": "$/MES",
+      "valores": [
+       0.0
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Variable Exce. 2000 kwh",
+      "concepto": "Cargo Variable KWh-mes",
+      "unidad": "$/KWh",
+      "valores": [
+       200.714
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Variable Exce. 2000 kwh",
+      "concepto": "Cargo Variable KWh-mes",
+      "unidad": "$/Kwh",
+      "valores": [
+       200.714
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Variable Exce. 2000 kwh",
+      "concepto": "Cargo Fijo",
+      "unidad": "$/MES",
+      "valores": [
+       0.0
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Variable Exce. 2000 kwh",
+      "concepto": "Cargo Fijo",
+      "unidad": "$/MES",
+      "valores": [
+       0.0,
+       8156.77,
+       8156.77
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Variable Exce. 2000 kwh",
+      "concepto": "Cargo Fijo",
+      "unidad": "$/MES",
+      "valores": [
+       0.0,
+       9050.1,
+       9050.1
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Variable Exce. 2000 kwh",
+      "concepto": "Cargo Fijo",
+      "unidad": "$/MES",
+      "valores": [
+       0.0
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Variable Exce. 2000 kwh",
+      "concepto": "Cargo Potencia Adquirida",
+      "unidad": "$/KW",
+      "valores": [
+       9126.82,
+       0.0,
+       9126.82
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Variable Exce. 2000 kwh",
+      "concepto": "Cargo Potencia Contratada en Punta",
+      "unidad": "$/KW",
+      "valores": [
+       0.0,
+       6638.81,
+       6638.81
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Variable Exce. 2000 kwh",
+      "concepto": "Cargo Potencia Contratada Fuera Punta |$/KW",
+      "unidad": null,
+      "valores": [
+       0.0,
+       7769.96,
+       7769.96
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Energía Valle",
+      "unidad": "$/KWh",
+      "valores": [
+       157.9517,
+       4.6989,
+       162.6506
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Fijo",
+      "unidad": "$/MES",
+      "valores": [
+       0.0
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Potencia Adquirida",
+      "unidad": "$/KW",
+      "valores": [
+       9126.82,
+       0.0,
+       9126.82
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Potencia Contratada en Punta",
+      "unidad": "$/KW",
+      "valores": [
+       0.0,
+       6638.81,
+       6638.81
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Potencia Contratada Fuera Punta |$/KW",
+      "unidad": null,
+      "valores": [
+       0.0,
+       8032.96,
+       8032.96
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "$/xwhn | 1588904 | 7,9989 | 166,893",
+      "concepto": "$/KWwh | 157,9517",
+      "unidad": null,
+      "valores": [
+       7.9989,
+       165.9506
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Valle",
+      "concepto": "Cargo Fijo",
+      "unidad": "$/MES",
+      "valores": [
+       0.0
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Valle",
+      "concepto": "Cargo Potencia Adquirida",
+      "unidad": "$/KW",
+      "valores": [
+       2281.71,
+       0.0,
+       2281.71
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Valle",
+      "concepto": "Cargo Potencia Contratada en Punta",
+      "unidad": "$/KwW",
+      "valores": [
+       0.0,
+       6638.81,
+       6638.81
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Valle",
+      "concepto": "Cargo Potencia Contratada Fuera Punta |$/KW",
+      "unidad": null,
+      "valores": [
+       0.0,
+       7769.96,
+       7769.96
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Valle",
+      "concepto": "Cargo Energía Pico",
+      "unidad": "$/KWh",
+      "valores": [
+       48.5309,
+       4.6989,
+       53.2298
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Energía Valle",
+      "unidad": "$/KWRk",
+      "valores": [
+       47.4126,
+       4.6989,
+       52.1115
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Fijo",
+      "unidad": "$/MES",
+      "valores": [
+       0.0
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Potencia Adquirida",
+      "unidad": "$/KW",
+      "valores": [
+       4563.41,
+       0.0,
+       4563.41
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Potencia Contratada en Punta",
+      "unidad": "$/KW",
+      "valores": [
+       0.0,
+       3319.41,
+       3319.41
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Potencia Contratada Fuera Punta [$/KW",
+      "unidad": null,
+      "valores": [
+       0.0,
+       null,
+       3884.98
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "$/xwhn | 1588904 | 7,9989 | 166,893",
+      "concepto": "$/KWh | 163,8137",
+      "unidad": null,
+      "valores": [
+       4.6989,
+       168.5126
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "$/xwhn | 1588904 | 7,9989 | 166,893",
+      "concepto": "$/Kwh | 158,8904",
+      "unidad": null,
+      "valores": [
+       4.6989,
+       163.5893
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "$/xwhn | 1588904 | 7,9989 | 166,893",
+      "concepto": "$/Kwh 157,9517",
+      "unidad": null,
+      "valores": [
+       4.6989,
+       162.6506
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Valle",
+      "concepto": "Cargo Fijo",
+      "unidad": "$/MES",
+      "valores": [
+       0.0
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Valle",
+      "concepto": "Cargo Potencia Adquirida",
+      "unidad": "$/KW",
+      "valores": [
+       null,
+       0.0,
+       null
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Valle",
+      "concepto": "Cargo Potencia Contratada en Punta",
+      "unidad": "$/KW",
+      "valores": [
+       0.0,
+       5103.46,
+       5103.46
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Valle",
+      "concepto": "Cargo Potencia Contratada Fuera Punta |$/KW",
+      "unidad": null,
+      "valores": [
+       0.0,
+       6907.37,
+       6907.37
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Energía Valle",
+      "unidad": "$/KWh",
+      "valores": [
+       153.762,
+       3.8347,
+       157.5967
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Fijo",
+      "unidad": "$/MES",
+      "valores": [
+       0.0
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Potencia Adquirida",
+      "unidad": "$/KW",
+      "valores": [
+       9148.23,
+       0.0,
+       9148.23
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Potencia Contratada en Punta",
+      "unidad": "$/KWwW",
+      "valores": [
+       0.0,
+       5103.46,
+       5103.46
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Potencia Contratada Fuera Punta |[$/KW",
+      "unidad": null,
+      "valores": [
+       0.0,
+       7170.37,
+       7170.37
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Energía Valle",
+      "unidad": "$/KWh",
+      "valores": [
+       153.762,
+       7.1347,
+       160.8967
+      ],
+      "columnas": null
+     }
+    ]
+   },
+   {
+    "titulo": "Página 3 — transcripción por OCR",
+    "filas": [
+     {
+      "grupo": "Energía del Chaco",
+      "concepto": "Cargo Fijo",
+      "unidad": "$/MES",
+      "valores": [
+       0.0
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "GRANDES POTENCIAS",
+      "concepto": "Cargo Potencia Adquirida",
+      "unidad": "$/KWw",
+      "valores": [
+       2287.06,
+       0.0,
+       2287.06
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "CLUBES - Ley N* 27.098",
+      "concepto": "Cargo Potencia Contratada en Punta",
+      "unidad": "$/KW",
+      "valores": [
+       0.0,
+       5103.46,
+       5103.46
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "CLUBES - Ley N* 27.098",
+      "concepto": "Cargo Potencia Contratada Fuera Punta |$/KW",
+      "unidad": null,
+      "valores": [
+       0.0,
+       6907.37,
+       6907.37
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "MEDIA TENSIÓN<3 00 KW",
+      "concepto": "Cargo Energía Pico",
+      "unidad": "$/Kwh",
+      "valores": [
+       47.2436,
+       3.8347,
+       51.0783
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Energía Valle",
+      "unidad": "$/KWh",
+      "valores": [
+       46.1549,
+       3.8347,
+       49.9896
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Fijo",
+      "unidad": "$/MES",
+      "valores": [
+       0.0
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Potencia Adquirida",
+      "unidad": "$/KW",
+      "valores": [
+       4574.12,
+       0.0,
+       4574.12
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Potencia Contratada en Punta",
+      "unidad": "$/KW",
+      "valores": [
+       0.0
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Potencia Contratada Fuera Punta |[$/KW",
+      "unidad": null,
+      "valores": [
+       0.0,
+       3453.69,
+       3453.69
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "$/Kwhn | 46,3295",
+      "concepto": "$/KWh 159,4685",
+      "unidad": null,
+      "valores": [
+       3.8347,
+       163.3032
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Energía Valle",
+      "unidad": "$/KWh",
+      "valores": [
+       153.762,
+       3.8347,
+       157.5967
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Fijo",
+      "unidad": "$/MES",
+      "valores": [
+       0.0
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Potencia Adquirida",
+      "unidad": "$/KWwW",
+      "valores": [
+       9126.82,
+       0.0,
+       9126.82
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Potencia Contratada en Punta",
+      "unidad": "$/KW",
+      "valores": [
+       0.0
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Potencia Contratada Fuera Punta |$/KW",
+      "unidad": null,
+      "valores": [
+       0.0,
+       7769.96,
+       7769.96
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Energía Valle",
+      "unidad": "$/Kwh",
+      "valores": [
+       173.5097,
+       4.6989,
+       178.2086
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Fijo",
+      "unidad": "$/MES",
+      "valores": [
+       0.0
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Potencia Adquirida",
+      "unidad": "$/KW",
+      "valores": [
+       9126.82,
+       0.0,
+       9126.82
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Potencia Contratada en Punta",
+      "unidad": "$/KW",
+      "valores": [
+       0.0,
+       6638.81,
+       6638.81
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Potencia Contratada Fuera Punta ¡$/KW",
+      "unidad": null,
+      "valores": [
+       0.0,
+       8032.96,
+       8032.96
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "$/KWwh | 1745638 | 4,6989 | 179,2627",
+      "concepto": "$/Kwh 180,0887",
+      "unidad": null,
+      "valores": [
+       7.9989,
+       188.0876
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "$/xwn | 1745638 | 7,9989 | 182,5627",
+      "concepto": "$/KWh 173,5097",
+      "unidad": null,
+      "valores": [
+       7.9989,
+       181.5086
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Valle",
+      "concepto": "Cargo Fijo",
+      "unidad": "$/MES",
+      "valores": [
+       0.0
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Valle",
+      "concepto": "Cargo Potencia Adquirida",
+      "unidad": "$/KW",
+      "valores": [
+       2281.71,
+       0.0,
+       2281.71
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Valle",
+      "concepto": "Cargo Potencia Contratada en Punta",
+      "unidad": "$/KW",
+      "valores": [
+       0.0,
+       6638.81,
+       6638.81
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Valle",
+      "concepto": "Cargo Potencia Contratada Fuera Punta |$/KW",
+      "unidad": null,
+      "valores": [
+       0.0,
+       7769.96,
+       7769.96
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "$/xwn | 1745638 | 7,9989 | 182,5627",
+      "concepto": "$/KWh | 48,5309",
+      "unidad": null,
+      "valores": [
+       4.6989,
+       53.2298
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Energía Valle",
+      "unidad": "$/KWh",
+      "valores": [
+       null,
+       4.6989,
+       52.1115
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Fijo",
+      "unidad": "$/MES",
+      "valores": [
+       0.0
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Potencia Adquirida",
+      "unidad": "$/KW",
+      "valores": [
+       4563.41,
+       0.0,
+       4563.41
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Potencia Contratada en Punta",
+      "unidad": "$/KW",
+      "valores": [
+       0.0,
+       3319.41,
+       3319.41
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Potencia Contratada Fuera Punta |$/KW",
+      "unidad": null,
+      "valores": [
+       0.0,
+       3884.98,
+       3884.98
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Energía Valle",
+      "unidad": "$/Kwh",
+      "valores": [
+       173.5097,
+       4.6989,
+       178.2086
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Fijo",
+      "unidad": "$/MES",
+      "valores": [
+       0.0
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Potencia Adquirida",
+      "unidad": "$/KW",
+      "valores": [
+       9148.23,
+       0.0,
+       9148.23
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Potencia Contratada en Punta",
+      "unidad": "$/KW",
+      "valores": [
+       0.0,
+       5103.46,
+       5103.46
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Potencia Contratada Fuera Punta ¡$/KW",
+      "unidad": null,
+      "valores": [
+       0.0,
+       6907.37,
+       6907.37
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "$/Kwh | 175,3119",
+      "concepto": "$/KwWh | 169,9335",
+      "unidad": null,
+      "valores": [
+       3.8347,
+       173.7682
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Energía Valle",
+      "unidad": "$/KWh",
+      "valores": [
+       168.9073,
+       3.8347,
+       172.742
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Fijo",
+      "unidad": "$/MES",
+      "valores": [
+       0.0
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Potencia Adquirida",
+      "unidad": "$/KwW",
+      "valores": [
+       9148.23,
+       0.0,
+       9148.23
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Potencia Contratada en Punta",
+      "unidad": "$/KwW",
+      "valores": [
+       0.0,
+       5103.46,
+       5103.46
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Potencia Contratada Fuera Punta |5/KW",
+      "unidad": null,
+      "valores": [
+       0.0,
+       7170.37,
+       7170.37
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Energía Valle",
+      "unidad": "$/KWh",
+      "valores": [
+       168.9073,
+       7.1347,
+       176.042
+      ],
+      "columnas": null
+     }
+    ]
+   },
+   {
+    "titulo": "Página 4 — transcripción por OCR",
+    "filas": [
+     {
+      "grupo": "Energía del Chaco",
+      "concepto": "Cargo Fijo",
+      "unidad": "$/MES",
+      "valores": [
+       0.0
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "GRANDES POTENCIAS",
+      "concepto": "Cargo Potencia Adquirida",
+      "unidad": "$/KwW",
+      "valores": [
+       2287.06,
+       0.0,
+       2287.06
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "CLUBES - Ley N* 27,098",
+      "concepto": "Cargo Potencia Contratada en Punta",
+      "unidad": "$/KwW",
+      "valores": [
+       0.0
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "CLUBES - Ley N* 27,098",
+      "concepto": "Cargo Potencia Contratada Fuera Punta |$/KWw",
+      "unidad": null,
+      "valores": [
+       0.0,
+       6907.37,
+       6907.37
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Energía Valle",
+      "unidad": "$/Kwh",
+      "valores": [
+       46.1549,
+       3.8347,
+       49.9896
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Fijo",
+      "unidad": "$/MES",
+      "valores": [
+       0.0
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Potencia Adquirida",
+      "unidad": "$/KW",
+      "valores": [
+       4574.12,
+       0.0,
+       4574.12
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Potencia Contratada en Punta — |$/KWw",
+      "unidad": null,
+      "valores": [
+       0.0
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Potencia Contratada Fuera Punta |$/KW",
+      "unidad": null,
+      "valores": [
+       0.0,
+       3453.69,
+       3453.69
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Energía Pico",
+      "unidad": "$/Kwh",
+      "valores": [
+       175.3119,
+       3.8347,
+       179.1466
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "MEDIA TENSIÓN2300 KW",
+      "concepto": "- ¡Cargo Energía Valle",
+      "unidad": "$/Kwh",
+      "valores": [
+       168.9073,
+       3.8347,
+       172.742
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Fijo",
+      "unidad": "$/MES",
+      "valores": [
+       0.0
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Potencia Adquirida",
+      "unidad": "$/KW",
+      "valores": [
+       8991.78,
+       0.0,
+       8991.78
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "MEDIA TENSIÓN2300 KW",
+      "concepto": "COOPERATIVA ELECTRIFICACIÓN ¡Cargo Potencia Contratada en Punta",
+      "unidad": "$/KW",
+      "valores": [
+       0.0,
+       3994.63,
+       3994.63
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Potencia Contratada Fuera Punta ¡$/KW",
+      "unidad": null,
+      "valores": [
+       0.0
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Energía Pico",
+      "unidad": "$/Kwh",
+      "valores": [
+       157.1511,
+       3.62,
+       160.7711
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "$/Kwh | 169,9335 | 3,8347 | 173,7682",
+      "concepto": "$/Kwh | 152,4281",
+      "unidad": null,
+      "valores": [
+       3.62,
+       156.0481
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "$/Kwh | 169,9335 | 3,8347 | 173,7682",
+      "concepto": "$/KWh 151,5275",
+      "unidad": null,
+      "valores": [
+       3.62,
+       155.1475
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Valle",
+      "concepto": "Cargo Fijo",
+      "unidad": "$/MES",
+      "valores": [
+       0.0
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "RURAL Y DISTRBUIDOR",
+      "concepto": "COOPERATIVA ELECTRIFICACIÓN [Cargo Potencia Adquirida",
+      "unidad": "$/KW",
+      "valores": [
+       2247.95,
+       0.0,
+       2247.95
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Valle",
+      "concepto": "Cargo Potencia Contratada en Punta — |$/KW",
+      "unidad": null,
+      "valores": [
+       0.0
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Valle",
+      "concepto": "Cargo Potencia Contratada Fuera Punta |$/KW",
+      "unidad": null,
+      "valores": [
+       0.0
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Valle",
+      "concepto": "Cargo Energía Pico",
+      "unidad": "$/KwWh",
+      "valores": [
+       46.5571,
+       3.62,
+       50.1771
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Valle",
+      "concepto": "Cargo Energía Resto",
+      "unidad": "$/KWh",
+      "valores": [
+       45.6562,
+       3.62,
+       49.2762
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Valle",
+      "concepto": "Cargo Energía Valle",
+      "unidad": "$/KWhn",
+      "valores": [
+       45.4843,
+       3.62,
+       49.1043
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Valle",
+      "concepto": "Cargo Fijo",
+      "unidad": "$/MES",
+      "valores": [
+       0.0
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "CONSUMOS HASTA 500 KWH-",
+      "concepto": "COOPERATIVA ELECTRIFICACIÓN [Cargo Potencia Adquirida",
+      "unidad": "$/KW",
+      "valores": [
+       8991.78,
+       0.0,
+       8991.78
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Valle",
+      "concepto": "Cargo Potencia Contratada en Punta — |$/KW",
+      "unidad": null,
+      "valores": [
+       0.0
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Valle",
+      "concepto": "Cargo Potencía Contratada Fuera Punta |$/KW",
+      "unidad": null,
+      "valores": [
+       0.0,
+       null,
+       4139.09
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Valle",
+      "concepto": "Cargo Energía Pico",
+      "unidad": "$/Kwh",
+      "valores": [
+       126.8774,
+       3.62,
+       130.4974
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Valle",
+      "concepto": "Cargo Energía Resto",
+      "unidad": "$/Kwh",
+      "valores": [
+       123.2741,
+       3.62,
+       126.8941
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Valle",
+      "concepto": "Cargo Energía Valle",
+      "unidad": "$/KWh",
+      "valores": [
+       122.5862,
+       3.62,
+       126.2062
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Valle",
+      "concepto": "Cargo Fijo",
+      "unidad": "$/MES",
+      "valores": [
+       0.0
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Valle",
+      "concepto": "Cargo Potencia Contratada en Punta",
+      "unidad": "$/KW",
+      "valores": [
+       1127.85,
+       6638.81,
+       null
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "EXC. 500 KWH-MES",
+      "concepto": "PEAJE POR TRANSPORTE FIRME [Cargo Potencia Contratada Fuera Punta |$/KwW",
+      "unidad": null,
+      "valores": [
+       0.0,
+       8032.96,
+       8032.96
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "$/Kwh | 169,9335 | 3,8347 | 173,7682",
+      "concepto": "$/KWwh | 16,5854",
+      "unidad": null,
+      "valores": [
+       7.9989,
+       24.5843
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Pico",
+      "concepto": "Cargo Energía Resto",
+      "unidad": "$/Kwh",
+      "valores": [
+       16.0151,
+       7.9989,
+       24.014
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Pico",
+      "concepto": "Cargo Energía Valle",
+      "unidad": "$/KWh",
+      "valores": [
+       15.9064,
+       7.9989,
+       23.9053
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Pico",
+      "concepto": "Cargo Fijo",
+      "unidad": "$/MES",
+      "valores": [
+       0.0
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Pico",
+      "concepto": "Cargo Potencia Contratada en Punta",
+      "unidad": "$/KWwW",
+      "valores": [
+       1127.85,
+       6638.81,
+       7766.66
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "BAJA TENSIÓN < 300 KW",
+      "concepto": "PEAJE POR TRANSPORTE FIRME cargo Potencia Contratada Fuera Punta |$/KW",
+      "unidad": null,
+      "valores": [
+       0.0
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Pico",
+      "concepto": "Cargo Energía Pico",
+      "unidad": "$/Kwh",
+      "valores": [
+       18.4705,
+       7.9989,
+       26.4694
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Pico",
+      "concepto": "Cargo Energía Resto",
+      "unidad": "$/KWh",
+      "valores": [
+       17.8305,
+       7.9989,
+       25.8294
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Pico",
+      "concepto": "Cargo Energía Valle",
+      "unidad": "$/Kwh",
+      "valores": [
+       17.7084,
+       7.9989,
+       25.7073
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Pico",
+      "concepto": "Cargo Fijo",
+      "unidad": "$/MES",
+      "valores": [
+       0.0
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "BAJA TENSIÓN > 300 KW",
+      "concepto": "PEAJE POR TRANSPORTE FIRME eo Potencia Contratada en Punta",
+      "unidad": "$/Kw",
+      "valores": [
+       914.0,
+       5103.46,
+       6017.46
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Pico",
+      "concepto": "argo Potencia Contratada Fuera Punta [$/KW",
+      "unidad": null,
+      "valores": [
+       0.0,
+       7170.37,
+       7170.37
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Pico",
+      "concepto": "Cargo Energía Pico",
+      "unidad": "$/KWh",
+      "valores": [
+       12.7873,
+       7.1347,
+       19.922
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Pico",
+      "concepto": "Cargo Energía Resto",
+      "unidad": "$/Kwh",
+      "valores": [
+       12.3476,
+       7.1347,
+       19.4823
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Pico",
+      "concepto": "Cargo Energía Valle",
+      "unidad": "$/KWh",
+      "valores": [
+       12.2638,
+       7.1347,
+       19.3985
+      ],
+      "columnas": null
+     }
+    ]
+   },
+   {
+    "titulo": "Página 5 — transcripción por OCR",
+    "filas": [
+     {
+      "grupo": "Energía del Chaco",
+      "concepto": "Cargo Fijo",
+      "unidad": "$/MES",
+      "valores": [
+       0.0
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Energía del Chaco",
+      "concepto": "Cargo Potencia Contratada en Punta",
+      "unidad": "$/KW",
+      "valores": [
+       914.0,
+       5103.46,
+       6017.46
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Energía del Chaco",
+      "concepto": "PEAJE POR TRANSPORTE FIRME |Cargo Potencia Contratada Fuera Punta $/KW",
+      "unidad": null,
+      "valores": [
+       0.0,
+       7170.37,
+       7170.37
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "MEDIA TENSIÓN >300 KW",
+      "concepto": "Cargo Energía Pico",
+      "unidad": "$/KWwWh",
+      "valores": [
+       14.2406,
+       7.1347,
+       21.3753
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "MEDIA TENSIÓN >300 KW",
+      "concepto": "Cargo Energía Resto",
+      "unidad": "$/KWh",
+      "valores": [
+       13.7473,
+       7.1347,
+       20.882
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "MEDIA TENSIÓN >300 KW",
+      "concepto": "Cargo Energía Valle",
+      "unidad": "$/Kwh",
+      "valores": [
+       13.6531,
+       7.1347,
+       20.7878
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "RESIDENCIAL SIN SEF",
+      "concepto": "Por cada KWh inyectado a la red",
+      "unidad": null,
+      "valores": [
+       100.7365,
+       100.7365
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "2026 - Año del 1002 Aniversario de la sanción de la Ley de Derechos Civiles de la",
+      "concepto": "6/cwa | 3s32e | 000",
+      "unidad": null,
+      "valores": [
+       35.3241
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Por cada KWh inyectado a la red",
+      "concepto": "Por cada KWh inyectado a la red",
+      "unidad": null,
+      "valores": [
+       127.7997,
+       127.7997
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "USUARIO - GENERADOR RUR, NO",
+      "concepto": "USUARIO - GENERADOR GDES. Energía inyectada en Pico",
+      "unidad": "$/KwWh",
+      "valores": [
+       131.271,
+       0.0,
+       131.271
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Por cada KWh inyectado a la red",
+      "concepto": "Energía inyectada en Resto",
+      "unidad": "$/KWh",
+      "valores": [
+       126.918,
+       0.0,
+       126.918
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "2026 - Año del 1002 Aniversario de la sanción de la Ley de Derechos Civiles de la",
+      "concepto": "$/Kwh | 126,0880",
+      "unidad": null,
+      "valores": [
+       0.0,
+       126.088
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "2026 - Año del 1002 Aniversario de la sanción de la Ley de Derechos Civiles de la",
+      "concepto": "$/KwWh 145,6610",
+      "unidad": null,
+      "valores": [
+       0.0,
+       145.661
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Por cada KWh inyectado a la red",
+      "concepto": "Energía inyectada en Resto",
+      "unidad": "$/KWh",
+      "valores": [
+       140.776,
+       0.0,
+       140.776
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "2026 - Año del 1002 Aniversario de la sanción de la Ley de Derechos Civiles de la",
+      "concepto": "$/Kwh | 139,8440",
+      "unidad": null,
+      "valores": [
+       0.0,
+       139.844
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Por cada KWh inyectado a la red",
+      "concepto": "SIN MEDICIÓN DE [Cargo Fijo",
+      "unidad": "$/MES",
+      "valores": [
+       0.0,
+       null,
+       null
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "2026 - Año del 1002 Aniversario de la sanción de la Ley de Derechos Civiles de la",
+      "concepto": "Cargo Variable",
+      "unidad": "$/KWh",
+      "valores": [
+       0.0,
+       null,
+       null
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Por cada KWh inyectado a la red",
+      "concepto": "CON MEDICIÓN DE [Cargo por Potencia |$/KW",
+      "unidad": null,
+      "valores": [
+       0.0,
+       null,
+       null
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "2026 - Año del 1002 Aniversario de la sanción de la Ley de Derechos Civiles de la",
+      "concepto": "Cargo Variable",
+      "unidad": "$/KWh",
+      "valores": [
+       0.0,
+       null,
+       null
+      ],
+      "columnas": null
+     }
+    ]
+   },
+   {
+    "titulo": "Página 6 — transcripción por OCR",
+    "filas": [
+     {
+      "grupo": "Res. SE N* 305/26 - Res. MIOySP N*479/26 Anexo III (julio 2026)",
+      "concepto": "Cargo Fijo",
+      "unidad": "$/MES",
+      "valores": [
+       0.0
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "2026 — Año del 1002 Aniversario de la sanción de la Ley de Derechos Civiles de la",
+      "concepto": "$/KWh 173,3031",
+      "unidad": null,
+      "valores": [
+       30.75,
+       204.0531
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Variable stes, 150 KWh-mes",
+      "concepto": "Cargo Variable exc. 300 KWh-mes",
+      "unidad": "$/KwWh",
+      "valores": [
+       173.3031
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Variable stes, 150 KWh-mes",
+      "concepto": "Cargo Fijo",
+      "unidad": "$/MES",
+      "valores": [
+       0.0
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "$/Kwh | 173,3031 | 103,2469 | 276,5500",
+      "concepto": "$/Kwh 173,3031",
+      "unidad": null,
+      "valores": [
+       30.75,
+       204.0531
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Variable exc. 500 KWh-mes",
+      "concepto": "Excedente s/Res. Sech. 9759",
+      "unidad": "$/Kwh",
+      "valores": [
+       43.3258,
+       32.6696,
+       75.9953
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Variable exc. 500 KWh-mes",
+      "concepto": "Excedente s/Res, Sech, 9759",
+      "unidad": "$/KWh",
+      "valores": [
+       43.3258,
+       32.6696,
+       75.9953
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Variable exc. 500 KWh-mes",
+      "concepto": "Cargo Fijo",
+      "unidad": "$/MES",
+      "valores": [
+       0.0,
+       3631.72,
+       3631.72
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "[cargo Variable 1ros. 50 KWh-mes",
+      "concepto": "Cargo Variable exc. 50 KWh-mes",
+      "unidad": "$/KWRh",
+      "valores": [
+       173.3031,
+       48.3844,
+       221.6875
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "ÓN CONSORCIOS SIN",
+      "concepto": "RESIDENCIAL CONSORCIOS CON Cargo Fijo",
+      "unidad": "$/MES",
+      "valores": [
+       0.0
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "s/xwhn | 1733031 | 30,75 | 204/0531",
+      "concepto": "$/Kwh 173,3031",
+      "unidad": null,
+      "valores": [
+       30.75,
+       204.0531
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Variable exc. 50 KWh-mes",
+      "concepto": "Cargo Fijo",
+      "unidad": "$/MES",
+      "valores": [
+       4081.33,
+       4081.33
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Variable exc. 50 KWh-mes",
+      "concepto": "Cargo Fijo",
+      "unidad": "$/MES",
+      "valores": [
+       0.0,
+       3631.72,
+       3631.72
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Variable 1ros. 50 KWh-mes",
+      "concepto": "Cargo Variable stes. 100 KWh-mes",
+      "unidad": "$/KWh",
+      "valores": [
+       173.3031
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Variable stes. 150 KWh-mes",
+      "concepto": "Cargo Variable exc. 300 KWh-mes",
+      "unidad": "$/KWh",
+      "valores": [
+       173.3031
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Variable stes. 150 KWh-mes",
+      "concepto": "Cargo Fijo",
+      "unidad": "$/MES",
+      "valores": [
+       0.0,
+       3631.72,
+       3631.72
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Variable stes. 150 KWh-mes",
+      "concepto": "Siguientes 50 Kwh",
+      "unidad": "$/Kwh",
+      "valores": [
+       86.6516,
+       24.1922,
+       110.8438
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Variable stes. 150 KWh-mes",
+      "concepto": "Cargo Fijo",
+      "unidad": "$/MES",
+      "valores": [
+       0.0
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Variable stes. 150 KWh-mes",
+      "concepto": "Primeros 50 Kwh",
+      "unidad": "$/KWh",
+      "valores": [
+       173.3031,
+       30.75,
+       204.0531
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Siguientes 30 Kwh",
+      "concepto": "Cargo Fijo",
+      "unidad": "$/MES",
+      "valores": [
+       0.0
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "$/Kwh | 173,3031",
+      "concepto": "$/KwWh 173,3031",
+      "unidad": null,
+      "valores": [
+       30.75,
+       204.0531
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Variable KWh-mes",
+      "concepto": "Cargo Fijo",
+      "unidad": "$/MES",
+      "valores": [
+       0.0
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Variable exc. KWh-mes",
+      "concepto": "Cargo Variable KWh-mes",
+      "unidad": "$/KWh",
+      "valores": [
+       170.147,
+       170.3844
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Variable KWh-mes",
+      "concepto": "Cargo Fijo",
+      "unidad": "$/MES",
+      "valores": [
+       0.0,
+       8156.77,
+       8156.77
+      ],
+      "columnas": null
+     }
+    ]
+   },
+   {
+    "titulo": "Página 7 — transcripción por OCR",
+    "filas": [
+     {
+      "grupo": "Energía del Chaco",
+      "concepto": "Cargo Fijo",
+      "unidad": "$/MES",
+      "valores": [
+       0.0
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Variable Exce. 2000 kwh",
+      "concepto": "Cargo Variable KWh-mes",
+      "unidad": "$/Kwh",
+      "valores": [
+       200.714
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Variable Exce. 2000 kwh",
+      "concepto": "Cargo Variable KWh-mes",
+      "unidad": "$/KWh",
+      "valores": [
+       200.714
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Variable Exce. 2000 kwh",
+      "concepto": "Cargo Fijo",
+      "unidad": "$/MES",
+      "valores": [
+       0.0
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Variable Exce. 2000 kwh",
+      "concepto": "Cargo Fijo",
+      "unidad": "$/MES",
+      "valores": [
+       0.0
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Variable Exce. 2000 kwh",
+      "concepto": "Cargo Fijo",
+      "unidad": "$/MES",
+      "valores": [
+       0.0
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Variable Exce. 2000 kwh",
+      "concepto": "Cargo Fijo",
+      "unidad": "$/MES",
+      "valores": [
+       0.0
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Variable Exce. 2000 kwh",
+      "concepto": "Cargo Potencia Adquirida",
+      "unidad": "$/KwW",
+      "valores": [
+       9126.82,
+       0.0,
+       9126.82
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Variable Exce. 2000 kwh",
+      "concepto": "Cargo Potencia Contratada en Punta",
+      "unidad": "$/Kw",
+      "valores": [
+       0.0,
+       6638.81,
+       6638.81
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Variable Exce. 2000 kwh",
+      "concepto": "Cargo Potencia Contratada Fuera Punta |$/KW",
+      "unidad": null,
+      "valores": [
+       0.0,
+       7769.96,
+       7769.96
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "$/kwh | 158/8904 | 46989 | 163,5893",
+      "concepto": "$/Kwh | 157,9517",
+      "unidad": null,
+      "valores": [
+       4.6989,
+       162.6506
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Valle",
+      "concepto": "Cargo Fijo",
+      "unidad": "$/MES",
+      "valores": [
+       0.0
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Valle",
+      "concepto": "Cargo Potencia Adquirida",
+      "unidad": "$/KW",
+      "valores": [
+       null,
+       0.0,
+       9126.82
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Valle",
+      "concepto": "Cargo Potencia Contratada en Punta",
+      "unidad": "$/KW",
+      "valores": [
+       0.0,
+       6638.81,
+       6638.81
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Valle",
+      "concepto": "Cargo Potencia Contratada Fuera Punta |5/KW",
+      "unidad": null,
+      "valores": [
+       0.0
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "[Cargo Energía Resto",
+      "concepto": "Cargo Energía Valle",
+      "unidad": "$/Kwh",
+      "valores": [
+       157.9517,
+       7.9989,
+       165.9506
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "[Cargo Energía Resto",
+      "concepto": "Cargo Fijo",
+      "unidad": "$/MES",
+      "valores": [
+       0.0
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "[Cargo Energía Resto",
+      "concepto": "Cargo Potencia Adquirida",
+      "unidad": "$/KW",
+      "valores": [
+       9126.82,
+       0.0,
+       9126.82
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "[Cargo Energía Resto",
+      "concepto": "Cargo Potencia Contratada en Punta",
+      "unidad": "$/KW",
+      "valores": [
+       0.0
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "[Cargo Energía Resto",
+      "concepto": "Cargo Potencia Contratada Fuera Punta ¡$/KW",
+      "unidad": null,
+      "valores": [
+       0.0
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "$/kwnh | 158,8904 | 4,6989 | 163,5893",
+      "concepto": "$/Kwh 1579517",
+      "unidad": null,
+      "valores": [
+       4.6989,
+       162.6506
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Valle",
+      "concepto": "Cargo Fijo",
+      "unidad": "$/MES",
+      "valores": [
+       0.0
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Valle",
+      "concepto": "Cargo Potencia Adquirida",
+      "unidad": "$/KW",
+      "valores": [
+       4563.41,
+       0.0,
+       4563.41
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Valle",
+      "concepto": "Cargo Potencia Contratada en Punta",
+      "unidad": "$/KW",
+      "valores": [
+       0.0,
+       3319.41,
+       3319.41
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Valle",
+      "concepto": "Cargo Potencia Contratada Fuera Punta |$/KW",
+      "unidad": null,
+      "valores": [
+       0.0
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "$/Kwh | 1588904 | 46989 | 163,5893",
+      "concepto": "$/Kwh | 157,9517",
+      "unidad": null,
+      "valores": [
+       4.6989,
+       162.6506
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Valle",
+      "concepto": "Cargo Fijo",
+      "unidad": "$/MES",
+      "valores": [
+       0.0
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Valle",
+      "concepto": "Cargo Potencia Adquirida",
+      "unidad": "$/KW",
+      "valores": [
+       9148.23,
+       0.0,
+       9148.23
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Valle",
+      "concepto": "Cargo Potencia Contratada en Punta",
+      "unidad": "$/KW",
+      "valores": [
+       0.0,
+       5103.46,
+       5103.46
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Valle",
+      "concepto": "Cargo Potencia Contratada Fuera Punta |5/KW",
+      "unidad": null,
+      "valores": [
+       0.0,
+       6907.37,
+       6907.37
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Energía Valle",
+      "unidad": "$/KWwh",
+      "valores": [
+       153.762,
+       3.8347,
+       157.5967
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Fijo",
+      "unidad": "$/MES",
+      "valores": [
+       0.0
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Potencia Adquirida",
+      "unidad": "$5/Kw",
+      "valores": [
+       9148.23,
+       0.0,
+       9148.23
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Potencia Contratada en Punta",
+      "unidad": "$/KW",
+      "valores": [
+       0.0,
+       5103.46,
+       5103.46
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Potencia Contratada Fuera Punta |$/KW",
+      "unidad": null,
+      "valores": [
+       0.0,
+       7170.37,
+       7170.37
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "$/Kwh | 1546758 | 7,1347 | 161,8105",
+      "concepto": "$/Kwh | 153,7620",
+      "unidad": null,
+      "valores": [
+       7.1347,
+       160.8967
+      ],
+      "columnas": null
+     }
+    ]
+   },
+   {
+    "titulo": "Página 8 — transcripción por OCR",
+    "filas": [
+     {
+      "grupo": "Energía del Chaco",
+      "concepto": "Cargo Fijo",
+      "unidad": "$/MES",
+      "valores": [
+       0.0
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "GRANDES POTENCIAS",
+      "concepto": "Cargo Potencia Adquirida",
+      "unidad": "$/Kw",
+      "valores": [
+       9148.23,
+       0.0,
+       9148.23
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "CLUBES - Ley N? 27.098",
+      "concepto": "Cargo Potencia Contratada en Punta — [$/KW",
+      "unidad": null,
+      "valores": [
+       0.0
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "CLUBES - Ley N? 27.098",
+      "concepto": "Cargo Potencia Contratada Fuera Punta |$/KW",
+      "unidad": null,
+      "valores": [
+       0.0,
+       6907.37,
+       6907.37
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "2026 — Año del 1002 Aniversario de lo sanción de la Ley de Derechos Civiles de la",
+      "concepto": "$/Kwh | 159,4685",
+      "unidad": null,
+      "valores": [
+       3.8347,
+       163.3032
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Energía Valle",
+      "unidad": "$/KwWh",
+      "valores": [
+       153.762,
+       3.8347,
+       157.5967
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Fijo",
+      "unidad": "$/MES",
+      "valores": [
+       0.0
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Potencia Adquirida",
+      "unidad": "$/KW",
+      "valores": [
+       4574.12,
+       0.0,
+       4574.12
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Potencia Contratada en Punta",
+      "unidad": "$/KW",
+      "valores": [
+       0.0
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Potencia Contratada Fuera Punta |$/KW",
+      "unidad": null,
+      "valores": [
+       0.0,
+       3453.69,
+       3453.69
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Energía Valle",
+      "unidad": "$/Kwh",
+      "valores": [
+       153.762,
+       3.8347,
+       157.5967
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Fijo",
+      "unidad": "$/MES",
+      "valores": [
+       0.0
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Potencia Adquirida",
+      "unidad": "$/KW",
+      "valores": [
+       9126.82,
+       0.0,
+       9126.82
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Potencia Contratada en Punta",
+      "unidad": "$/KW",
+      "valores": [
+       0.0
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Potencia Contratada Fuera Punta |5/KW",
+      "unidad": null,
+      "valores": [
+       0.0,
+       7769.96,
+       7769.96
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "5$/Kwh | 180,0887",
+      "concepto": "$/Kwh | 174,5638",
+      "unidad": null,
+      "valores": [
+       4.6989,
+       179.2627
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "5$/Kwh | 180,0887",
+      "concepto": "$/KWh | 173,5097",
+      "unidad": null,
+      "valores": [
+       4.6989,
+       178.2086
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Valle",
+      "concepto": "Cargo Fijo",
+      "unidad": "$/MES",
+      "valores": [
+       0.0
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Valle",
+      "concepto": "Cargo Potencia Adquirida",
+      "unidad": "$/KW",
+      "valores": [
+       9126.82,
+       0.0,
+       9126.82
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Valle",
+      "concepto": "Cargo Potencia Contratada en Punta",
+      "unidad": "$/KW",
+      "valores": [
+       0.0,
+       6638.81,
+       6638.81
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Valle",
+      "concepto": "Cargo Potencia Contratada Fuera Punta |$/KW",
+      "unidad": null,
+      "valores": [
+       0.0
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "5$/Kwh | 180,0887",
+      "concepto": "$/KwWh | 180,0887",
+      "unidad": null,
+      "valores": [
+       7.9989,
+       188.0876
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "$/Kwh | 174,55638 | 7,9989 | 182,5627",
+      "concepto": "$/KWh | 173,5097",
+      "unidad": null,
+      "valores": [
+       7.9989,
+       181.5086
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Valle",
+      "concepto": "Cargo Fijo",
+      "unidad": "$/MES",
+      "valores": [
+       0.0
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Valle",
+      "concepto": "Cargo Potencia Adquirida",
+      "unidad": "$/KW",
+      "valores": [
+       9126.82,
+       0.0,
+       9126.82
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Valle",
+      "concepto": "Cargo Potencia Contratada en Punta",
+      "unidad": "$/KwW",
+      "valores": [
+       0.0
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Valle",
+      "concepto": "Cargo Potencia Contratada Fuera Punta |$/KW",
+      "unidad": null,
+      "valores": [
+       0.0
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "$/Kwh | 180,0887",
+      "concepto": "$/KWh | 174,5638",
+      "unidad": null,
+      "valores": [
+       4.6989,
+       179.2627
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "$/Kwh | 180,0887",
+      "concepto": "$/Kwh | 173,5097",
+      "unidad": null,
+      "valores": [
+       4.6989,
+       178.2086
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Valle",
+      "concepto": "Cargo Fijo",
+      "unidad": "$/MES",
+      "valores": [
+       0.0
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Valle",
+      "concepto": "Cargo Potencia Adquirida",
+      "unidad": "$/KW",
+      "valores": [
+       4563.41,
+       0.0,
+       4563.41
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Valle",
+      "concepto": "Cargo Potencia Contratada en Punta",
+      "unidad": "$/KW",
+      "valores": [
+       0.0,
+       3319.41,
+       3319.41
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Valle",
+      "concepto": "Cargo Potencia Contratada Fuera Punta |$/KwW",
+      "unidad": null,
+      "valores": [
+       0.0
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Energía Valle",
+      "unidad": "$/KWh",
+      "valores": [
+       173.5097,
+       4.6989,
+       178.2086
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Fijo",
+      "unidad": "$/MES",
+      "valores": [
+       0.0
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Potencia Adquirida",
+      "unidad": "$/KW",
+      "valores": [
+       9148.23,
+       0.0,
+       null
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Potencia Contratada en Punta",
+      "unidad": "$/KW",
+      "valores": [
+       0.0,
+       5103.46,
+       5103.46
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Potencia Contratada Fuera Punta |$/KW",
+      "unidad": null,
+      "valores": [
+       0.0,
+       6907.37,
+       6907.37
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Energía Pico",
+      "unidad": "$/KWh",
+      "valores": [
+       175.31
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Energía Resto",
+      "unidad": "$/KWh",
+      "valores": [
+       169.93,
+       3.8347,
+       173.7682
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Energía Valle",
+      "unidad": "$/KWh",
+      "valores": [
+       168.91,
+       3.8347,
+       172.742
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Fijo",
+      "unidad": "$/MES",
+      "valores": [
+       0.0
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Potencia Adquirida",
+      "unidad": "$/KW",
+      "valores": [
+       9148.23,
+       0.0,
+       9148.23
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Potencia Contratada en Punta",
+      "unidad": "$/KW",
+      "valores": [
+       0.0,
+       5103.46,
+       5103.46
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Potencia Contratada Fuera Punta |$/KW",
+      "unidad": null,
+      "valores": [
+       0.0,
+       7170.37,
+       7170.37
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo 47 Valle",
+      "unidad": "$/KWh",
+      "valores": [
+       168.9073,
+       null,
+       176.042
+      ],
+      "columnas": null
+     }
+    ]
+   },
+   {
+    "titulo": "Página 9 — transcripción por OCR",
+    "filas": [
+     {
+      "grupo": "Energía del Chaco",
+      "concepto": "Cargo Fijo",
+      "unidad": "$/MES",
+      "valores": [
+       0.0
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "GRANDES POTENCIAS",
+      "concepto": "Cargo Potencia Adquirida",
+      "unidad": "$/KW",
+      "valores": [
+       9148.23,
+       0.0,
+       9148.23
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "CLUBES - Ley N? 27.098",
+      "concepto": "Cargo Potencia Contratada en Punta",
+      "unidad": "$/KWw",
+      "valores": [
+       0.0
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "CLUBES - Ley N? 27.098",
+      "concepto": "Cargo Potencia Contratada Fuera Punta |$/KW",
+      "unidad": null,
+      "valores": [
+       0.0
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Energía Valle",
+      "unidad": "$/Kwh",
+      "valores": [
+       168.91,
+       3.8347,
+       172.742
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Fijo",
+      "unidad": "$/MES",
+      "valores": [
+       0.0
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Potencia Adquirida",
+      "unidad": "$/KW",
+      "valores": [
+       4574.12,
+       0.0,
+       4574.12
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Potencia Contratada en Punta",
+      "unidad": "$/KW",
+      "valores": [
+       0.0
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Potencia Contratada Fuera Punta |$/KW",
+      "unidad": null,
+      "valores": [
+       0.0,
+       3453.69,
+       3453.69
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "2026—Año del 1002 Aniversario de la sanción de la Ley de Derechos Civiles de la",
+      "concepto": "$/Kwh | 175,3119",
+      "unidad": null,
+      "valores": [
+       3.8347,
+       179.1466
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Energía Valle",
+      "unidad": "$/Kwh",
+      "valores": [
+       168.9073,
+       3.8347,
+       172.742
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Fijo",
+      "unidad": "$/MES",
+      "valores": [
+       0.0
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Potencia Adquirida",
+      "unidad": "$/KW",
+      "valores": [
+       8991.78,
+       0.0,
+       8991.78
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "MEDIA TENSIÓN>300 KW",
+      "concepto": "COOPERATIVA ELECTRIFICACIÓN |Cargo Potencia Contratada en Punta",
+      "unidad": "$/KW",
+      "valores": [
+       0.0,
+       null,
+       null
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Resto",
+      "concepto": "Cargo Potencia Contratada Fuera Punta [$/KW",
+      "unidad": null,
+      "valores": [
+       0.0,
+       4139.09,
+       4139.09
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Pico",
+      "concepto": "Cargo Energía Resto",
+      "unidad": "$/Kwh",
+      "valores": [
+       152.4281,
+       3.62,
+       156.0481
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "$/KWh | 157,1511",
+      "concepto": "$/KWh 151,5275",
+      "unidad": null,
+      "valores": [
+       3.62,
+       155.1475
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Valle",
+      "concepto": "Cargo Fijo",
+      "unidad": "$/MES",
+      "valores": [
+       0.0
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Valle",
+      "concepto": "Cargo Potencia Contratada en Punta",
+      "unidad": "$/KwW",
+      "valores": [
+       1127.85
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "RURAL Y DISTRBUIDOR",
+      "concepto": "PEAJE POR TRANSPORTE FIRME — [Cargo Potencia Contratada Fuera Punta |$/KW",
+      "unidad": null,
+      "valores": [
+       0.0,
+       8032.96,
+       8032.96
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Pico",
+      "concepto": "Cargo Energía Resto",
+      "unidad": "$/Kwh",
+      "valores": [
+       16.0151,
+       7.9989,
+       24.014
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Pico",
+      "concepto": "Cargo Energía Valle",
+      "unidad": "$/Kwh",
+      "valores": [
+       15.9064,
+       7.9989,
+       23.9053
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Pico",
+      "concepto": "Cargo Fijo",
+      "unidad": "$/MES",
+      "valores": [
+       0.0
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Pico",
+      "concepto": "Cargo Potencia Contratada en Punta",
+      "unidad": "$/KW",
+      "valores": [
+       1127.85,
+       6638.81,
+       7766.66
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "BAJA TENSIÓN < 300 KW",
+      "concepto": "BAJA PENSIÓN > 300 KW FIRME Cargo Potencia Contratada Fuera Punta |$/KW",
+      "unidad": null,
+      "valores": [
+       0.0,
+       8032.96,
+       8032.96
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Pico",
+      "concepto": "Cargo Energía Pico",
+      "unidad": "$/KwWh",
+      "valores": [
+       18.4705,
+       7.9989,
+       26.4694
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Pico",
+      "concepto": "Cargo Energía Resto",
+      "unidad": "$/KWh",
+      "valores": [
+       17.8305,
+       7.9989,
+       25.8294
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Pico",
+      "concepto": "Cargo Energía Valle",
+      "unidad": "$/Kwh",
+      "valores": [
+       17.7084,
+       7.9989,
+       25.7073
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Pico",
+      "concepto": "Cargo Fijo",
+      "unidad": "$/MES",
+      "valores": [
+       0.0
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Pico",
+      "concepto": "Cargo Potencia Contratada en Punta",
+      "unidad": "$/KW",
+      "valores": [
+       914.0,
+       5103.46,
+       6017.46
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "BAJA TENSIÓN < 300 KW",
+      "concepto": "ÓN Cargo Potencia Contratada Fuera Punta ¡$/KW",
+      "unidad": null,
+      "valores": [
+       0.0
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Pico",
+      "concepto": "Cargo Energía Pico",
+      "unidad": "$/Kwh",
+      "valores": [
+       12.7873,
+       7.1347,
+       19.922
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Pico",
+      "concepto": "Cargo Energía Resto",
+      "unidad": "$/KWh",
+      "valores": [
+       12.3476,
+       7.1347,
+       19.4823
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Pico",
+      "concepto": "Cargo Energía Valle",
+      "unidad": "$/Kwh",
+      "valores": [
+       12.2638,
+       7.1347,
+       19.3985
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Pico",
+      "concepto": "Cargo Fijo",
+      "unidad": "$/MES",
+      "valores": [
+       0.0
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Pico",
+      "concepto": "Cargo Potencia Contratada en Punta",
+      "unidad": "$/KW",
+      "valores": [
+       914.0,
+       5103.46,
+       6017.46
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "BAJA TENSIÓN < 300 KW",
+      "concepto": "PEAJE POR TRANSPORTE FIRME — |Cargo Potencia Contratada Fuera Punta |$/KW",
+      "unidad": null,
+      "valores": [
+       0.0,
+       null,
+       7170.37
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Pico",
+      "concepto": "Cargo Energía Resto",
+      "unidad": "$/Kwh",
+      "valores": [
+       13.7473,
+       7.1347,
+       20.882
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Cargo Energía Pico",
+      "concepto": "Cargo Energía Valle",
+      "unidad": "$/Kwh",
+      "valores": [
+       13.6531,
+       7.1347,
+       20.7878
+      ],
+      "columnas": null
+     }
+    ]
+   }
+  ]
  }
 ]
