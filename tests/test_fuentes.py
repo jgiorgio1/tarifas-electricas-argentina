@@ -106,7 +106,7 @@ def test_edese_con_subsidio_section():
     from parsers import PARSERS
     from simulador import SUB_BUILDERS
     import pathlib
-    t = (pathlib.Path(__file__).parent.parent / "site/data/textos/edese.txt").read_text()
+    t = (pathlib.Path(__file__).parent / "fixtures/textos/edese-2026-10.txt").read_text()
     r = PARSERS["edese"](t)
     c = SUB_BUILDERS["edese"](r["tablas"])["categorias"][0]
     assert c["hasta"] == 300 and c["fijo"] == 4383.42 and c["escalones"] == [[None, 110.098]]
@@ -116,7 +116,7 @@ def test_epe_con_subsidio_por_zona():
     import pathlib
     from parsers import PARSERS
     from simulador import SUB_BUILDERS
-    t = (pathlib.Path(__file__).parent.parent / "site/data/textos/epe.txt").read_text()
+    t = (pathlib.Path(__file__).parent / "fixtures/textos/epe.txt").read_text()
     s = SUB_BUILDERS["epe"](PARSERS["epe"](t)["tablas"])
     z = {x["id"]: x["categorias"] for x in s["zonas"]}
     assert sorted(z) == ["I", "II", "III"]
@@ -129,7 +129,7 @@ def test_edelar_con_subsidio_por_zona():
     import pathlib
     from parsers import PARSERS
     from simulador import SUB_BUILDERS
-    t = (pathlib.Path(__file__).parent.parent / "site/data/textos/edelar.txt").read_text()
+    t = (pathlib.Path(__file__).parent / "fixtures/textos/edelar.txt").read_text()
     s = SUB_BUILDERS["edelar"](PARSERS["edelar"](t)["tablas"])
     z = {x["id"]: x["categorias"] for x in s["zonas"]}
     assert sorted(z) == ["I", "II", "III"]
@@ -140,7 +140,9 @@ def test_edelar_con_subsidio_por_zona():
 
 
 def _txt(name):
-    return (Path(__file__).resolve().parents[1] / "site/data/textos" / f"{name}.txt").read_text()
+    # Frozen copies: site/data/textos changes with every daily update, so tests that pin values
+    # must never read it (a new monthly cuadro would break the run that publishes it).
+    return (Path(__file__).resolve().parent / "fixtures/textos" / f"{name}.txt").read_text()
 
 
 def test_emsa_sin_subsidio():
