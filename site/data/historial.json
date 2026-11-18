@@ -33686,5 +33686,1269 @@
     ]
    }
   ]
+ },
+ {
+  "id": "epen",
+  "detectado": "2026-11-18T09:53:22+00:00",
+  "sha256": "5864d6ae719bf7e793beb64840e5db5eac95c227f8c94436593a9f7710e2de68",
+  "url": "https://www.epen.gov.ar/wp-content/uploads/2026/11/CT-consumos-09-2026.pdf",
+  "titulo": "CT-consumos-09-2026.pdf",
+  "vigencia": "PERÍODO DE FACTURACIÓN OCTUBRE - CONSUMOS SEPTIEMBRE 2026",
+  "tablas": [
+   {
+    "titulo": "T1 Residencial",
+    "filas": [
+     {
+      "grupo": "T1-R1-Consumo mensual inferior o igual a 50 KWh Unidad",
+      "concepto": "Cargo fijo",
+      "unidad": "$/mes",
+      "valores": [
+       9940.22
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "T1-R1-Consumo mensual inferior o igual a 50 KWh Unidad",
+      "concepto": "Cargo variable por energía - SIN SUBSIDIO",
+      "unidad": "$/KWh",
+      "valores": [
+       395.196
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "T1-R1-Consumo mensual inferior o igual a 50 KWh Unidad",
+      "concepto": "Cargo variable por energía - CON SUBSIDIO",
+      "unidad": "$/KWh",
+      "valores": [
+       195.632
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "T1-R2-Consumo mensual mayor a 50 KWh e inferior o igual a 100 KWh",
+      "concepto": "Cargo fijo",
+      "unidad": "$/mes",
+      "valores": [
+       10094.07
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "T1-R2-Consumo mensual mayor a 50 KWh e inferior o igual a 100 KWh",
+      "concepto": "Cargo variable por energía - SIN SUBSIDIO",
+      "unidad": "$/KWh",
+      "valores": [
+       370.837
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "T1-R2-Consumo mensual mayor a 50 KWh e inferior o igual a 100 KWh",
+      "concepto": "Cargo variable por energía - CON SUBSIDIO",
+      "unidad": "$/KWh",
+      "valores": [
+       173.833
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "T1-R3-Consumo mensual mayor a 100 KWh e inferior o igual a 250 KWh",
+      "concepto": "Cargo fijo",
+      "unidad": "$/mes",
+      "valores": [
+       11800.72
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "T1-R3-Consumo mensual mayor a 100 KWh e inferior o igual a 250 KWh",
+      "concepto": "Cargo variable por energía - SIN SUBSIDIO",
+      "unidad": "$/KWh",
+      "valores": [
+       360.21
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "T1-R3-Consumo mensual mayor a 100 KWh e inferior o igual a 250 KWh",
+      "concepto": "Cargo variable por energía - CON SUBSIDIO",
+      "unidad": "$/KWh",
+      "valores": [
+       161.987
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "T1-R4-Consumo mensual mayor a 250 KWh e inferior o igual a 500 KWh",
+      "concepto": "Cargo fijo",
+      "unidad": "$/mes",
+      "valores": [
+       17861.4
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "T1-R4-Consumo mensual mayor a 250 KWh e inferior o igual a 500 KWh",
+      "concepto": "Cargo variable por energía - SIN SUBSIDIO",
+      "unidad": "$/KWh",
+      "valores": [
+       355.156
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "T1-R4-Consumo mensual mayor a 250 KWh e inferior o igual a 500 KWh",
+      "concepto": "Cargo variable por energía - CON SUBSIDIO primeros 200 KWh",
+      "unidad": "$/KWh",
+      "valores": [
+       156.351
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "T1-R4-Consumo mensual mayor a 250 KWh e inferior o igual a 500 KWh",
+      "concepto": "Cargo variable por energía - CON SUBSIDIO excedente de 200 KWh",
+      "unidad": "$/KWh",
+      "valores": [
+       355.156
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "T1-R5-Consumo mensual mayor a 500 KWh e inferior o igual a 700 KWh",
+      "concepto": "Cargo fijo",
+      "unidad": "$/mes",
+      "valores": [
+       31332.26
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "T1-R5-Consumo mensual mayor a 500 KWh e inferior o igual a 700 KWh",
+      "concepto": "Cargo variable por energía - SIN SUBSIDIO",
+      "unidad": "$/KWh",
+      "valores": [
+       350.853
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "T1-R5-Consumo mensual mayor a 500 KWh e inferior o igual a 700 KWh",
+      "concepto": "Cargo variable por energía - CON SUBSIDIO primeros 200 KWh",
+      "unidad": "$/KWh",
+      "valores": [
+       151.556
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "T1-R5-Consumo mensual mayor a 500 KWh e inferior o igual a 700 KWh",
+      "concepto": "Cargo variable por energía - CON SUBSIDIO excedente de 200 KWh",
+      "unidad": "$/KWh",
+      "valores": [
+       350.853
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "T1-R6-Consumo mensual mayor a 700 KWh e inferior o igual a 1400 KWh",
+      "concepto": "Cargo fijo",
+      "unidad": "$/mes",
+      "valores": [
+       38202.48
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "T1-R6-Consumo mensual mayor a 700 KWh e inferior o igual a 1400 KWh",
+      "concepto": "Cargo variable por energía - SIN SUBSIDIO",
+      "unidad": "$/KWh",
+      "valores": [
+       346.605
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "T1-R6-Consumo mensual mayor a 700 KWh e inferior o igual a 1400 KWh",
+      "concepto": "Cargo variable por energía - CON SUBSIDIO primeros 200 KWh",
+      "unidad": "$/KWh",
+      "valores": [
+       146.818
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "T1-R6-Consumo mensual mayor a 700 KWh e inferior o igual a 1400 KWh",
+      "concepto": "Cargo variable por energía - CON SUBSIDIO excedente de 200 KWh",
+      "unidad": "$/KWh",
+      "valores": [
+       346.605
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "T1-R7-Consumo mensual mayor a 1400 KWh",
+      "concepto": "Cargo fijo",
+      "unidad": "$/mes",
+      "valores": [
+       59671.13
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "T1-R7-Consumo mensual mayor a 1400 KWh",
+      "concepto": "Cargo variable por energía - SIN SUBSIDIO",
+      "unidad": "$/KWh",
+      "valores": [
+       341.757
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "T1-R7-Consumo mensual mayor a 1400 KWh",
+      "concepto": "Cargo variable por energía - CON SUBSIDIO primeros 200 KWh",
+      "unidad": "$/KWh",
+      "valores": [
+       141.414
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "T1-R7-Consumo mensual mayor a 1400 KWh",
+      "concepto": "Cargo variable por energía - CON SUBSIDIO excedente de 200 KWh",
+      "unidad": "$/KWh",
+      "valores": [
+       341.757
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "T1-RE-Consumo Mensual Estacional",
+      "concepto": "Cargo fijo (haya o no consumo)",
+      "unidad": "$/mes",
+      "valores": [
+       28523.61
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "T1-RE-Consumo Mensual Estacional",
+      "concepto": "Cargo variable por energía - SIN SUBSIDIO",
+      "unidad": "$/KWh",
+      "valores": [
+       424.726
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "T1-RE-Consumo Mensual Estacional",
+      "concepto": "Cargo fijo (Faya o no consumo)",
+      "unidad": "$/mes",
+      "valores": [
+       9940.22
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "T1-RE-Consumo Mensual Estacional",
+      "concepto": "Cargo variable por energía",
+      "unidad": "$/KWh",
+      "valores": [
+       195.632
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "T1-RE-Consumo Mensual Estacional",
+      "concepto": "Cargo fijo",
+      "unidad": "$/mes",
+      "valores": [
+       10094.07
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "T1-RE-Consumo Mensual Estacional",
+      "concepto": "Cargo variable por energía",
+      "unidad": "$/KWh",
+      "valores": [
+       173.833
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "T1-RE-Consumo Mensual Estacional",
+      "concepto": "Cargo fijo",
+      "unidad": "$/mes",
+      "valores": [
+       11800.72
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "T1-RE-Consumo Mensual Estacional",
+      "concepto": "Cargo variable por energía",
+      "unidad": "$/KWh",
+      "valores": [
+       161.987
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "T1-RE-Consumo Mensual Estacional",
+      "concepto": "Cargo variable por energía - CON SUBSIDIO excedente de 200 KWh",
+      "unidad": "$/KWh",
+      "valores": [
+       360.21
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "T1-RE-Consumo Mensual Estacional",
+      "concepto": "Cargo fijo",
+      "unidad": "$/mes",
+      "valores": [
+       17861.4
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "T1-RE-Consumo Mensual Estacional",
+      "concepto": "Cargo variable por energía - CON SUBSIDIO primeros 200 KWh",
+      "unidad": "$/KWh",
+      "valores": [
+       156.351
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "T1-RE-Consumo Mensual Estacional",
+      "concepto": "Cargo variable por energía - CON SUBSIDIO excedente de 200 KWh",
+      "unidad": "$/KWh",
+      "valores": [
+       355.156
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "T1-RE-Consumo Mensual Estacional",
+      "concepto": "Cargo fijo",
+      "unidad": "$/mes",
+      "valores": [
+       31332.26
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "T1-RE-Consumo Mensual Estacional",
+      "concepto": "Cargo variable por energía - CON SUBSIDIO primeros 200 KWh",
+      "unidad": "$/KWh",
+      "valores": [
+       151.556
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "T1-RE-Consumo Mensual Estacional",
+      "concepto": "Cargo variable por energía - CON SUBSIDIO excedente de 200 KWh",
+      "unidad": "$/KWh",
+      "valores": [
+       350.853
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "T1-RE-Consumo Mensual Estacional",
+      "concepto": "Cargo fijo",
+      "unidad": "$/mes",
+      "valores": [
+       38202.48
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "T1-RE-Consumo Mensual Estacional",
+      "concepto": "Cargo variable por energía - CON SUBSIDIO primeros 200 KWh",
+      "unidad": "$/KWh",
+      "valores": [
+       146.818
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "T1-RE-Consumo Mensual Estacional",
+      "concepto": "Cargo variable por energía - CON SUBSIDIO excedente de 200 KWh",
+      "unidad": "$/KWh",
+      "valores": [
+       346.605
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "T1-RE-Consumo Mensual Estacional",
+      "concepto": "Cargo fijo",
+      "unidad": "$/mes",
+      "valores": [
+       59671.13
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "T1-RE-Consumo Mensual Estacional",
+      "concepto": "Cargo variable por energía - CON SUBSIDIO primeros 200 KWh",
+      "unidad": "$/KWh",
+      "valores": [
+       141.414
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "T1-RE-Consumo Mensual Estacional",
+      "concepto": "Cargo variable por energía - CON SUBSIDIO excedente de 200 KWh",
+      "unidad": "$/KWh",
+      "valores": [
+       341.757
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "T1-RE-Consumo Mensual Estacional",
+      "concepto": "Bonificación S/T1-E-Residencial Electrodependiente",
+      "unidad": "$/KWh",
+      "valores": [
+       -32.75
+      ],
+      "columnas": null
+     }
+    ]
+   },
+   {
+    "titulo": "T2 (10 a < 50 kW) — Servi ci o en Ba ja Tens i ón",
+    "filas": [
+     {
+      "grupo": null,
+      "concepto": "Por ca pa ci da d de s umi ni s tro contra ta da",
+      "unidad": "$/KW-mes",
+      "valores": [
+       49188.4
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": null,
+      "concepto": "Ca rgo va ri a bl e por Energía",
+      "unidad": "$/KWh",
+      "valores": [
+       416.293
+      ],
+      "columnas": null
+     }
+    ]
+   },
+   {
+    "titulo": "T2 (10 a < 50 kW) — Servi ci o en Medi a Tens i ón",
+    "filas": [
+     {
+      "grupo": null,
+      "concepto": "Por ca pa ci da d de s umi ni s tro contra ta da",
+      "unidad": "$/KW-mes",
+      "valores": [
+       24799.27
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": null,
+      "concepto": "Ca rgo va ri a bl e por Energía",
+      "unidad": "$/KWh",
+      "valores": [
+       387.781
+      ],
+      "columnas": null
+     }
+    ]
+   },
+   {
+    "titulo": "T3 (≥ 50 kW) — Servicio en Baja Tensión",
+    "filas": [
+     {
+      "grupo": null,
+      "concepto": "Por capacidad de suministro contratada en horas pico",
+      "unidad": "$/KW-mes",
+      "valores": [
+       56707.11
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": null,
+      "concepto": "Por capacidad de suministro contratada en horas fuera de pico",
+      "unidad": "$/KW-mes",
+      "valores": [
+       43522.61
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Capacidad de suministro menor a 300 KW",
+      "concepto": "Por consumo de energía en período horas restante",
+      "unidad": "$/KWh",
+      "valores": [
+       373.214
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Capacidad de suministro menor a 300 KW",
+      "concepto": "Por consumo de energía en período horas valle/nocturno",
+      "unidad": "$/KWh",
+      "valores": [
+       368.801
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Capacidad de suministro menor a 300 KW",
+      "concepto": "Por consumo de energía en período horas pico",
+      "unidad": "$/KWh",
+      "valores": [
+       381.805
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Capacidad de suministro igual o mayor a 300 KW Organismo Públicos Salud / Educación",
+      "concepto": "Por consumo de energía en período horas restante",
+      "unidad": "$/KWh",
+      "valores": [
+       373.214
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Capacidad de suministro igual o mayor a 300 KW Organismo Públicos Salud / Educación",
+      "concepto": "Por consumo de energía en período horas valle/nocturno",
+      "unidad": "$/KWh",
+      "valores": [
+       368.801
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Capacidad de suministro igual o mayor a 300 KW Organismo Públicos Salud / Educación",
+      "concepto": "Por consumo de energía en período horas pico",
+      "unidad": "$/KWh",
+      "valores": [
+       381.805
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Capacidad de suministro igual o mayor a 300 KW Resto",
+      "concepto": "Por capacidad de suministro contratada en horas pico",
+      "unidad": "$/KW-mes",
+      "valores": [
+       67677.19
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Capacidad de suministro igual o mayor a 300 KW Resto",
+      "concepto": "Por capacidad de suministro contratada en horas fuera de pico",
+      "unidad": "$/KW-mes",
+      "valores": [
+       53478.5
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Capacidad de suministro igual o mayor a 300 KW Resto",
+      "concepto": "Por consumo de energía en período horas restante",
+      "unidad": "$/KWh",
+      "valores": [
+       377.281
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Capacidad de suministro igual o mayor a 300 KW Resto",
+      "concepto": "Por consumo de energía en período horas valle/nocturno",
+      "unidad": "$/KWh",
+      "valores": [
+       373.323
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Capacidad de suministro igual o mayor a 300 KW Resto",
+      "concepto": "Por consumo de energía en período horas pico",
+      "unidad": "$/KWh",
+      "valores": [
+       385.606
+      ],
+      "columnas": null
+     }
+    ]
+   },
+   {
+    "titulo": "T3 (≥ 50 kW) — Servicio en Media Tensión",
+    "filas": [
+     {
+      "grupo": null,
+      "concepto": "Por capacidad de suministro contratada en horas pico",
+      "unidad": "$/KW-mes",
+      "valores": [
+       27836.19
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": null,
+      "concepto": "Por capacidad de suministro contratada en horas fuera de pico",
+      "unidad": "$/KW-mes",
+      "valores": [
+       23043.68
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Capacidad de suministro menor a 300 KW",
+      "concepto": "Por consumo de energía en período horas restante",
+      "unidad": "$/KWh",
+      "valores": [
+       343.993
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Capacidad de suministro menor a 300 KW",
+      "concepto": "Por consumo de energía en período horas valle/nocturno",
+      "unidad": "$/KWh",
+      "valores": [
+       348.356
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Capacidad de suministro menor a 300 KW",
+      "concepto": "Por consumo de energía en período horas pico",
+      "unidad": "$/KWh",
+      "valores": [
+       343.467
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Capacidad de suministro igual o mayor a 300 KW Organismo Públicos Salud / Educación",
+      "concepto": "Por consumo de energía en período horas restante",
+      "unidad": "$/KWh",
+      "valores": [
+       350.102
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Capacidad de suministro igual o mayor a 300 KW Organismo Públicos Salud / Educación",
+      "concepto": "Por consumo de energía en período horas valle/nocturno",
+      "unidad": "$/KWh",
+      "valores": [
+       349.048
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Capacidad de suministro igual o mayor a 300 KW Organismo Públicos Salud / Educación",
+      "concepto": "Por consumo de energía en período horas pico",
+      "unidad": "$/KWh",
+      "valores": [
+       357.277
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Capacidad de suministro igual o mayor a 300 KW Resto",
+      "concepto": "Por capacidad de suministro contratada en horas pico",
+      "unidad": "$/KW-mes",
+      "valores": [
+       23381.2
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Capacidad de suministro igual o mayor a 300 KW Resto",
+      "concepto": "Por capacidad de suministro contratada en horas fuera de pico",
+      "unidad": "$/KW-mes",
+      "valores": [
+       19938.06
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Capacidad de suministro igual o mayor a 300 KW Resto",
+      "concepto": "Por consumo de energía en período horas restante",
+      "unidad": "$/KWh",
+      "valores": [
+       346.731
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Capacidad de suministro igual o mayor a 300 KW Resto",
+      "concepto": "Por consumo de energía en período horas valle/nocturno",
+      "unidad": "$/KWh",
+      "valores": [
+       351.181
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Capacidad de suministro igual o mayor a 300 KW Resto",
+      "concepto": "Por consumo de energía en período horas pico",
+      "unidad": "$/KWh",
+      "valores": [
+       353.991
+      ],
+      "columnas": null
+     }
+    ]
+   },
+   {
+    "titulo": "T3 (≥ 50 kW) — Servicio en Alta Tensión",
+    "filas": [
+     {
+      "grupo": null,
+      "concepto": "Por capacidad de suministro contratada en horas pico",
+      "unidad": "$/KW-mes",
+      "valores": [
+       20806.62
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": null,
+      "concepto": "Por capacidad de suministro contratada en horas fuera de pico",
+      "unidad": "$/KW-mes",
+      "valores": [
+       19327.38
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Capacidad de suministro menor a 300 KW",
+      "concepto": "Por consumo de energía en período horas restante",
+      "unidad": "$/KWh",
+      "valores": [
+       267.822
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Capacidad de suministro menor a 300 KW",
+      "concepto": "Por consumo de energía en período horas valle/nocturno",
+      "unidad": "$/KWh",
+      "valores": [
+       265.557
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Capacidad de suministro menor a 300 KW",
+      "concepto": "Por consumo de energía en período horas pico",
+      "unidad": "$/KWh",
+      "valores": [
+       273.647
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Capacidad de suministro igual o mayor a 300 KW Organismo Públicos Salud / Educación",
+      "concepto": "Por consumo de energía en período horas restante",
+      "unidad": "$/KWh",
+      "valores": [
+       271.498
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Capacidad de suministro igual o mayor a 300 KW Organismo Públicos Salud / Educación",
+      "concepto": "Por consumo de energía en período horas valle/nocturno",
+      "unidad": "$/KWh",
+      "valores": [
+       280.496
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Capacidad de suministro igual o mayor a 300 KW Organismo Públicos Salud / Educación",
+      "concepto": "Por consumo de energía en período horas pico",
+      "unidad": "$/KWh",
+      "valores": [
+       273.097
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Capacidad de suministro igual o mayor a 300 KW Resto",
+      "concepto": "Por capacidad de suministro contratada en horas pico",
+      "unidad": "$/KW-mes",
+      "valores": [
+       21013.47
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Capacidad de suministro igual o mayor a 300 KW Resto",
+      "concepto": "Por capacidad de suministro contratada en horas fuera de pico",
+      "unidad": "$/KW-mes",
+      "valores": [
+       19849.67
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Capacidad de suministro igual o mayor a 300 KW Resto",
+      "concepto": "Por consumo de energía en período horas restante",
+      "unidad": "$/KWh",
+      "valores": [
+       310.373
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Capacidad de suministro igual o mayor a 300 KW Resto",
+      "concepto": "Por consumo de energía en período horas valle/nocturno",
+      "unidad": "$/KWh",
+      "valores": [
+       311.135
+      ],
+      "columnas": null
+     },
+     {
+      "grupo": "Capacidad de suministro igual o mayor a 300 KW Resto",
+      "concepto": "Por consumo de energía en período horas pico",
+      "unidad": "$/KWh",
+      "valores": [
+       312.052
+      ],
+      "columnas": null
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "esj",
+  "detectado": "2026-11-18T09:53:22+00:00",
+  "sha256": "00beda05b5db6b8b649df3af3e2719879da421709089cac5b20e9885027b4e07",
+  "url": "https://www.naturgysj.com.ar/wp-content/uploads/2026/11/CT-01-11-2026-al-22-01-2027-ESJ.pdf",
+  "titulo": "01/11/2026 al 22/01/2027",
+  "vigencia": null,
+  "tablas": [
+   {
+    "titulo": "Uso Residencial (consumo bimestral)",
+    "filas": [
+     {
+      "grupo": "Sin SEN",
+      "concepto": "Cargo fijo (haya o no consumo)",
+      "unidad": "$/bimestre",
+      "valores": [
+       4502.97,
+       15548.4,
+       23251.72,
+       23251.72,
+       23251.72,
+       23251.72
+      ],
+      "columnas": [
+       "Hasta 220 kWh",
+       "220–580 kWh",
+       "580–1000 kWh",
+       "1000–1400 kWh",
+       "1400–2800 kWh",
+       "> 2800 kWh"
+      ]
+     },
+     {
+      "grupo": "Sin SEN",
+      "concepto": "Cargo variable por energía",
+      "unidad": "$/kWh",
+      "valores": [
+       224.286,
+       205.6107,
+       204.5674,
+       204.5674,
+       204.5674,
+       204.5674
+      ],
+      "columnas": [
+       "Hasta 220 kWh",
+       "220–580 kWh",
+       "580–1000 kWh",
+       "1000–1400 kWh",
+       "1400–2800 kWh",
+       "> 2800 kWh"
+      ]
+     },
+     {
+      "grupo": "Con SEN",
+      "concepto": "Cargo fijo (haya o no consumo) Con SEN - Consumo",
+      "unidad": "$/bimestre",
+      "valores": [
+       3932.58,
+       13574.66,
+       21042.77,
+       21042.77,
+       21042.77,
+       21042.77
+      ],
+      "columnas": [
+       "Hasta 220 kWh",
+       "220–580 kWh",
+       "580–1000 kWh",
+       "1000–1400 kWh",
+       "1400–2800 kWh",
+       "> 2800 kWh"
+      ]
+     },
+     {
+      "grupo": "Con SEN",
+      "concepto": "Cargo variable por energía Base",
+      "unidad": "$/kWh",
+      "valores": [
+       122.4926,
+       106.9661,
+       106.0987,
+       106.0987,
+       106.0987,
+       106.0987
+      ],
+      "columnas": [
+       "Hasta 220 kWh",
+       "220–580 kWh",
+       "580–1000 kWh",
+       "1000–1400 kWh",
+       "1400–2800 kWh",
+       "> 2800 kWh"
+      ]
+     }
+    ]
+   },
+   {
+    "titulo": "Tarifa N°2 - Medianas demandas",
+    "filas": [
+     {
+      "grupo": null,
+      "concepto": "Cargo fijo (haya o no consumo)",
+      "unidad": "$/mes",
+      "valores": [
+       113828.18,
+       72314.83
+      ],
+      "columnas": [
+       "SMP (10 a < 20 kW)",
+       "CMP (20 a < 50 kW)"
+      ]
+     },
+     {
+      "grupo": null,
+      "concepto": "Por capacidad de suministro contratada",
+      "unidad": "$/kW-mes",
+      "valores": [
+       0.0,
+       22339.749
+      ],
+      "columnas": [
+       "SMP (10 a < 20 kW)",
+       "CMP (20 a < 50 kW)"
+      ]
+     },
+     {
+      "grupo": null,
+      "concepto": "Cargo variable por energía",
+      "unidad": "$/kWh",
+      "valores": [
+       270.4334,
+       202.7072
+      ],
+      "columnas": [
+       "SMP (10 a < 20 kW)",
+       "CMP (20 a < 50 kW)"
+      ]
+     }
+    ]
+   },
+   {
+    "titulo": "Tarifa N°3 - Grandes demandas",
+    "filas": [
+     {
+      "grupo": null,
+      "concepto": "Cargo fijo (haya o no consumo)",
+      "unidad": "$/mes",
+      "valores": [
+       206912.86,
+       457016.63,
+       457016.63,
+       457016.63,
+       457016.63
+      ],
+      "columnas": [
+       "BT",
+       "MT 13,2 R",
+       "MT 13,2 B",
+       "MT 33",
+       "AT"
+      ]
+     },
+     {
+      "grupo": null,
+      "concepto": "Por máxima capacidad de suministro contratada",
+      "unidad": "$/kW-mes",
+      "valores": [
+       19931.398,
+       11220.069,
+       5959.044,
+       4395.006,
+       3244.7
+      ],
+      "columnas": [
+       "BT",
+       "MT 13,2 R",
+       "MT 13,2 B",
+       "MT 33",
+       "AT"
+      ]
+     },
+     {
+      "grupo": "Potencias menores a 300 kW-mes",
+      "concepto": "Por capacidad de suministro contratada en horas de punta",
+      "unidad": "$/kW-mes",
+      "valores": [
+       8380.714,
+       11168.198,
+       10787.377,
+       10741.044,
+       10327.335
+      ],
+      "columnas": [
+       "BT",
+       "MT 13,2 R",
+       "MT 13,2 B",
+       "MT 33",
+       "AT"
+      ]
+     },
+     {
+      "grupo": "Potencias menores a 300 kW-mes",
+      "concepto": "En horas de punta",
+      "unidad": "$/kWh",
+      "valores": [
+       166.5454,
+       150.24,
+       146.7681,
+       146.3507,
+       142.5173
+      ],
+      "columnas": [
+       "BT",
+       "MT 13,2 R",
+       "MT 13,2 B",
+       "MT 33",
+       "AT"
+      ]
+     },
+     {
+      "grupo": "Potencias menores a 300 kW-mes",
+      "concepto": "En horas de valle nocturno",
+      "unidad": "$/kWh",
+      "valores": [
+       160.362,
+       144.662,
+       141.319,
+       140.9171,
+       137.226
+      ],
+      "columnas": [
+       "BT",
+       "MT 13,2 R",
+       "MT 13,2 B",
+       "MT 33",
+       "AT"
+      ]
+     },
+     {
+      "grupo": "Potencias menores a 300 kW-mes",
+      "concepto": "En horas restantes",
+      "unidad": "$/kWh",
+      "valores": [
+       161.3522,
+       145.5553,
+       142.1916,
+       141.7872,
+       138.0733
+      ],
+      "columnas": [
+       "BT",
+       "MT 13,2 R",
+       "MT 13,2 B",
+       "MT 33",
+       "AT"
+      ]
+     },
+     {
+      "grupo": "Potencias mayores o iguales a 300 kW-mes",
+      "concepto": "Por capacidad de suministro contratada en horas de punta",
+      "unidad": "$/kW-mes",
+      "valores": [
+       8380.714,
+       11168.198,
+       10787.377,
+       10741.044,
+       10327.335
+      ],
+      "columnas": [
+       "BT",
+       "MT 13,2 R",
+       "MT 13,2 B",
+       "MT 33",
+       "AT"
+      ]
+     },
+     {
+      "grupo": "Potencias mayores o iguales a 300 kW-mes",
+      "concepto": "En horas de punta",
+      "unidad": "$/kWh",
+      "valores": [
+       183.7128,
+       165.7267,
+       161.8969,
+       161.4365,
+       157.2079
+      ],
+      "columnas": [
+       "BT",
+       "MT 13,2 R",
+       "MT 13,2 B",
+       "MT 33",
+       "AT"
+      ]
+     },
+     {
+      "grupo": "Potencias mayores o iguales a 300 kW-mes",
+      "concepto": "En horas de valle nocturno",
+      "unidad": "$/kWh",
+      "valores": [
+       176.7731,
+       159.4663,
+       155.7813,
+       155.3382,
+       151.2694
+      ],
+      "columnas": [
+       "BT",
+       "MT 13,2 R",
+       "MT 13,2 B",
+       "MT 33",
+       "AT"
+      ]
+     },
+     {
+      "grupo": "Potencias mayores o iguales a 300 kW-mes",
+      "concepto": "En horas restantes",
+      "unidad": "$/kWh",
+      "valores": [
+       177.8849,
+       160.4694,
+       156.7611,
+       156.3153,
+       152.2208
+      ],
+      "columnas": [
+       "BT",
+       "MT 13,2 R",
+       "MT 13,2 B",
+       "MT 33",
+       "AT"
+      ]
+     },
+     {
+      "grupo": "Potencias mayores o iguales a 300 kW-mes Entes Públicos Salud/Educación",
+      "concepto": "Por capacidad de suministro contratada en horas de punta",
+      "unidad": "$/kW-mes",
+      "valores": [
+       8380.714,
+       11168.198,
+       10787.377,
+       10741.044,
+       10327.335
+      ],
+      "columnas": [
+       "BT",
+       "MT 13,2 R",
+       "MT 13,2 B",
+       "MT 33",
+       "AT"
+      ]
+     },
+     {
+      "grupo": "Potencias mayores o iguales a 300 kW-mes Entes Públicos Salud/Educación",
+      "concepto": "En horas de punta",
+      "unidad": "$/kWh",
+      "valores": [
+       183.7128,
+       165.7267,
+       161.8969,
+       161.4365,
+       157.2079
+      ],
+      "columnas": [
+       "BT",
+       "MT 13,2 R",
+       "MT 13,2 B",
+       "MT 33",
+       "AT"
+      ]
+     },
+     {
+      "grupo": "Potencias mayores o iguales a 300 kW-mes Entes Públicos Salud/Educación",
+      "concepto": "En horas de valle nocturno",
+      "unidad": "$/kWh",
+      "valores": [
+       176.7731,
+       159.4663,
+       155.7813,
+       155.3382,
+       151.2694
+      ],
+      "columnas": [
+       "BT",
+       "MT 13,2 R",
+       "MT 13,2 B",
+       "MT 33",
+       "AT"
+      ]
+     },
+     {
+      "grupo": "Potencias mayores o iguales a 300 kW-mes Entes Públicos Salud/Educación",
+      "concepto": "En horas restantes",
+      "unidad": "$/kWh",
+      "valores": [
+       177.8849,
+       160.4694,
+       156.7611,
+       156.3153,
+       152.2208
+      ],
+      "columnas": [
+       "BT",
+       "MT 13,2 R",
+       "MT 13,2 B",
+       "MT 33",
+       "AT"
+      ]
+     }
+    ]
+   }
+  ]
  }
 ]

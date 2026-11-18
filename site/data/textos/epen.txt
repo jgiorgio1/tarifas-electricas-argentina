@@ -269,25 +269,26 @@ T1-B.P.7-Consumo mensual mayor a 1400 KWh
 
 
                                                                           VOLVER AL ÍNDICE
-               TARIFA FOTOVOLTAICA
+            TARIFA FOTOVOLTAICA
 
 
-                           TARIFA FOTOVOLTAICA
-           CARGO MENSUAL                            CARGO SEMESTRAL
-TAMAÑO 1       32.952,79             -17.794,51   197.716,74   -106.767,06
-TAMAÑO 2       38.870,76             -20.990,21   233.224,56   -125.941,26
-TAMAÑO 3       59.051,27             -31.887,69   354.307,62   -191.326,14
-TAMAÑO 4       62.245,63             -33.612,64   373.473,78   -201.675,84
-
-
-
-
-                  VOLVER AL ÍNDICE
+                         TARIFA FOTOVOLTAICA
+  CARGO MENSUAL OCTUBRE 2026                      CARGO SEMESTRAL
+TAMAÑO 1     24.701,61              -8.176,23   148.209,66   -49.057,38
+TAMAÑO 2     28.584,96              -9.461,62   171.509,76   -56.769,72
+TAMAÑO 3     43.656,10             -14.450,17   261.936,60   -86.701,02
+TAMAÑO 4     45.928,23             -15.202,24   275.569,38   -91.213,44
+             RESOL 2026 Nº 54 -E-NEU-MERN
 
 
 
 
-                                 VOLVER AL ÍNDICE
+                VOLVER AL ÍNDICE
+
+
+
+
+                               VOLVER AL ÍNDICE
 TARIFA Nº 2 - MEDIANAS DEMANDAS (CAPACIDADES DE SUMINISTRO DESDE
                      10 kW E INFERIORES A 50 kW)
 

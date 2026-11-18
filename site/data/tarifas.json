@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-17T09:55:14+00:00",
+ "generado": "2026-11-18T09:53:22+00:00",
  "distribuidoras": [
   {
    "id": "edenor",
@@ -1376,7 +1376,7 @@
     "extra: OK https://www.edenor.com/files/2026-11/Cuadro-Tarifario.pdf (2026-11, 32 tablas)",
     "se: ningún archivo descargable (8 enlaces con error)"
    ],
-   "verificado": "2026-11-17T09:55:14+00:00",
+   "verificado": "2026-11-18T09:53:22+00:00",
    "oficiales": {
     "links": [
      "https://www.edenor.com/institucional/marco-regulatorio",
@@ -3625,7 +3625,7 @@
     "extra: OK https://www.edesur.com.ar/wp-content/uploads/2026/11/CT_NOV26_WEB-1.jpg (2026-11, 0 tablas)",
     "se: ningún archivo descargable (6 enlaces con error)"
    ],
-   "verificado": "2026-11-17T09:55:14+00:00",
+   "verificado": "2026-11-18T09:53:22+00:00",
    "oficiales": {
     "links": [
      "https://www.edesur.com.ar/tarifas-cuadro-tarifario/"
@@ -5342,7 +5342,7 @@
     "extra: OK https://www.infoedes.com/wp-content/uploads/2026/09/EDES-Cuadro-Tarifario-Septiembre-1.pdf (2026-09, 5 tablas)",
     "se: ningún archivo descargable (1 enlaces con error)"
    ],
-   "verificado": "2026-11-17T09:55:14+00:00",
+   "verificado": "2026-11-18T09:53:22+00:00",
    "oficiales": {
     "links": [
      "https://www.infoedes.com/cuadro-tarifario/",
@@ -6980,7 +6980,7 @@
     "extra: OK https://www.oceba.gba.gov.ar/nueva_web/adjuntos/ct202609/IF-2026-27778457-GDEBA-GMOCEBA.pdf (2026-09, 4 tablas)",
     "se: ningún archivo descargable (2 enlaces con error)"
    ],
-   "verificado": "2026-11-17T09:55:14+00:00",
+   "verificado": "2026-11-18T09:53:22+00:00",
    "oficiales": {
     "links": [
      "https://www.edeaweb.com.ar/cuadro-tarifario/",
@@ -8732,7 +8732,7 @@
     ]
    },
    "desactualizado": false,
-   "ultimo_intento": "2026-11-17T09:55:14+00:00",
+   "ultimo_intento": "2026-11-18T09:53:22+00:00",
    "regulador": {
     "sigla": "OCEBA",
     "nombre": "Organismo de Control de Energía Eléctrica de la Provincia de Buenos Aires",
@@ -9598,7 +9598,7 @@
     "extra: OK https://www.edensa.com.ar/wp-content/uploads/2026/09/EDEN-Cuadro-Tarifario-Septiembre.pdf (2026-09, 5 tablas)",
     "se: ningún archivo descargable (2 enlaces con error)"
    ],
-   "verificado": "2026-11-17T09:55:14+00:00",
+   "verificado": "2026-11-18T09:53:22+00:00",
    "oficiales": {
     "links": [
      "https://www.edensa.com.ar/cuadro-tarifario/",
@@ -10517,8 +10517,8 @@
     }
    ],
    "intentos": [
-    "primary: OK https://www.ecsapem.com.ar/uploads/Cuadros_Tarifarios_Noviembre_2026_NO_SUBSIDIADO_Res_DP_374_26_8182ef395e.pdf (2026-11, 1 tablas)",
-    "known: OK https://www.ecsapem.com.ar/uploads/Cuadro_Tarifario_Octubre_2026_NO_SUBSIDIADO_Res_DP_341_26_6645b45857.pdf (2026-10, 1 tablas)",
+    "primary: HTTPError: 404 Client Error: Not Found for url: https://www.ecsapem.com.ar/api/cms/rates?sort%5B0%5D=endYear:desc&sort%5B1%5D=endMonth:desc&pagination%5BpageSize%5D=30",
+    "known: HTTPError: 500 Server Error: Internal Server Error for url: https://www.ecsapem.com.ar/uploads/Cuadro_Tarifario_Octubre_2026_NO_SUBSIDIADO_Res_DP_341_26_6645b45857.pdf",
     "se: ningún archivo descargable (8 enlaces con error)"
    ],
    "verificado": "2026-11-17T09:55:14+00:00",
@@ -10664,7 +10664,9 @@
      "Residencial (T1) — sin subsidio: T1-R no bonificado (cuadro NO SUBSIDIADO), columna TOTAL"
     ]
    },
-   "desactualizado": false
+   "desactualizado": false,
+   "ultimo_intento": "2026-11-18T09:53:22+00:00",
+   "ultimo_intento_fallido": true
   },
   {
    "id": "secheep",
@@ -14117,7 +14119,7 @@
     "primary: OK https://www.secheep.gob.ar/downloads/paginas/cuadros-tarifarios/Anexo-I-y-II-Cuadro-Tarifario-de-aplicacion-y-sin-subsidio-Noviembre-2026.pdf (2026-11, 9 tablas)",
     "se: ningún archivo descargable (9 enlaces con error)"
    ],
-   "verificado": "2026-11-17T09:55:14+00:00",
+   "verificado": "2026-11-18T09:53:22+00:00",
    "oficiales": {
     "links": [
      "https://www.secheep.gob.ar/cuadros-tarifarios.html"
@@ -15317,7 +15319,7 @@
    "intentos": [
     "se: ningún archivo descargable (1 enlaces con error)"
    ],
-   "verificado": "2026-11-17T09:55:14+00:00",
+   "verificado": "2026-11-18T09:53:22+00:00",
    "oficiales": {
     "links": [],
     "nota": "La tabla de fuentes de referencia lista a DGSP como observación, sin links oficiales."
@@ -16729,7 +16731,7 @@
     "extra: OK https://www.epec.com.ar/docs/cuadro-tarifario/cuadro-tarifario-publicado-30102026-aplicacion-011126.pdf (2026-11, 1 tablas)",
     "se: ningún archivo descargable (1 enlaces con error)"
    ],
-   "verificado": "2026-11-17T09:55:14+00:00",
+   "verificado": "2026-11-18T09:53:22+00:00",
    "oficiales": {
     "links": [
      "https://www.epec.com.ar/informacion-comercial/grandes-clientes",
@@ -18837,7 +18839,7 @@
     "extra: OK https://www.dpec.com.ar/es/articulo/1500/descarga/179/Anexo-BO-2954526---08-09-2026---Epre---Dpecpdf (2026-09, 0 tablas)",
     "se: ningún archivo descargable (2 enlaces con error)"
    ],
-   "verificado": "2026-11-17T09:55:14+00:00",
+   "verificado": "2026-11-18T09:53:22+00:00",
    "oficiales": {
     "links": [
      "https://www.dpec.com.ar/1500/Cuadro-Tarifario"
@@ -19510,7 +19512,7 @@
     "primary: OK https://epre.gov.ar/web/wp-content/uploads/2026/11/resolucion-epre-184-26-anexo1.xlsx (2026-12, 4 tablas)",
     "se: ningún archivo descargable (4 enlaces con error)"
    ],
-   "verificado": "2026-11-17T09:55:14+00:00",
+   "verificado": "2026-11-18T09:53:22+00:00",
    "oficiales": {
     "links": [],
     "nota": "El SharePoint de ENERSA no permite descargar el PDF sin iniciar sesión; el EPRE publica la misma resolución."
@@ -19706,7 +19708,7 @@
     }
    ],
    "intentos": [
-    "primary: LookupError: REFSA: sin períodos",
+    "primary: HTTPError: 403 Client Error: Forbidden for url: https://recursosyenergia.com.ar/tarifas?id=32",
     "se: ningún archivo descargable (5 enlaces con error)"
    ],
    "verificado": "2026-11-11T16:53:30+00:00",
@@ -19734,7 +19736,7 @@
     "nota": "No se localizó un sitio web propio del EROSP.",
     "fuente": "https://www.argentina.gob.ar/energia/entes-reguladores-provinciales-de-energia-electrica-y-gas-natural"
    },
-   "ultimo_intento": "2026-11-17T09:55:14+00:00",
+   "ultimo_intento": "2026-11-18T09:53:22+00:00",
    "ultimo_intento_fallido": true,
    "inyeccion": null
   },
@@ -20142,7 +20144,7 @@
     "primary: OK https://www.ejesa.com.ar/info/pwa/blog/GetFile?fileId=UkgRLDps50w= (2026-10, 4 tablas)",
     "se: ningún archivo descargable (3 enlaces con error)"
    ],
-   "verificado": "2026-11-17T09:55:14+00:00",
+   "verificado": "2026-11-18T09:53:22+00:00",
    "oficiales": {
     "links": [
      "https://www.ejesa.com.ar/info/pwa/institucional/costos-del-servicio"
@@ -21488,7 +21490,7 @@
     "known: OK https://ejsedsa.com.ar/wp-content/uploads/2026/06/CT-EJSEDSA-WEB-_-Res-198-2026-_-Mayo-a-Octubre-2026.pdf (2026-10, 1 tablas)",
     "se: ningún archivo descargable (2 enlaces con error)"
    ],
-   "verificado": "2026-11-17T09:55:14+00:00",
+   "verificado": "2026-11-18T09:53:22+00:00",
    "oficiales": {
     "links": [
      "https://ejsedsa.com.ar/wp-content/uploads/2026/06/CT-EJSEDSA-WEB-_-Res-198-2026-_-Mayo-a-Octubre-2026.pdf",
@@ -25425,7 +25427,7 @@
     "extra: OK docs/entregados/ape-res-42-26-usuarios-finales.pdf (2026-10, 16 tablas)",
     "se: ningún archivo descargable (1 enlaces con error)"
    ],
-   "verificado": "2026-11-17T09:55:14+00:00",
+   "verificado": "2026-11-18T09:53:22+00:00",
    "oficiales": {
     "links": [
      "docs/entregados/ape-res-41-26-cooperativas.pdf",
@@ -30795,7 +30797,7 @@
     "extra: OK https://www.edelar.com.ar/documentos/cuadro-tarifario.pdf (2026-04, 18 tablas)",
     "se: ningún archivo descargable (8 enlaces con error)"
    ],
-   "verificado": "2026-11-17T09:55:14+00:00",
+   "verificado": "2026-11-18T09:53:22+00:00",
    "oficiales": {
     "links": [
      "https://www.edelar.com.ar/clientes/pequenas-demandas",
@@ -31358,7 +31360,7 @@
     "primary: OK https://epremendoza.gob.ar/2019/informesT/cuadrosT-Vigentes/CT%20Res%20221-2026.pdf (2026-11, 2 tablas)",
     "se: ningún archivo descargable (8 enlaces con error)"
    ],
-   "verificado": "2026-11-17T09:55:14+00:00",
+   "verificado": "2026-11-18T09:53:22+00:00",
    "pago_mensual": {
     "texto": "La factura presenta dos vencimientos, cada uno correspondiente a la mitad del monto total.",
     "url": "https://www.edemsa.com/informacion-comercial/"
@@ -32363,7 +32365,7 @@
     "extra: OK https://www.edeste.com.ar/assets/pdf/cuadro-tarifario/CT-Vigente.pdf (2026-08, 2 tablas)",
     "se: ningún archivo descargable (3 enlaces con error)"
    ],
-   "verificado": "2026-11-17T09:55:14+00:00",
+   "verificado": "2026-11-18T09:53:22+00:00",
    "pago_mensual": {
     "texto": "La factura se encuentra desdoblada con 2 vencimientos, cada uno corresponde a una mitad del monto total.",
     "url": "https://www.edeste.com.ar/preguntasfrecuentes.html"
@@ -33358,7 +33360,7 @@
     "primary: OK https://www.boletindigital.misiones.gov.ar/boletines/16681.pdf (2026-08, 1 tablas)",
     "se: ningún archivo descargable (1 enlaces con error)"
    ],
-   "verificado": "2026-11-17T09:55:14+00:00",
+   "verificado": "2026-11-18T09:53:22+00:00",
    "oficiales": {
     "links": [
      "https://www.energiademisiones.com.ar/cuadros-tarifarios-vigentes/"
@@ -33868,13 +33870,13 @@
    "nota": "",
    "estado": "ok",
    "documento": {
-    "url": "https://www.epen.gov.ar/wp-content/uploads/2026/10/CT-consumos-09_2026.pdf",
-    "titulo": "CT-consumos-09_2026.pdf",
+    "url": "https://www.epen.gov.ar/wp-content/uploads/2026/11/CT-consumos-09-2026.pdf",
+    "titulo": "CT-consumos-09-2026.pdf",
     "pagina": "https://www.epen.gov.ar/index.php/cuadros-tarifarios/",
     "origen": "Distribuidora",
     "tipo": "pdf",
-    "sha256": "413cf7c398b5bff32be2fa66cd548c2d890e60482f4d27c13c55ff31516c6ad6",
-    "bytes": 494885,
+    "sha256": "5864d6ae719bf7e793beb64840e5db5eac95c227f8c94436593a9f7710e2de68",
+    "bytes": 494936,
     "via": "búsqueda automática"
    },
    "vigencia": "PERÍODO DE FACTURACIÓN OCTUBRE - CONSUMOS SEPTIEMBRE 2026",
@@ -34721,10 +34723,10 @@
     }
    ],
    "intentos": [
-    "primary: OK https://www.epen.gov.ar/wp-content/uploads/2026/10/CT-consumos-09_2026.pdf (2026-09, 6 tablas)",
+    "primary: OK https://www.epen.gov.ar/wp-content/uploads/2026/11/CT-consumos-09-2026.pdf (2026-09, 6 tablas)",
     "se: ningún archivo descargable (1 enlaces con error)"
    ],
-   "verificado": "2026-11-17T09:55:14+00:00",
+   "verificado": "2026-11-18T09:53:22+00:00",
    "oficiales": {
     "links": [
      "https://www.epen.gov.ar/index.php/cuadros-tarifarios/"
@@ -35628,7 +35630,7 @@
     "primary: OK https://www.edersa.com.ar/wp-content/uploads/2026/11/Cuadro-Tarifario-EdERSA-NOVIEMBRE-2026.pdf (2026-11, 1 tablas)",
     "se: ningún archivo descargable (4 enlaces con error)"
    ],
-   "verificado": "2026-11-17T09:55:14+00:00",
+   "verificado": "2026-11-18T09:53:22+00:00",
    "oficiales": {
     "links": [
      "https://www.edersa.com.ar/usuarios/cuadro-tarifario/"
@@ -36014,7 +36016,7 @@
     "extra: OK https://ente.gob.ar/wp-content/uploads/2025/09/Resolucion-Ente-N°1528-25.pdf (2025-09, 2 tablas)",
     "se: ningún archivo descargable (5 enlaces con error)"
    ],
-   "verificado": "2026-11-17T09:55:14+00:00",
+   "verificado": "2026-11-18T09:53:22+00:00",
    "oficiales": {
     "links": [
      "https://www.edesa.com.ar/cuadros-tarifarios/",
@@ -36288,16 +36290,16 @@
    "nota": "",
    "estado": "ok",
    "documento": {
-    "url": "https://www.naturgysj.com.ar/wp-content/uploads/2026/09/CT-01-09-2026-al-30-09-2026-ESJ.pdf",
-    "titulo": "01/09/2026 al 30/09/2026",
+    "url": "https://www.naturgysj.com.ar/wp-content/uploads/2026/11/CT-01-11-2026-al-22-01-2027-ESJ.pdf",
+    "titulo": "01/11/2026 al 22/01/2027",
     "pagina": "https://www.naturgysj.com.ar/hogar/cuadro-tarifario/",
     "origen": "Distribuidora",
     "tipo": "pdf",
-    "sha256": "bb7afca8b02a8ec4392cd8e118e449c934f45078a7a6cfd6aca05015ae385099",
-    "bytes": 76201,
+    "sha256": "00beda05b5db6b8b649df3af3e2719879da421709089cac5b20e9885027b4e07",
+    "bytes": 182430,
     "via": "búsqueda automática"
    },
-   "vigencia": "DESDE EL 01/09/2026 HASTA EL 30/09/2026",
+   "vigencia": null,
    "tablas": [
     {
      "titulo": "Uso Residencial (consumo bimestral)",
@@ -36307,12 +36309,12 @@
        "concepto": "Cargo fijo (haya o no consumo)",
        "unidad": "$/bimestre",
        "valores": [
-        4557.54,
-        15737.24,
-        23463.07,
-        23463.07,
-        23463.07,
-        23463.07
+        4502.97,
+        15548.4,
+        23251.72,
+        23251.72,
+        23251.72,
+        23251.72
        ],
        "columnas": [
         "Hasta 220 kWh",
@@ -36328,12 +36330,12 @@
        "concepto": "Cargo variable por energía",
        "unidad": "$/kWh",
        "valores": [
-        224.7631,
-        205.7865,
-        204.7263,
-        204.7263,
-        204.7263,
-        204.7263
+        224.286,
+        205.6107,
+        204.5674,
+        204.5674,
+        204.5674,
+        204.5674
        ],
        "columnas": [
         "Hasta 220 kWh",
@@ -36349,12 +36351,12 @@
        "concepto": "Cargo fijo (haya o no consumo) Con SEN - Consumo",
        "unidad": "$/bimestre",
        "valores": [
-        3998.38,
-        13802.37,
-        21297.62,
-        21297.62,
-        21297.62,
-        21297.62
+        3932.58,
+        13574.66,
+        21042.77,
+        21042.77,
+        21042.77,
+        21042.77
        ],
        "columnas": [
         "Hasta 220 kWh",
@@ -36370,12 +36372,12 @@
        "concepto": "Cargo variable por energía Base",
        "unidad": "$/kWh",
        "valores": [
-        123.4253,
-        107.5356,
-        106.6479,
-        106.6479,
-        106.6479,
-        106.6479
+        122.4926,
+        106.9661,
+        106.0987,
+        106.0987,
+        106.0987,
+        106.0987
        ],
        "columnas": [
         "Hasta 220 kWh",
@@ -36396,7 +36398,7 @@
        "concepto": "Cargo fijo (haya o no consumo)",
        "unidad": "$/mes",
        "valores": [
-        115977.79,
+        113828.18,
         72314.83
        ],
        "columnas": [
@@ -36409,8 +36411,8 @@
        "concepto": "Por capacidad de suministro contratada",
        "unidad": "$/kW-mes",
        "valores": [
-        null,
-        22867.565
+        0.0,
+        22339.749
        ],
        "columnas": [
         "SMP (10 a < 20 kW)",
@@ -36422,8 +36424,8 @@
        "concepto": "Cargo variable por energía",
        "unidad": "$/kWh",
        "valores": [
-        264.9631,
-        195.7255
+        270.4334,
+        202.7072
        ],
        "columnas": [
         "SMP (10 a < 20 kW)",
@@ -36459,11 +36461,11 @@
        "concepto": "Por máxima capacidad de suministro contratada",
        "unidad": "$/kW-mes",
        "valores": [
-        21029.36,
-        10959.596,
-        5842.313,
-        4322.105,
-        3301.086
+        19931.398,
+        11220.069,
+        5959.044,
+        4395.006,
+        3244.7
        ],
        "columnas": [
         "BT",
@@ -36478,11 +36480,11 @@
        "concepto": "Por capacidad de suministro contratada en horas de punta",
        "unidad": "$/kW-mes",
        "valores": [
-        8483.329,
-        11304.943,
-        10919.46,
-        10872.559,
-        10453.785
+        8380.714,
+        11168.198,
+        10787.377,
+        10741.044,
+        10327.335
        ],
        "columnas": [
         "BT",
@@ -36497,11 +36499,11 @@
        "concepto": "En horas de punta",
        "unidad": "$/kWh",
        "valores": [
-        157.9653,
-        142.4999,
-        139.2069,
-        138.811,
-        135.175
+        166.5454,
+        150.24,
+        146.7681,
+        146.3507,
+        142.5173
        ],
        "columnas": [
         "BT",
@@ -36516,11 +36518,11 @@
        "concepto": "En horas de valle nocturno",
        "unidad": "$/kWh",
        "valores": [
-        152.1565,
-        137.2598,
-        134.0879,
-        133.7066,
-        130.2043
+        160.362,
+        144.662,
+        141.319,
+        140.9171,
+        137.226
        ],
        "columnas": [
         "BT",
@@ -36535,11 +36537,11 @@
        "concepto": "En horas restantes",
        "unidad": "$/kWh",
        "valores": [
-        153.2696,
-        138.2639,
-        135.0688,
-        134.6847,
-        131.1568
+        161.3522,
+        145.5553,
+        142.1916,
+        141.7872,
+        138.0733
        ],
        "columnas": [
         "BT",
@@ -36554,11 +36556,11 @@
        "concepto": "Por capacidad de suministro contratada en horas de punta",
        "unidad": "$/kW-mes",
        "valores": [
-        8483.329,
-        11304.943,
-        10919.46,
-        10872.559,
-        10453.785
+        8380.714,
+        11168.198,
+        10787.377,
+        10741.044,
+        10327.335
        ],
        "columnas": [
         "BT",
@@ -36573,11 +36575,11 @@
        "concepto": "En horas de punta",
        "unidad": "$/kWh",
        "valores": [
-        178.5864,
-        161.1022,
-        157.3793,
-        156.9317,
-        152.8211
+        183.7128,
+        165.7267,
+        161.8969,
+        161.4365,
+        157.2079
        ],
        "columnas": [
         "BT",
@@ -36592,11 +36594,11 @@
        "concepto": "En horas de valle nocturno",
        "unidad": "$/kWh",
        "valores": [
-        171.8758,
-        155.0485,
-        151.4655,
-        151.0347,
-        147.0786
+        176.7731,
+        159.4663,
+        155.7813,
+        155.3382,
+        151.2694
        ],
        "columnas": [
         "BT",
@@ -36611,11 +36613,11 @@
        "concepto": "En horas restantes",
        "unidad": "$/kWh",
        "valores": [
-        173.1618,
-        156.2087,
-        152.5989,
-        152.1649,
-        148.1791
+        177.8849,
+        160.4694,
+        156.7611,
+        156.3153,
+        152.2208
        ],
        "columnas": [
         "BT",
@@ -36630,11 +36632,11 @@
        "concepto": "Por capacidad de suministro contratada en horas de punta",
        "unidad": "$/kW-mes",
        "valores": [
-        8483.329,
-        11304.943,
-        10919.46,
-        10872.559,
-        10453.785
+        8380.714,
+        11168.198,
+        10787.377,
+        10741.044,
+        10327.335
        ],
        "columnas": [
         "BT",
@@ -36649,11 +36651,11 @@
        "concepto": "En horas de punta",
        "unidad": "$/kWh",
        "valores": [
-        178.5864,
-        161.1022,
-        157.3793,
-        156.9317,
-        152.8211
+        183.7128,
+        165.7267,
+        161.8969,
+        161.4365,
+        157.2079
        ],
        "columnas": [
         "BT",
@@ -36668,11 +36670,11 @@
        "concepto": "En horas de valle nocturno",
        "unidad": "$/kWh",
        "valores": [
-        171.8758,
-        155.0485,
-        151.4655,
-        151.0347,
-        147.0786
+        176.7731,
+        159.4663,
+        155.7813,
+        155.3382,
+        151.2694
        ],
        "columnas": [
         "BT",
@@ -36687,11 +36689,11 @@
        "concepto": "En horas restantes",
        "unidad": "$/kWh",
        "valores": [
-        173.1618,
-        156.2087,
-        152.5989,
-        152.1649,
-        148.1791
+        177.8849,
+        160.4694,
+        156.7611,
+        156.3153,
+        152.2208
        ],
        "columnas": [
         "BT",
@@ -36705,10 +36707,10 @@
     }
    ],
    "intentos": [
-    "primary: OK https://www.naturgysj.com.ar/wp-content/uploads/2026/09/CT-01-09-2026-al-30-09-2026-ESJ.pdf (2026-09, 3 tablas)",
+    "primary: OK https://www.naturgysj.com.ar/wp-content/uploads/2026/11/CT-01-11-2026-al-22-01-2027-ESJ.pdf (2027-01, 3 tablas)",
     "se: ningún archivo descargable (1 enlaces con error)"
    ],
-   "verificado": "2026-11-17T09:55:14+00:00",
+   "verificado": "2026-11-18T09:53:22+00:00",
    "pago_mensual": {
     "texto": "Medición bimestral; se emiten dos facturas mensuales (cuota 1 y cuota 2) que en conjunto representan el costo total del período.",
     "url": "https://www.naturgysj.com.ar/info-util/preguntas-frecuentes/"
@@ -36721,14 +36723,14 @@
    },
    "comparable": {
     "cargo_fijo": {
-     "valor": 4557.54,
+     "valor": 4502.97,
      "unidad": "$/bimestre",
      "concepto": "Cargo fijo (haya o no consumo)",
      "grupo": "Sin SEN",
      "columna": "Hasta 220 kWh"
     },
     "cargo_variable": {
-     "valor": 224.7631,
+     "valor": 224.286,
      "unidad": "$/kWh",
      "concepto": "Cargo variable por energía",
      "grupo": "Sin SEN",
@@ -36739,7 +36741,7 @@
    "texto": true,
    "escaneado": false,
    "ocr": false,
-   "periodo_documento": "2026-09",
+   "periodo_documento": "2027-01",
    "archivo_nacional": {
     "url": null,
     "pagina": "https://www.argentina.gob.ar/economia/energia/energia-electrica/estadisticas/cuadros-tarifarios-esj-0",
@@ -36755,8 +36757,8 @@
      "resultado": "sin_archivo"
     }
    },
-   "mes_referencia": "2026-09",
-   "mes_referencia_origen": "vigencia",
+   "mes_referencia": "2027-01",
+   "mes_referencia_origen": "título",
    "regulador": {
     "sigla": "EPRE San Juan",
     "nombre": "Ente Provincial Regulador de la Electricidad de San Juan",
@@ -36771,66 +36773,66 @@
      {
       "nombre": "Hasta 220 kWh",
       "hasta": 220,
-      "fijo": 4557.54,
+      "fijo": 4502.97,
       "escalones": [
        [
         null,
-        224.7631
+        224.286
        ]
       ]
      },
      {
       "nombre": "220–580 kWh",
       "hasta": 580,
-      "fijo": 15737.24,
+      "fijo": 15548.4,
       "escalones": [
        [
         null,
-        205.7865
+        205.6107
        ]
       ]
      },
      {
       "nombre": "580–1000 kWh",
       "hasta": 1000,
-      "fijo": 23463.07,
+      "fijo": 23251.72,
       "escalones": [
        [
         null,
-        204.7263
+        204.5674
        ]
       ]
      },
      {
       "nombre": "1000–1400 kWh",
       "hasta": 1400,
-      "fijo": 23463.07,
+      "fijo": 23251.72,
       "escalones": [
        [
         null,
-        204.7263
+        204.5674
        ]
       ]
      },
      {
       "nombre": "1400–2800 kWh",
       "hasta": 2800,
-      "fijo": 23463.07,
+      "fijo": 23251.72,
       "escalones": [
        [
         null,
-        204.7263
+        204.5674
        ]
       ]
      },
      {
       "nombre": "> 2800 kWh",
       "hasta": null,
-      "fijo": 23463.07,
+      "fijo": 23251.72,
       "escalones": [
        [
         null,
-        204.7263
+        204.5674
        ]
       ]
      }
@@ -36844,10 +36846,15 @@
       "tension": null,
       "desde_kw": 10,
       "hasta_kw": 20,
-      "fijo": 115977.79,
-      "potencia": [],
+      "fijo": 113828.18,
+      "potencia": [
+       [
+        "Capacidad de suministro contratada",
+        0.0
+       ]
+      ],
       "energia": {
-       "unica": 264.9631
+       "unica": 270.4334
       }
      },
      {
@@ -36859,11 +36866,11 @@
       "potencia": [
        [
         "Capacidad de suministro contratada",
-        22867.565
+        22339.749
        ]
       ],
       "energia": {
-       "unica": 195.7255
+       "unica": 202.7072
       }
      },
      {
@@ -36875,17 +36882,17 @@
       "potencia": [
        [
         "Máxima capacidad contratada",
-        21029.36
+        19931.398
        ],
        [
         "Capacidad contratada en horas de punta",
-        8483.329
+        8380.714
        ]
       ],
       "energia": {
-       "pico": 157.9653,
-       "resto": 153.2696,
-       "valle": 152.1565
+       "pico": 166.5454,
+       "resto": 161.3522,
+       "valle": 160.362
       }
      },
      {
@@ -36897,17 +36904,17 @@
       "potencia": [
        [
         "Máxima capacidad contratada",
-        21029.36
+        19931.398
        ],
        [
         "Capacidad contratada en horas de punta",
-        8483.329
+        8380.714
        ]
       ],
       "energia": {
-       "pico": 178.5864,
-       "resto": 173.1618,
-       "valle": 171.8758
+       "pico": 183.7128,
+       "resto": 177.8849,
+       "valle": 176.7731
       }
      },
      {
@@ -36919,17 +36926,17 @@
       "potencia": [
        [
         "Máxima capacidad contratada",
-        3301.086
+        3244.7
        ],
        [
         "Capacidad contratada en horas de punta",
-        10453.785
+        10327.335
        ]
       ],
       "energia": {
-       "pico": 135.175,
-       "resto": 131.1568,
-       "valle": 130.2043
+       "pico": 142.5173,
+       "resto": 138.0733,
+       "valle": 137.226
       }
      },
      {
@@ -36941,28 +36948,28 @@
       "potencia": [
        [
         "Máxima capacidad contratada",
-        3301.086
+        3244.7
        ],
        [
         "Capacidad contratada en horas de punta",
-        10453.785
+        10327.335
        ]
       ],
       "energia": {
-       "pico": 152.8211,
-       "resto": 148.1791,
-       "valle": 147.0786
+       "pico": 157.2079,
+       "resto": 152.2208,
+       "valle": 151.2694
       }
      }
     ]
    },
    "simulador_ocr": null,
    "inyeccion": {
-    "residencial": 128.9967,
-    "no_residencial": 154.1045,
+    "residencial": 130.04,
+    "no_residencial": 162.3282,
     "detalle": "«Valores tarifarios a reconocer al usuario generador por la energía inyectada», T1 residencial y general",
     "unidad": "$/kWh",
-    "documento": "https://www.naturgysj.com.ar/wp-content/uploads/2026/09/CT-01-09-2026-al-30-09-2026-ESJ.pdf"
+    "documento": "https://www.naturgysj.com.ar/wp-content/uploads/2026/11/CT-01-11-2026-al-22-01-2027-ESJ.pdf"
    },
    "normalizado": {
     "filas": [
@@ -36974,7 +36981,7 @@
       "concepto": "Cargo fijo",
       "tramo": "",
       "unidad": "$/bim",
-      "valor": 4557.54
+      "valor": 4502.97
      },
      {
       "seccion": "Residencial (T1) — sin subsidio",
@@ -36984,7 +36991,7 @@
       "concepto": "Energía",
       "tramo": "todo el consumo",
       "unidad": "$/kWh",
-      "valor": 224.7631
+      "valor": 224.286
      },
      {
       "seccion": "Residencial (T1) — sin subsidio",
@@ -36994,7 +37001,7 @@
       "concepto": "Cargo fijo",
       "tramo": "",
       "unidad": "$/bim",
-      "valor": 15737.24
+      "valor": 15548.4
      },
      {
       "seccion": "Residencial (T1) — sin subsidio",
@@ -37004,7 +37011,7 @@
       "concepto": "Energía",
       "tramo": "todo el consumo",
       "unidad": "$/kWh",
-      "valor": 205.7865
+      "valor": 205.6107
      },
      {
       "seccion": "Residencial (T1) — sin subsidio",
@@ -37014,7 +37021,7 @@
       "concepto": "Cargo fijo",
       "tramo": "",
       "unidad": "$/bim",
-      "valor": 23463.07
+      "valor": 23251.72
      },
      {
       "seccion": "Residencial (T1) — sin subsidio",
@@ -37024,7 +37031,7 @@
       "concepto": "Energía",
       "tramo": "todo el consumo",
       "unidad": "$/kWh",
-      "valor": 204.7263
+      "valor": 204.5674
      },
      {
       "seccion": "Residencial (T1) — sin subsidio",
@@ -37034,7 +37041,7 @@
       "concepto": "Cargo fijo",
       "tramo": "",
       "unidad": "$/bim",
-      "valor": 23463.07
+      "valor": 23251.72
      },
      {
       "seccion": "Residencial (T1) — sin subsidio",
@@ -37044,7 +37051,7 @@
       "concepto": "Energía",
       "tramo": "todo el consumo",
       "unidad": "$/kWh",
-      "valor": 204.7263
+      "valor": 204.5674
      },
      {
       "seccion": "Residencial (T1) — sin subsidio",
@@ -37054,7 +37061,7 @@
       "concepto": "Cargo fijo",
       "tramo": "",
       "unidad": "$/bim",
-      "valor": 23463.07
+      "valor": 23251.72
      },
      {
       "seccion": "Residencial (T1) — sin subsidio",
@@ -37064,7 +37071,7 @@
       "concepto": "Energía",
       "tramo": "todo el consumo",
       "unidad": "$/kWh",
-      "valor": 204.7263
+      "valor": 204.5674
      },
      {
       "seccion": "Residencial (T1) — sin subsidio",
@@ -37074,7 +37081,7 @@
       "concepto": "Cargo fijo",
       "tramo": "",
       "unidad": "$/bim",
-      "valor": 23463.07
+      "valor": 23251.72
      },
      {
       "seccion": "Residencial (T1) — sin subsidio",
@@ -37084,7 +37091,7 @@
       "concepto": "Energía",
       "tramo": "todo el consumo",
       "unidad": "$/kWh",
-      "valor": 204.7263
+      "valor": 204.5674
      },
      {
       "seccion": "Medianas y grandes demandas (T2 y T3)",
@@ -37094,7 +37101,17 @@
       "concepto": "Cargo fijo",
       "tramo": "",
       "unidad": "$/mes",
-      "valor": 115977.79
+      "valor": 113828.18
+     },
+     {
+      "seccion": "Medianas y grandes demandas (T2 y T3)",
+      "categoria": "T2 SMP",
+      "condicion": "desde 10 hasta menos de 20 kW",
+      "tension": null,
+      "concepto": "Capacidad de suministro contratada",
+      "tramo": "",
+      "unidad": "$/kW-mes",
+      "valor": 0.0
      },
      {
       "seccion": "Medianas y grandes demandas (T2 y T3)",
@@ -37104,7 +37121,7 @@
       "concepto": "Energía",
       "tramo": "todo el consumo",
       "unidad": "$/kWh",
-      "valor": 264.9631
+      "valor": 270.4334
      },
      {
       "seccion": "Medianas y grandes demandas (T2 y T3)",
@@ -37124,7 +37141,7 @@
       "concepto": "Capacidad de suministro contratada",
       "tramo": "",
       "unidad": "$/kW-mes",
-      "valor": 22867.565
+      "valor": 22339.749
      },
      {
       "seccion": "Medianas y grandes demandas (T2 y T3)",
@@ -37134,7 +37151,7 @@
       "concepto": "Energía",
       "tramo": "todo el consumo",
       "unidad": "$/kWh",
-      "valor": 195.7255
+      "valor": 202.7072
      },
      {
       "seccion": "Medianas y grandes demandas (T2 y T3)",
@@ -37154,7 +37171,7 @@
       "concepto": "Máxima capacidad contratada",
       "tramo": "",
       "unidad": "$/kW-mes",
-      "valor": 21029.36
+      "valor": 19931.398
      },
      {
       "seccion": "Medianas y grandes demandas (T2 y T3)",
@@ -37164,7 +37181,7 @@
       "concepto": "Capacidad contratada en horas de punta",
       "tramo": "",
       "unidad": "$/kW-mes",
-      "valor": 8483.329
+      "valor": 8380.714
      },
      {
       "seccion": "Medianas y grandes demandas (T2 y T3)",
@@ -37174,7 +37191,7 @@
       "concepto": "Energía",
       "tramo": "pico",
       "unidad": "$/kWh",
-      "valor": 157.9653
+      "valor": 166.5454
      },
      {
       "seccion": "Medianas y grandes demandas (T2 y T3)",
@@ -37184,7 +37201,7 @@
       "concepto": "Energía",
       "tramo": "resto",
       "unidad": "$/kWh",
-      "valor": 153.2696
+      "valor": 161.3522
      },
      {
       "seccion": "Medianas y grandes demandas (T2 y T3)",
@@ -37194,7 +37211,7 @@
       "concepto": "Energía",
       "tramo": "valle",
       "unidad": "$/kWh",
-      "valor": 152.1565
+      "valor": 160.362
      },
      {
       "seccion": "Medianas y grandes demandas (T2 y T3)",
@@ -37214,7 +37231,7 @@
       "concepto": "Máxima capacidad contratada",
       "tramo": "",
       "unidad": "$/kW-mes",
-      "valor": 21029.36
+      "valor": 19931.398
      },
      {
       "seccion": "Medianas y grandes demandas (T2 y T3)",
@@ -37224,7 +37241,7 @@
       "concepto": "Capacidad contratada en horas de punta",
       "tramo": "",
       "unidad": "$/kW-mes",
-      "valor": 8483.329
+      "valor": 8380.714
      },
      {
       "seccion": "Medianas y grandes demandas (T2 y T3)",
@@ -37234,7 +37251,7 @@
       "concepto": "Energía",
       "tramo": "pico",
       "unidad": "$/kWh",
-      "valor": 178.5864
+      "valor": 183.7128
      },
      {
       "seccion": "Medianas y grandes demandas (T2 y T3)",
@@ -37244,7 +37261,7 @@
       "concepto": "Energía",
       "tramo": "resto",
       "unidad": "$/kWh",
-      "valor": 173.1618
+      "valor": 177.8849
      },
      {
       "seccion": "Medianas y grandes demandas (T2 y T3)",
@@ -37254,7 +37271,7 @@
       "concepto": "Energía",
       "tramo": "valle",
       "unidad": "$/kWh",
-      "valor": 171.8758
+      "valor": 176.7731
      },
      {
       "seccion": "Medianas y grandes demandas (T2 y T3)",
@@ -37274,7 +37291,7 @@
       "concepto": "Máxima capacidad contratada",
       "tramo": "",
       "unidad": "$/kW-mes",
-      "valor": 3301.086
+      "valor": 3244.7
      },
      {
       "seccion": "Medianas y grandes demandas (T2 y T3)",
@@ -37284,7 +37301,7 @@
       "concepto": "Capacidad contratada en horas de punta",
       "tramo": "",
       "unidad": "$/kW-mes",
-      "valor": 10453.785
+      "valor": 10327.335
      },
      {
       "seccion": "Medianas y grandes demandas (T2 y T3)",
@@ -37294,7 +37311,7 @@
       "concepto": "Energía",
       "tramo": "pico",
       "unidad": "$/kWh",
-      "valor": 135.175
+      "valor": 142.5173
      },
      {
       "seccion": "Medianas y grandes demandas (T2 y T3)",
@@ -37304,7 +37321,7 @@
       "concepto": "Energía",
       "tramo": "resto",
       "unidad": "$/kWh",
-      "valor": 131.1568
+      "valor": 138.0733
      },
      {
       "seccion": "Medianas y grandes demandas (T2 y T3)",
@@ -37314,7 +37331,7 @@
       "concepto": "Energía",
       "tramo": "valle",
       "unidad": "$/kWh",
-      "valor": 130.2043
+      "valor": 137.226
      },
      {
       "seccion": "Medianas y grandes demandas (T2 y T3)",
@@ -37334,7 +37351,7 @@
       "concepto": "Máxima capacidad contratada",
       "tramo": "",
       "unidad": "$/kW-mes",
-      "valor": 3301.086
+      "valor": 3244.7
      },
      {
       "seccion": "Medianas y grandes demandas (T2 y T3)",
@@ -37344,7 +37361,7 @@
       "concepto": "Capacidad contratada en horas de punta",
       "tramo": "",
       "unidad": "$/kW-mes",
-      "valor": 10453.785
+      "valor": 10327.335
      },
      {
       "seccion": "Medianas y grandes demandas (T2 y T3)",
@@ -37354,7 +37371,7 @@
       "concepto": "Energía",
       "tramo": "pico",
       "unidad": "$/kWh",
-      "valor": 152.8211
+      "valor": 157.2079
      },
      {
       "seccion": "Medianas y grandes demandas (T2 y T3)",
@@ -37364,7 +37381,7 @@
       "concepto": "Energía",
       "tramo": "resto",
       "unidad": "$/kWh",
-      "valor": 148.1791
+      "valor": 152.2208
      },
      {
       "seccion": "Medianas y grandes demandas (T2 y T3)",
@@ -37374,7 +37391,7 @@
       "concepto": "Energía",
       "tramo": "valle",
       "unidad": "$/kWh",
-      "valor": 147.0786
+      "valor": 151.2694
      }
     ],
     "notas": [
@@ -37946,7 +37963,7 @@
     "extra: OK docs/entregados/edesal-cuadro-tarifario-2026-09.pdf (2026-09, 3 tablas)",
     "se: ningún archivo descargable (9 enlaces con error)"
    ],
-   "verificado": "2026-11-17T09:55:14+00:00",
+   "verificado": "2026-11-18T09:53:22+00:00",
    "oficiales": {
     "links": [
      "https://oficinavirtualedesal.com.ar/ove/upload/CuadroTarifario.pdf"
@@ -39112,7 +39129,7 @@
     "extra: OK docs/entregados/spse-cuadro-tarifario-web-2026-11-04.pdf (2026-09, 5 tablas)",
     "se: ningún archivo descargable (1 enlaces con error)"
    ],
-   "verificado": "2026-11-17T09:55:14+00:00",
+   "verificado": "2026-11-18T09:53:22+00:00",
    "oficiales": {
     "links": [
      "https://spse.ar/atencion-cliente#cuadroTarifario"
@@ -39542,7 +39559,7 @@
     "primary: OK https://epe.santafe.gov.ar/institucional-api/download/5acb3ae9-59e6-4c7b-a2b1-cad481ff0f7f (2026-10, 5 tablas)",
     "se: ningún archivo descargable (1 enlaces con error)"
    ],
-   "verificado": "2026-11-17T09:55:14+00:00",
+   "verificado": "2026-11-18T09:53:22+00:00",
    "oficiales": {
     "links": [],
     "nota": "En las páginas de EPE hay que ir a Tarifas y después a Cuadro Tarifario (usuarios y grandes usuarios) o a Transparencia y después a Comparativas Tarifarias."
@@ -40790,7 +40807,7 @@
     "extra: OK http://enrese.com.ar/cuadrostarifarios/CUADROTARIFARIOOctubre2026.pdf (2026-10, 0 tablas)",
     "se: ningún archivo descargable (9 enlaces con error)"
    ],
-   "verificado": "2026-11-17T09:55:14+00:00",
+   "verificado": "2026-11-18T09:53:22+00:00",
    "oficiales": {
     "links": [
      "https://www.edese.com.ar/public/assets/archivos/CuadroTarifarioVigente.pdf",
@@ -42492,7 +42509,7 @@
     "extra: OK https://drive.usercontent.google.com/download?id=1BsRmjbJiGuBky0H5a1-vjgWG8S95g8YW&export=download&confirm=t (2026-10, 14 tablas)",
     "se: ningún archivo descargable (1 enlaces con error)"
    ],
-   "verificado": "2026-11-17T09:55:14+00:00",
+   "verificado": "2026-11-18T09:53:22+00:00",
    "oficiales": {
     "links": [
      "https://www.dpe.com.ar/usuarios/cuadro_tarifario/",
@@ -44149,7 +44166,7 @@
     "primary: OK https://www.edetsa.com/info/pwa/blog/GetFile?fileId=gUDk5szwrI0= (sin fecha, 44 tablas)",
     "se: ningún archivo descargable (8 enlaces con error)"
    ],
-   "verificado": "2026-11-17T09:55:14+00:00",
+   "verificado": "2026-11-18T09:53:22+00:00",
    "oficiales": {
     "links": [
      "https://www.edetsa.com/info/pwa/institucional/costos-del-servicio",
