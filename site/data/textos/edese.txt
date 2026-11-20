@@ -4,9 +4,9 @@ clientes los nuevos precios, por suministro eléctrico, que rigen a partir del 1
  Los consumos que correspondan totalmente a períodos anteriores al 1 de NOVIEMBRE serán facturados con los cuadros tarifarios vigentes en cada
 oportunidad. Los correspondientes a períodos anteriores y posteriores serán prorrateados en función de los días comprendidos en cada periodo tarifario
 
-CUADRO TARIFARIO (Resol.Enrese N°                      / 2026)
+CUADRO TARIFARIO (Resol.Enrese N° 102 / 2026)
 
-Categoria tarifaria                                              Unidad       Importe      Categoria tarifaria                             Unidad                 Importe
+Categoria tarifaria                                             Unidad        Importe      Categoria tarifaria                             Unidad                 Importe
 
 Tarifa N° 1 (Pequeñas Demandas < 10 kW)                                                   Media Tensión con 50 kW < Pot < 300 kW
 T1 R Residencial                                                                          T3-MT Cargo por Cap.de Sum.Cont. en Punta      $/kW-mes             21,141.83
@@ -80,9 +80,9 @@ clientes los nuevos precios, por suministro eléctrico, que rigen a partir del 1
  Los consumos que correspondan totalmente a períodos anteriores al 1 de NOVIEMBRE serán facturados con los cuadros tarifarios vigentes en cada
 oportunidad. Los correspondientes a períodos anteriores y posteriores serán prorrateados en función de los días comprendidos en cada periodo tarifario
 
-CUADRO TARIFARIO (Resol.Enrese N°                      / 2026)
+CUADRO TARIFARIO (Resol.Enrese N° 102 / 2026)
 
-Categoria tarifaria                                              Unidad       Importe      Categoria tarifaria                            Unidad   Importe
+Categoria tarifaria                                             Unidad        Importe      Categoria tarifaria                            Unidad   Importe
 
 Tarifa N° 1 (Pequeñas Demandas < 10 kW)
 T1 R Residencial
@@ -124,9 +124,9 @@ clientes los nuevos precios, por suministro eléctrico, que rigen a partir del 1
  Los consumos que correspondan totalmente a períodos anteriores al 1 de NOVIEMBRE serán facturados con los cuadros tarifarios vigentes en cada
 oportunidad. Los correspondientes a períodos anteriores y posteriores serán prorrateados en función de los días comprendidos en cada periodo tarifario
 
-CUADRO TARIFARIO (Resol.Enrese N°                      / 2026)
+CUADRO TARIFARIO (Resol.Enrese N° 102 / 2026)
 
-Categoria tarifaria                                              Unidad       Importe
+Categoria tarifaria                                             Unidad        Importe
 
 Tarifa N° 1 (Pequeñas Demandas < 10 kW)
 T1 R Residencial
@@ -168,9 +168,9 @@ clientes los nuevos precios, por suministro eléctrico, que rigen a partir del 1
  Los consumos que correspondan totalmente a períodos anteriores al 1 de NOVIEMBRE serán facturados con los cuadros tarifarios vigentes en cada
 oportunidad. Los correspondientes a períodos anteriores y posteriores serán prorrateados en función de los días comprendidos en cada periodo tarifario
 
-CUADRO TARIFARIO (Resol.Enrese N°                      / 2026)
+CUADRO TARIFARIO (Resol.Enrese N° 102 / 2026)
 
-Categoria tarifaria                                              Unidad       Importe      Categoria tarifaria                             Unidad    Importe
+Categoria tarifaria                                             Unidad        Importe      Categoria tarifaria                             Unidad    Importe
 
 Tarifa N° 1 (Pequeñas Demandas < 10 kW)                                                   Media Tensión con 50 kW < Pot < 300 kW
 T1 R Residencial                                                                          T3-MT Cargo por Cap.de Sum.Cont. en Punta      $/kW-mes    21,141.83
