@@ -37729,5 +37729,134 @@
     ]
    }
   ]
+ },
+ {
+  "id": "ecsapem",
+  "detectado": "2026-11-25T10:02:54+00:00",
+  "sha256": "03a22f715d710f90b1f68d9114f355fb1d1766ba04184dfdfed7d2ac776759f2",
+  "url": "https://www.ecsapem.com.ar/uploads/Cuadros_Tarifarios_Diciembre_2026_Enero_2027_NO_SUBSIDIADO_Res_DP_374_26_641df918a1.pdf",
+  "titulo": "Cuadros Tarifarios Diciembre 2026-Enero 2027 - NO SUBSIDIADO Res DP 374-26.pdf",
+  "vigencia": "CUADRO TARIFARIO DICIEMBRE 2026 - ENERO 2027",
+  "tablas": [
+   {
+    "titulo": "T1 Residencial / General / AP",
+    "filas": [
+     {
+      "grupo": "RESTO",
+      "concepto": "Cargo fijo RESIDENCIAL NO BONIFICADO todo consumo(*)",
+      "unidad": "$/MES",
+      "valores": [
+       1809.26,
+       34736.54,
+       36545.8
+      ],
+      "columnas": [
+       "VAD",
+       "MEM",
+       "TOTAL"
+      ]
+     },
+     {
+      "grupo": "Cargo variable por consumo de energia UNIDAD VAD MEM TOTAL",
+      "concepto": "Cargo Variable por todo Consumo de Energía RESIDENCIAL NO BONIFICADO (*)",
+      "unidad": "$/KWh.",
+      "valores": [
+       45.152,
+       113.9541,
+       159.1061
+      ],
+      "columnas": [
+       "VAD",
+       "MEM",
+       "TOTAL"
+      ]
+     },
+     {
+      "grupo": "ELECTRODEPENDIENTES UNIDAD VAD MEM TOTAL",
+      "concepto": "Cargo fijo",
+      "unidad": "$/MES",
+      "valores": [
+       1809.26,
+       0.0,
+       1809.26
+      ],
+      "columnas": [
+       "VAD",
+       "MEM",
+       "TOTAL"
+      ]
+     },
+     {
+      "grupo": "ELECTRODEPENDIENTES UNIDAD VAD MEM TOTAL",
+      "concepto": "Cargo variable por consumo de energia",
+      "unidad": "$/KWh.",
+      "valores": [
+       45.152,
+       0.0,
+       45.152
+      ],
+      "columnas": [
+       "VAD",
+       "MEM",
+       "TOTAL"
+      ]
+     },
+     {
+      "grupo": "T1 - G USO GENERAL UNIDAD VAD MEM TOTAL",
+      "concepto": "Cargo fijo",
+      "unidad": "$/MES",
+      "valores": [
+       2291.89,
+       154126.65,
+       156418.54
+      ],
+      "columnas": [
+       "VAD",
+       "MEM",
+       "TOTAL"
+      ]
+     },
+     {
+      "grupo": "T1 - G USO GENERAL UNIDAD VAD MEM TOTAL",
+      "concepto": "Cargo variable por consumo de energía",
+      "unidad": "$/KWh.",
+      "valores": [
+       55.3944,
+       146.6554,
+       202.0498
+      ],
+      "columnas": [
+       "VAD",
+       "MEM",
+       "TOTAL"
+      ]
+     },
+     {
+      "grupo": "T1 - AP ALUMBRADO PÚBLICO UNIDAD VAD MEM TOTAL",
+      "concepto": "Cargo variable por consumo de energía",
+      "unidad": "$/KWh.",
+      "valores": [
+       58.7762,
+       208.4289,
+       267.2051
+      ],
+      "columnas": [
+       "VAD",
+       "MEM",
+       "TOTAL"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "id": "epe",
+  "detectado": "2026-11-25T10:02:54+00:00",
+  "sha256": "801698a5ddab3d37c6733946921f32cbe22c37055ad0166c2c6406f816bf0a5f",
+  "url": "https://epe.santafe.gov.ar/institucional-api/download/cb6055c2-3e76-48ef-ad63-f8e0452a4183",
+  "titulo": "Cuadro Tarifario Noviembre 2026 - No Residencial (CUT_No_Residencial_Noviembre_2026.pdf)",
+  "vigencia": null,
+  "tablas": []
  }
 ]

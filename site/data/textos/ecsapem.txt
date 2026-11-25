@@ -1,4 +1,4 @@
-CUADRO TARIFARIO NOVIEMBRE 2026 NO SUBSIDIADO CON APLICACIÓN DE RES. MIN. D.P. N° 374-26
+CUADRO TARIFARIO DICIEMBRE 2026 - ENERO 2027 - NO SUBSIDIADO CON APLICACIÓN DE RES. MIN. D.P. N° 374-26
 
 LOS VALORES INDICADOS CONSTITUYEN VALORES MÁXIMOS DENTRO DEL CUAL LA DISTRIBUIDORA FACTURARÁ A SUS USUARIOS, ESTABLECIDOS EN LA LEGISLACION VIGENTE.
 
@@ -70,17 +70,16 @@ T1 - AP                                  ALUMBRADO PÚBLICO                     
           Período Horas Resto                                                                         $/KWh.       104.4280      145.8939        250.3219        36.0903      132.5976       168.6879
           Período Horas Valle Nocturno                                                                $/KWh.       104.4280      144.9204        249.3484        36.0903      131.7128       167.8031
 
-                                 Por Consumo de Energía Reactiva
-         Rec. por C/KVAR excedido P/Pot.>100kW cos fi>= 0,85                      $/kVAR                                                                  0.01
-         Rec. por C/KVAR excedido P/Pot.>100kW cos fi>= 0,95                      $/kVAR                                                                  0.01
-(*) RESIDENCIALES CALIFICADOS P/SUBSIDIOS ENERGETICOS FOCALIZADOS S/ANEXO I- DECRETO 943/2025
-CUADRO TARIFARIO NOVIEMBRE 2026 NO SUBSIDIADO CON APLICACIÓN DE RES. MIN. D.P. N° 374-26
+                                  Por Consumo de Energía Reactiva
+          Rec. por C/KVAR excedido P/Pot.>100kW cos fi>= 0,85                                         $/kVAR                                              0.01
+          Rec. por C/KVAR excedido P/Pot.>100kW cos fi>= 0,95                                         $/kVAR                                              0.01
+CUADRO TARIFARIO DICIEMBRE 2026 - ENERO 2027 - NO SUBSIDIADO CON APLICACIÓN DE RES. MIN. D.P. N° 374-26
 
 LOS VALORES INDICADOS CONSTITUYEN VALORES MÁXIMOS DENTRO DEL CUAL LA DISTRIBUIDORA FACTURARÁ A SUS USUARIOS, ESTABLECIDOS EN LA LEGISLACION VIGENTE.
 
 
 
-CUADRO TARIFARIO NOVIEMBRE 2026 - NO SUBSIDIADO CON APLICACIÓN DE RES. MIN. D.P. N° 374 -26
+CUADRO TARIFARIO DICIEMBRE 2026 - ENERO 2027 - NO SUBSIDIADO CON APLICACIÓN DE RES. MIN. D.P. N° 374 -26
 LOS VALORES INDICADOS CONSTITUYEN VALORES MÁXIMOS DENTRO DEL CUAL LA DISTRIBUIDORA FACTURARÁ A SUS USUARIOS, ESTABLECIDOS EN LA LEGISLACION VIGENTE.
 
 
@@ -118,7 +117,7 @@ LOS VALORES INDICADOS CONSTITUYEN VALORES MÁXIMOS DENTRO DEL CUAL LA DISTRIBUID
                                    Por Consumo de Energía Reactiva
          Recargo por cada centésimo de Tg> 0,62 por la
          energía reactiva en exceso del 62% de la E. Activa                                             %
-CUADRO TARIFARIO NOVIEMBRE 2026 NO SUBSIDIADO CON APLICACIÓN DE RES. MIN. D.P. N° 374-26
+CUADRO TARIFARIO DICIEMBRE 2026 - ENERO 2027 - NO SUBSIDIADO CON APLICACIÓN DE RES. MIN. D.P. N° 374-26
 
 LOS VALORES INDICADOS CONSTITUYEN VALORES MÁXIMOS DENTRO DEL CUAL LA DISTRIBUIDORA FACTURARÁ A SUS USUARIOS, ESTABLECIDOS EN LA LEGISLACION VIGENTE.
 
@@ -204,13 +203,13 @@ LOS VALORES INDICADOS CONSTITUYEN VALORES MÁXIMOS DENTRO DEL CUAL LA DISTRIBUID
  Subterráneas Monofásicas                                                       $       274,602.82         0.00       274,602.82
  Aéreas Trifásicas                                                              $       176,579.99         0.00       176,579.99
  Subterráneas Trifásicas                                                        $       333,452.23         0.00       333,452.23
-CUADRO TARIFARIO NOVIEMBRE 2026 NO SUBSIDIADO CON APLICACIÓN DE RES. MIN. D.P. N° 374-26
+CUADRO TARIFARIO DICIEMBRE 2026 - ENERO 2027 - NO SUBSIDIADO CON APLICACIÓN DE RES. MIN. D.P. N° 374-26
 
 LOS VALORES INDICADOS CONSTITUYEN VALORES MÁXIMOS DENTRO DEL CUAL LA DISTRIBUIDORA FACTURARÁ A SUS USUARIOS, ESTABLECIDOS EN LA LEGISLACION VIGENTE.
 
 
 
-CUADRO TARIFARIO NOVIEMBRE 2026 - NO SUBSIDIADO CON APLICACIÓN DE RES. MIN. D.P. N° 374 -26
+CUADRO TARIFARIO DICIEMBRE 2026 - ENERO 2027 - NO SUBSIDIADO CON APLICACIÓN DE RES. MIN. D.P. N° 374 -26
 LOS VALORES INDICADOS CONSTITUYEN VALORES MÁXIMOS DENTRO DEL CUAL LA DISTRIBUIDORA FACTURARÁ A SUS USUARIOS, ESTABLECIDOS EN LA LEGISLACION VIGENTE.
 
 

@@ -1,286 +1,140 @@
-                                                                          EMPRESA PROVINCIAL DE LA ENERGIA DE SANTA FE
-                                                                                                    Consumos registrados desde el 1 de OCTUBRE de 2026
-                                                                                    CUADRO TARIFARIO RESIDENCIAL COMPLETO MENSUAL - FACTURACION BIMESTRAL
+                                                             EMPRESA PROVINCIAL DE LA ENERGIA DE SANTA FE
+                                                                                           Consumos registrados desde el 1 de NOVIEMBRE de 2026
+                                                                        CUADRO TARIFARIO NO RESIDENCIAL COMPLETO MENSUAL - FACTURACION BIMESTRAL
 
-                                   TARIFA RESIDENCIAL - SIN SUBSIDIO - Decreto P.E.N. N° 943/2025 y Resolución N° 238/2026 - SUBSIDIO ENERGÉTICO FOCALIZADO
-                                                                                      Cuota de        Primeros 75      Siguientes 75    Siguientes 150   Excedente de
-                               Código
-     Tipo de Usuario                                  Característica                   Servicio        kWh/mes           kWh/mes           kWh/mes       300 kWh/mes
-                              Tarifario
-                                                                                     $/sum. Mes         ($/kWh)           ($/kWh)           ($/kWh)        ($/kWh)
-                                1AA                       Urbano
+                                                                                                     TARIFA NO RESIDENCIAL
+                                                                                                       Cuota de      Primeros 400   Siguientes 400 Siguientes 1200 Excedente de
+                                Código
+      Tipo de Usuario                                          Característica                           Servicio      kWh/mes          kWh/mes        kWh/mes      2000 kWh/mes
+                               Tarifario
+                                                                                                      $/sum. Mes       ($/kWh)          ($/kWh)        ($/kWh)        ($/kWh)
+                                 UC                         Comercial - Urbano                        11.770,70051    393,22570      404,53163      409,37142      411,79123
+                                 U7C                   Comercial - Urbano - Nocturno                    0,00000       287,19721      292,85017      295,27007      296,47997
 
-                                1NA              Servicio Oficial Nacional
-                                                                                     3.944,25564       247,64470         270,56492        366,81394       440,80713
-                                1OA              Servicio Oficial Provincial
- Residencial hasta 20 kW
-                                1PA              Servicio Oficial Municipal
+                                 ULC                Comercial Ley N° 11.2757 - Urbano                 11.417,57949    381,42892      392,39568      397,09027      399,43749
 
-                                1BA                        Rural                     5.521,95790       267,06601         306,57296        453,32428       498,86093
+                                 L7C           Comercial Ley N° 11.2757 - Urbano - Nocturno             0,00000       278,58129      284,06466      286,41196      287,58557
 
-                                1CA                  Rural - Nocturno                  0,00000         208,80206         228,55553        301,93119       324,69952
+                                  UI                         Industrial - Urbano                      10.593,63046    361,41715      371,02719      375,14101      377,19785
 
- Jubilados y Pensionados        1DA                       Urbano
-                                                                                     3.944,25564       170,37069         190,38331
-   Hasta 120 kWh/mes            1EA                        Rural
+   Tarifa No Residencial         U7I                   Industrial - Urbano - Nocturno                   0,00000       271,29293      276,09795      278,15486      279,18328
+   (menor de 50 kW) o
+                                 UPI                     Parque Industrial - Urbano                   8.474,90436     289,13372      296,82175      300,11280      301,75828
+ Residencial (mayor de 20
+  kW y menor de 50 kW)           U7P               Parque Industrial - Urbano - Nocturno                0,00000       217,03434      220,87836      222,52388      223,34662
 
-                                                                                      Cuota de        Primeros 150     Siguientes 150   Siguientes 200   Excedente de
-                               Código
-     Tipo de Usuario                                  Característica                   Servicio         kWh/mes           kWh/mes          kWh/mes       500 kWh/mes
-                              Tarifario
-                                                                                     $/sum. Mes          ($/kWh)           ($/kWh)          ($/kWh)        ($/kWh)
-                                          Uso colectivo en edificios en propiedad
-        Residencial             1QA                                                  3.944,25564       247,64470         270,56492        366,81394       440,80713
-                                                         horizontal
+                                 UIA                   Extracción de Agua y Bombeo                    21.187,26092    298,33020      285,59088      258,75763      259,58037
 
+                                 RC             General Monofásico Especial - Rural - Diurno          17.656,05076    414,43139      426,86792      420,78155      423,32235
+                                 RNM          General Monofásico Especial - Rural - Nocturno            0,00000       297,80005      304,01832      300,97513      302,24553
+                                 R3C             General Trifásico Especial - Rural - Diurno          18.833,12081    425,03424      438,03606      432,19169      434,85348
+                                 RNC            General Trifásico Especial - Rural - Nocturno           0,00000       303,10148      309,60239      306,68020      308,01110
 
-TARIFA SOCIAL DECRETO PROVINCIAL N° 449/2011 - RESOLUCIÓN CONJUNTA N° 1899/2025
-                                                                                                                     Hasta 500 kWh/mes                                                     Mayor a 500 kWh/mes
-                                                                                      Cuota de        Primeros 75      Siguientes 75  Siguientes 150     Excedente de    Cuota de     Primeros 350    Siguientes 150   Excedente de
-                               Código
-     Tipo de Usuario                                  Característica                   Servicio        kWh/mes           kWh/mes         kWh/mes         300 kWh/mes      Servicio      kWh/mes          kWh/mes       500 kWh/mes
-                              Tarifario
-                                                                                     $/sum. Mes         ($/kWh)           ($/kWh)         ($/kWh)          ($/kWh)      $/sum. Mes       ($/kWh)          ($/kWh)        ($/kWh)
- Tarifa Social Provincial 1     1FA                       Urbano
-                                                                                     3.944,25564       160,24876         174,54347        215,42086       295,67262     3.944,25564    206,30332        295,67262       440,80713
-       hasta 2,2 kW             1GA                        Rural
+                                                                                                      Precio de la
+                                Código
+      Tipo de Usuario                                          Característica                           Energía
+                               Tarifario
+                                                                                                       ($/kWh)
 
-                                                                                      Hasta 500
-                                                                                                                    Mayor a 500 kWh/mes
-                                                                                      kWh/mes
-                                                                                                                        Primeros      Excedente de
-                                                                                      Cuota de         Cuota de
-                               Código                                                                                   499999,5        499999,5
-     Tipo de Usuario                                  Característica                   Servicio         Servicio
-                              Tarifario                                                                                 kWh/mes         kWh/mes
-                                                                                     $/sum. Mes       $/sum. Mes
-                                                                                                                         ($/kWh)         ($/kWh)
-                                1HA                       Urbano
- Tarifa Social Provincial 2                                                          31.065,06914     31.065,06914        0,00000          0,00000
-                                1IA                        Rural
+                                 3 71      Sin reposición de lámparas ni prestación de servicios.      308,70270
+Tarifa 3 - Alumbrado Público
+                                           Con reposición de lámparas ni prestación de servicios -
+                                 3 72                                                                  342,32106
+                                                               Incandescente.
 
 
-TARIFA ELECTRODEPENDIENTE Ley Provincial N° 13.811
-                                                                                      Cuota de        Primeros 75      Siguientes 75    Siguientes 150   Excedente de
-                               Código
-     Tipo de Usuario                                  Característica                   Servicio        kWh/mes           kWh/mes           kWh/mes       300 kWh/mes
-                              Tarifario
-                                                                                     $/sum. Mes         ($/kWh)           ($/kWh)           ($/kWh)        ($/kWh)
-   Electrodependiente           1YA                       Urbano
-                                                                                       0,00000          0,00000           0,00000          0,00000         0,00000
-        Provincial              1ZA                        Rural
-                                                                          EMPRESA PROVINCIAL DE LA ENERGIA DE SANTA FE
-                                                                                                    Consumos registrados desde el 1 de OCTUBRE de 2026
-                                                                                    CUADRO TARIFARIO RESIDENCIAL COMPLETO MENSUAL - FACTURACION BIMESTRAL
+TARIFA NO RESIDENCIAL - ASOCIACIONES SIN FINES DE LUCRO
+                                                                                                                         Hasta a 800 kWh/mes                                                 Mayor a 800 kWh/mes
+                                                                                                       Cuota de      Primeros 100 Siguientes 500   Excedente de     Cuota de      Primeros 600 Siguientes 200 Siguientes 1700 Excedente de
+                                Código
+      Tipo de Usuario                                          Característica                           Servicio      kWh/mes          kWh/mes     600 kWh/mes       Servicio      kWh/mes        kWh/mes        kWh/mes      2500 kWh/mes
+                               Tarifario
+                                                                                                      $/sum. Mes       ($/kWh)          ($/kWh)      ($/kWh)       $/sum. Mes       ($/kWh)        ($/kWh)        ($/kWh)        ($/kWh)
+                                 4*26                             Urbano                              4.727,17550     286,33723      371,43614      372,83693      4.727,17550     357,25298     372,83693      372,83693      382,63790
+
+   Asociaciones Civiles y        R*16                       Rural - Monofásico
+Entidades Sin Fines de Lucro     R*36       Rural - Trifásico con transformador menor a 26 kVA        5.199,89305     296,85408      390,46288      392,00375      5.199,89305     374,86140     392,00375      392,00375      402,78481
+
+                                 R*46       Rural - Trifásico con transformador mayor a 25 kVA
+                                                            EMPRESA PROVINCIAL DE LA ENERGIA DE SANTA FE
+                                                                                           Consumos registrados desde el 1 de NOVIEMBRE de 2026
+                                                                       CUADRO TARIFARIO NO RESIDENCIAL COMPLETO MENSUAL - FACTURACION BIMESTRAL
+
+                                                                                                      TARIFA NO RESIDENCIAL
+                               4*D6                              Urbano                                4.727,17550    149,72667   234,82558   236,22637   4.727,17550    220,64242   236,22637   236,22637   246,02734
+
+  Entidades Deportivas de      RD*6                         Rural - Monofásico
+     Barrio y de Pueblo        RD3*        Rural - Trifásico con transformador menor a 26 kVA          5.199,89305    160,24352   253,85232   255,39319   5.199,89305    238,25084   255,39319   255,39319   266,17425
+
+                               RD4*         Rural - Trifásico con transformador mayor a 25 kVA
+
+                               4*27                              Urbano                                3.781,74040    265,30352   333,38265   334,50328   3.781,74040    322,03612   334,50328   334,50328   342,34406
+
+Entidades de Rehabilitación    R*17                         Rural - Monofásico
+y Protección al Ser Humano     R*37        Rural - Trifásico con transformador menor a 26 kVA          4.159,91444    273,71700   348,60404   349,83674   4.159,91444    336,12286   349,83674   349,83674   358,46159
+                               R*47         Rural - Trifásico con transformador mayor a 25 kVA
+
+                               4*32                                                        Nacional
+                               4*42                     Urbano                         Provincial      4.727,17550    286,33723   371,43614   372,83693   4.727,17550    357,25298   372,83693   372,83693   382,63790
+Establecimiento Educacional    4*52                                                    Municipal
+ y Suministros Oficiales Sin
+       Fines de Lucro          R*32                                                        Nacional
+                               R*42                      Rural                         Provincial      5.199,89305    296,85408   390,46288   392,00375   5.199,89305    374,86140   392,00375   392,00375   402,78481
+                               R*52                                                    Municipal
+
+                               4*31                                                        Nacional
+                               4*41                                                    Provincial
+                                                        Urbano                                         5.672,61060    296,85408   390,46288   392,00375   5.672,61060    374,86140   392,00375   392,00375   402,78481
+                               4*51                                                    Municipal
+                               4*91                                                        General
+                               R*N1                                                        Nacional
+                               R*P1                                                    Provincial
+                                                         Rural                                         7.799,83958    302,63834   400,92759   402,54550   7.799,83958    384,54604   402,54550   402,54550   413,86562
+                               R*M1                                                    Municipal
+  Dependencias Oficiales       R*F1                                                        General
+  Reparticiones Públicas       R*N3                                                        Nacional
+                               R*P3   Rural - Trifásico con transformador menor a      Provincial
+                                                                                                       10.399,78611   302,63834   400,92759   402,54550   10.399,78611   384,54604   402,54550   402,54550   413,86562
+                               R*M3                       26 kVA                       Municipal
+                               R*F3                                                        General
+                               R*N4                                                        Nacional
+                               R*P4   Rural - Trifásico con transformador mayor a      Provincial
+                                                                                                       12.999,73264   302,63834   400,92759   402,54550   12.999,73264   384,54604   402,54550   402,54550   413,86562
+                               R*M4                       25 kVA                       Municipal
+                               R*F4                                                        General
+
+                               4*28       Museos, Monumentos y Lugares Históricos Nacionales             0,00000       0,00000     0,00000     0,00000      0,00000       0,00000     0,00000     0,00000     0,00000
+  Dependencias Oficiales                 Dependencias Oficiales - Locales afectados para uso de la
+                               4*18                                                                      0,00000       0,00000     0,00000     0,00000      0,00000       0,00000     0,00000     0,00000     0,00000
+    Bienes Culturales                           EMPRESA PROVINCIAL DE LA ENERGIA
+                               4*19                Bibliotecas Populares - Ley N° 10.572                 0,00000       0,00000     0,00000     0,00000      0,00000       0,00000     0,00000     0,00000     0,00000
+                                               EMPRESA PROVINCIAL DE LA ENERGIA DE SANTA FE
+                                                                             Consumos registrados desde el 1 de NOVIEMBRE de 2026
+                                                          CUADRO TARIFARIO NO RESIDENCIAL COMPLETO MENSUAL - FACTURACION BIMESTRAL
+
+                                                                                     TARIFA NO RESIDENCIAL
+                                                                                                            Hasta 1000 kWh/mes                                                            Mayor a 1000 kWh/mes
+                                                                                        Cuota de        Primeros 100 Siguientes 500      Excedente de        Cuota de          Primeros 600 Siguientes 400 Siguientes 1500 Excedente de
+                           Código
+    Tipo de Usuario                              Característica                          Servicio        kWh/mes         kWh/mes         600 kWh/mes          Servicio          kWh/mes         kWh/mes       kWh/mes      2500 kWh/mes
+                          Tarifario
+                                                                                       $/sum. Mes         ($/kWh)         ($/kWh)          ($/kWh)          $/sum. Mes           ($/kWh)         ($/kWh)       ($/kWh)        ($/kWh)
+
+ Bomberos Voluntarios       4*B6      Asociaciones de Bomberos Voluntarios                0,00000          0,00000          0,00000          0,00000        4.727,17550          0,00000       0,00000       191,66821      201,46918
 
 
-                                  TARIFA RESIDENCIAL - CON SUBSIDIO - Decreto P.E.N. N° 943/2025 y Resolución N° 238/2026 - SUBSIDIO ENERGÉTICO FOCALIZADO
-                                                        Localidades MUY CÁLIDAS - Zonas Bioambientales Ia y Ib - Norma IRAM 11603:2012.
-                                                                                                                     Hasta 350 kWh/mes                                                    Mayor a 350 kWh/mes
-                                                                                      Cuota de        Primeros 75      Siguientes 75  Siguientes 150   Excedente de    Cuota de      Primeros 350    Siguientes 200   Excedente de
-                               Código
-     Tipo de Usuario                                  Característica                   Servicio        kWh/mes           kWh/mes         kWh/mes       300 kWh/mes      Servicio       kWh/mes          kWh/mes       550 kWh/mes
-                              Tarifario
-                                                                                     $/sum. Mes         ($/kWh)           ($/kWh)         ($/kWh)        ($/kWh)      $/sum. Mes        ($/kWh)          ($/kWh)        ($/kWh)
-
-                                1AE                       Urbano
-
-                                1NE              Servicio Oficial Nacional
-                                                                                     3.944,25564       142,23411         165,15433       261,40335      440,80713     3.944,25564     270,98873         440,80713       440,80713
-                                1OE              Servicio Oficial Provincial
- Residencial hasta 20 kW
-                                1PE              Servicio Oficial Municipal
-
-                                1BE                        Rural                     5.521,95790       161,65542         201,16237       347,91369      498,86093     5.521,95790     328,23571         498,86093       498,86093
-
-                                1CE                  Rural - Nocturno                  0,00000         103,39147         123,14494       196,52060      324,69952       0,00000       209,26960         324,69952       324,69952
-
- Jubilados y Pensionados        1DE                       Urbano
-                                                                                     3.944,25564       64,96010          84,97272
-   Hasta 120 kWh/mes            1EE                        Rural
-
-                                                                                                            Hasta 350 kWh/mes                                                     Mayor a 350 kWh/mes
-                                                                                      Cuota de        Primeros 150 Siguientes 150      Excedente de     Cuota de      Primeros 350  Siguientes 150  Siguientes 50     Excedente de
-                               Código
-     Tipo de Usuario                                  Característica                   Servicio         kWh/mes         kWh/mes        300 kWh/mes       Servicio       kWh/mes        kWh/mes        kWh/mes         550 kWh/mes
-                              Tarifario
-                                                                                     $/sum. Mes          ($/kWh)         ($/kWh)         ($/kWh)       $/sum. Mes        ($/kWh)        ($/kWh)        ($/kWh)          ($/kWh)
-                                          Uso colectivo en edificios en propiedad
-        Residencial             1QE                                                  3.944,25564       142,23411         165,15433       366,81394     3.944,25564     214,25720      366,81394         440,80713       440,80713
-                                                         horizontal
-
-
-TARIFA SOCIAL DECRETO PROVINCIAL N° 449/2011 - RESOLUCIÓN CONJUNTA N° 1899/2025
-                                                                                                                     Hasta 350 kWh/mes                                                              Mayor a 350 kWh/mes
-                                                                                      Cuota de        Primeros 75      Siguientes 75  Siguientes 150   Excedente de    Cuota de      Primeros 350     Siguientes 150  Siguientes 50   Excedente de
-                               Código
-     Tipo de Usuario                                  Característica                   Servicio        kWh/mes           kWh/mes         kWh/mes       300 kWh/mes      Servicio       kWh/mes           kWh/mes        kWh/mes       550 kWh/mes
-                              Tarifario
-                                                                                     $/sum. Mes         ($/kWh)           ($/kWh)         ($/kWh)        ($/kWh)      $/sum. Mes        ($/kWh)           ($/kWh)        ($/kWh)        ($/kWh)
- Tarifa Social Provincial 1     1FE                       Urbano
-                                                                                     3.944,25564       54,83817          69,13288        110,01027      295,67262     3.944,25564     146,06870         295,67262       440,80713      440,80713
-       hasta 2,2 kW             1GE                        Rural
-
-                                                                                      Hasta 500
-                                                                                                                            Mayor a 500 kWh/mes
-                                                                                      kWh/mes
-                                                                                                                         Primeros                      Excedente de
-                                                                                      Cuota de         Cuota de                         Siguientes 0
-                               Código                                                                                    499999,5                        499999,5
-     Tipo de Usuario                                  Característica                   Servicio         Servicio                         kWh/mes
-                              Tarifario                                                                                  kWh/mes                         kWh/mes
-                                                                                     $/sum. Mes       $/sum. Mes                          ($/kWh)
-                                                                                                                          ($/kWh)                         ($/kWh)
-                                1HE                       Urbano
- Tarifa Social Provincial 2                                                          22.464,75152     22.464,75152        0,00000         0,00000        0,00000
-                                 1IE                       Rural
-                                                                          EMPRESA PROVINCIAL DE LA ENERGIA DE SANTA FE
-                                                                                                    Consumos registrados desde el 1 de OCTUBRE de 2026
-                                                                                    CUADRO TARIFARIO RESIDENCIAL COMPLETO MENSUAL - FACTURACION BIMESTRAL
-
-
-                                  TARIFA RESIDENCIAL - CON SUBSIDIO - Decreto P.E.N. N° 943/2025 y Resolución N° 238/2026 - SUBSIDIO ENERGÉTICO FOCALIZADO
-                                                         Localidades CÁLIDAS - Zonas Bioambientales IIa y IIb - Norma IRAM 11603:2012.
-                                                                                                                     Hasta 350 kWh/mes                                                    Mayor a 350 kWh/mes
-                                                                                      Cuota de        Primeros 75      Siguientes 75  Siguientes 150   Excedente de    Cuota de      Primeros 350     Siguientes 20   Excedente de
-                               Código
-     Tipo de Usuario                                  Característica                   Servicio        kWh/mes           kWh/mes         kWh/mes       300 kWh/mes      Servicio       kWh/mes          kWh/mes       370 kWh/mes
-                              Tarifario
-                                                                                     $/sum. Mes         ($/kWh)           ($/kWh)         ($/kWh)        ($/kWh)      $/sum. Mes        ($/kWh)          ($/kWh)        ($/kWh)
-
-                                1AF                       Urbano
-
-                                1NF              Servicio Oficial Nacional
-                                                                                     3.944,25564       142,23411         165,15433      261,40335       440,80713     3.944,25564     270,98873         440,80713       440,80713
-                                1OF              Servicio Oficial Provincial
- Residencial hasta 20 kW
-                                1PF              Servicio Oficial Municipal
-
-                                1BF                        Rural                     5.521,95790       161,65542         201,16237      347,91369       498,86093     5.521,95790     328,23571         498,86093       498,86093
-
-                                1CF                  Rural - Nocturno                  0,00000         103,39147         123,14494      196,52060       324,69952       0,00000       209,26960         324,69952       324,69952
-
- Jubilados y Pensionados        1DF                       Urbano
-                                                                                     3.944,25564       64,96010          84,97272
-   Hasta 120 kWh/mes            1EF                        Rural
-
-                                                                                                            Hasta 350 kWh/mes                                                     Mayor a 350 kWh/mes
-                                                                                      Cuota de        Primeros 150 Siguientes 150      Excedente de     Cuota de      Primeros 350   Siguientes 20 Siguientes 130     Excedente de
-                               Código
-     Tipo de Usuario                                  Característica                   Servicio         kWh/mes         kWh/mes        300 kWh/mes       Servicio       kWh/mes        kWh/mes        kWh/mes         500 kWh/mes
-                              Tarifario
-                                                                                     $/sum. Mes          ($/kWh)         ($/kWh)         ($/kWh)       $/sum. Mes        ($/kWh)        ($/kWh)        ($/kWh)          ($/kWh)
-                                          Uso colectivo en edificios en propiedad
-        Residencial             1QF                                                  3.944,25564       142,23411         165,15433      366,81394      3.944,25564     214,25720      366,81394         366,81394       440,80713
-                                                         horizontal
-
-
-TARIFA SOCIAL DECRETO PROVINCIAL N° 449/2011 - RESOLUCIÓN CONJUNTA N° 1899/2025
-                                                                                                                     Hasta 350 kWh/mes                                                              Mayor a 350 kWh/mes
-                                                                                      Cuota de        Primeros 75      Siguientes 75  Siguientes 150   Excedente de    Cuota de      Primeros 350      Siguientes 20 Siguientes 130   Excedente de
-                               Código
-     Tipo de Usuario                                  Característica                   Servicio        kWh/mes           kWh/mes         kWh/mes       300 kWh/mes      Servicio       kWh/mes           kWh/mes        kWh/mes       500 kWh/mes
-                              Tarifario
-                                                                                     $/sum. Mes         ($/kWh)           ($/kWh)         ($/kWh)        ($/kWh)      $/sum. Mes        ($/kWh)           ($/kWh)        ($/kWh)        ($/kWh)
- Tarifa Social Provincial 1     1FF                       Urbano
-                                                                                     3.944,25564       54,83817          69,13288       110,01027       295,67262     3.944,25564     146,06870         295,67262       295,67262      440,80713
-       hasta 2,2 kW             1GF                        Rural
-
-                                                                                      Hasta 500
-                                                                                                                    Mayor a 500 kWh/mes
-                                                                                      kWh/mes
-                                                                                                                        Primeros      Excedente de
-                                                                                      Cuota de         Cuota de
-                               Código                                                                                   499999,5        499999,5
-     Tipo de Usuario                                  Característica                   Servicio         Servicio
-                              Tarifario                                                                                 kWh/mes         kWh/mes
-                                                                                     $/sum. Mes       $/sum. Mes
-                                                                                                                         ($/kWh)         ($/kWh)
-                                1HF                       Urbano
- Tarifa Social Provincial 2                                                          22.464,75152     22.464,75152        0,00000         0,00000
-                                 1IF                       Rural
-                                                                          EMPRESA PROVINCIAL DE LA ENERGIA DE SANTA FE
-                                                                                                    Consumos registrados desde el 1 de OCTUBRE de 2026
-                                                                                    CUADRO TARIFARIO RESIDENCIAL COMPLETO MENSUAL - FACTURACION BIMESTRAL
-
-
-                                  TARIFA RESIDENCIAL - CON SUBSIDIO - Decreto P.E.N. N° 943/2025 y Resolución N° 238/2026 - SUBSIDIO ENERGÉTICO FOCALIZADO
-                                                  Localidades TEMPLADAS CÁLIDAS - Zonas Bioambientales IIIa y IIIb - Norma IRAM 11603:2012.
-                                                                                                                     Hasta 350 kWh/mes                                              Mayor a 350 kWh/mes
-                                                                                      Cuota de        Primeros 75      Siguientes 75  Siguientes 150   Excedente de    Cuota de        Primeros 350   Excedente de
-                               Código
-     Tipo de Usuario                                  Característica                   Servicio        kWh/mes           kWh/mes         kWh/mes       300 kWh/mes      Servicio         kWh/mes      350 kWh/mes
-                              Tarifario
-                                                                                     $/sum. Mes         ($/kWh)           ($/kWh)         ($/kWh)        ($/kWh)      $/sum. Mes          ($/kWh)       ($/kWh)
-
-                                1AG                       Urbano
-
-                                1NG              Servicio Oficial Nacional
-                                                                                     3.944,25564       142,23411         165,15433      261,40335       440,80713     3.944,25564       270,98873        440,80713
-                                1OG              Servicio Oficial Provincial
- Residencial hasta 20 kW
-                                1PG              Servicio Oficial Municipal
-
-                                1BG                        Rural                     5.521,95790       161,65542         201,16237      347,91369       498,86093     5.521,95790       328,23571        498,86093
-
-                                1CG                  Rural - Nocturno                  0,00000         103,39147         123,14494      196,52060       324,69952       0,00000         209,26960        324,69952
-
- Jubilados y Pensionados        1DG                       Urbano
-                                                                                     3.944,25564       64,96010          84,97272
-   Hasta 120 kWh/mes            1EG                        Rural
-
-                                                                                                            Hasta 350 kWh/mes                                              Mayor a 350 kWh/mes
-                                                                                      Cuota de        Primeros 150 Siguientes 150      Excedente de     Cuota de      Primeros 350    Siguientes 150   Excedente de
-                               Código
-     Tipo de Usuario                                  Característica                   Servicio         kWh/mes         kWh/mes        300 kWh/mes       Servicio       kWh/mes          kWh/mes       500 kWh/mes
-                              Tarifario
-                                                                                     $/sum. Mes          ($/kWh)         ($/kWh)         ($/kWh)       $/sum. Mes        ($/kWh)          ($/kWh)        ($/kWh)
-                                          Uso colectivo en edificios en propiedad
-        Residencial             1QG                                                  3.944,25564       142,23411         165,15433      366,81394      3.944,25564     214,25720        366,81394        440,80713
-                                                         horizontal
-
-
-TARIFA SOCIAL DECRETO PROVINCIAL N° 449/2011 - RESOLUCIÓN CONJUNTA N° 1899/2025
-                                                                                                                     Hasta 350 kWh/mes                                                      Mayor a 350 kWh/mes
-                                                                                      Cuota de        Primeros 75      Siguientes 75  Siguientes 150   Excedente de    Cuota de        Primeros 350    Siguientes 150   Excedente de
-                               Código
-     Tipo de Usuario                                  Característica                   Servicio        kWh/mes           kWh/mes         kWh/mes       300 kWh/mes      Servicio         kWh/mes          kWh/mes       500 kWh/mes
-                              Tarifario
-                                                                                     $/sum. Mes         ($/kWh)           ($/kWh)         ($/kWh)        ($/kWh)      $/sum. Mes          ($/kWh)          ($/kWh)        ($/kWh)
- Tarifa Social Provincial 1     1FG                       Urbano
-                                                                                     3.944,25564       54,83817          69,13288       110,01027       295,67262     3.944,25564       146,06870        295,67262       440,80713
-       hasta 2,2 kW             1GG                        Rural
-
-                                                                                      Hasta 500
-                                                                                                                    Mayor a 500 kWh/mes
-                                                                                      kWh/mes
-                                                                                                                        Primeros      Excedente de
-                                                                                      Cuota de         Cuota de
-                               Código                                                                                   499999,5        499999,5
-     Tipo de Usuario                                  Característica                   Servicio         Servicio
-                              Tarifario                                                                                 kWh/mes         kWh/mes
-                                                                                     $/sum. Mes       $/sum. Mes
-                                                                                                                         ($/kWh)         ($/kWh)
-                                1HG                       Urbano
- Tarifa Social Provincial 2                                                          22.464,75154     22.464,75154        0,00000         0,00000
-                                1IG                        Rural
-                                                   EMPRESA PROVINCIAL DE LA ENERGIA DE SANTA FE
-                                                                 Consumos registrados desde el 1 de OCTUBRE de 2026
-                                                       CUADRO TARIFARIO RESIDENCIAL COMPLETO MENSUAL - FACTURACION BIMESTRAL
-
-
-VALOR CUOTA PARTE ALUMBRADO PÚBLICO (MENSUAL)                             IMPUESTOS (Los porcentajes indicados se aplicarán sobre el importe básico)
-  (Bandas de consumo bimestrales)                                         Nacionales:
-                                      $/MES
-             kWh/BIM.                                                        Ley N° 23.349 (IVA): Monotributo 27,00%. Cons. Final 21,00%. Resp. Inscripto 27,00%
-               0 - 120               547,71516                            Provinciales:
-              121 - 240             1.357,74789                              Ley N° 12.692 Energías Renovables 230,81 $/mes
-              241 - 300             5.547,26837                              Ley N° 6.604 - FER - Decreto N° 2.258 Fondo de Electrificación Rural 1,50 %
-              301 - 450             9.065,45381                           Municipales:
-              451 - 599             13.590,43347                            Ley N° 7.797 6,00 % (Excepto Ofic., Alum. Públ., Distr. Rurales y Tracción)
-              600 - 999             18.400,95542                            Ord. 1.592/62 y 1.618/62 para la Ciudad de Rosario 0,60 % y 1,80 % respect.
-            1000 - 1400             22.766,15558
-            1401 - 2800             27.366,91844
-            2801 - 5000             56.407,28940                                        CAP NO APLICABLE a Usuarios con Tarifas Sociales Provinciales y Usuarios Electrodependientes Provinciales
-            5001 - o más            80.581,84272
+VALOR CUOTA PARTE ALUMBRADO PÚBLICO (MENSUAL)
+  (Bandas de consumo bimestrales)
+             kWh/BIM.
+                                           $/MES                                      IMPUESTOS (Los porcentajes indicados se aplicarán sobre el importe básico)
+               0 - 120                    571,59956                                   Nacionales:
+              121 - 240                  1.416,95568                                     Ley N° 23.349 (IVA): Monotributo 27,00%. Cons. Final 21,00%. Resp. Inscripto 27,00%
+              241 - 300                  5.789,17010                                  Provinciales:
+              301 - 450                  9.460,77433                                     Ley N° 12.692 Energías Renovables 230,81 $/mes
+              451 - 599                 14.183,07642                                     Ley N° 6.604 - FER - Decreto N° 2.258 Fondo de Electrificación Rural 1,50 %
+              600 - 999                 19.203,37255                                  Municipales:
+            1000 - 1400                 23.758,92757                                    Ley N° 7.797 6,00 % (Excepto Ofic., Alum. Públ., Distr. Rurales y Tracción)
+            1401 - 2800                 28.560,31756                                    Ord. 1.592/62 y 1.618/62 para la Ciudad de Rosario 0,60 % y 1,80 % respect.
+            2801 - 5000                 58.867,06250
+            5001 - o más                84.095,80433
 

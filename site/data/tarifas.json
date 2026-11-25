@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-24T09:59:36+00:00",
+ "generado": "2026-11-25T10:02:54+00:00",
  "distribuidoras": [
   {
    "id": "edenor",
@@ -1376,7 +1376,7 @@
     "extra: OK https://www.edenor.com/files/2026-11/Cuadro-Tarifario.pdf (2026-11, 32 tablas)",
     "se: ningún archivo descargable (8 enlaces con error)"
    ],
-   "verificado": "2026-11-24T09:59:36+00:00",
+   "verificado": "2026-11-25T10:02:54+00:00",
    "oficiales": {
     "links": [
      "https://www.edenor.com/institucional/marco-regulatorio",
@@ -3625,7 +3625,7 @@
     "extra: OK https://www.edesur.com.ar/wp-content/uploads/2026/11/CT_NOV26_WEB-1.jpg (2026-11, 0 tablas)",
     "se: ningún archivo descargable (6 enlaces con error)"
    ],
-   "verificado": "2026-11-24T09:59:36+00:00",
+   "verificado": "2026-11-25T10:02:54+00:00",
    "oficiales": {
     "links": [
      "https://www.edesur.com.ar/tarifas-cuadro-tarifario/"
@@ -5342,7 +5342,7 @@
     "extra: OK https://www.infoedes.com/wp-content/uploads/2026/09/EDES-Cuadro-Tarifario-Septiembre-1.pdf (2026-09, 5 tablas)",
     "se: ningún archivo descargable (1 enlaces con error)"
    ],
-   "verificado": "2026-11-24T09:59:36+00:00",
+   "verificado": "2026-11-25T10:02:54+00:00",
    "oficiales": {
     "links": [
      "https://www.infoedes.com/cuadro-tarifario/",
@@ -6980,7 +6980,7 @@
     "extra: OK https://www.oceba.gba.gov.ar/nueva_web/adjuntos/ct202609/IF-2026-27778457-GDEBA-GMOCEBA.pdf (2026-09, 4 tablas)",
     "se: ningún archivo descargable (2 enlaces con error)"
    ],
-   "verificado": "2026-11-24T09:59:36+00:00",
+   "verificado": "2026-11-25T10:02:54+00:00",
    "oficiales": {
     "links": [
      "https://www.edeaweb.com.ar/cuadro-tarifario/",
@@ -8732,7 +8732,7 @@
     ]
    },
    "desactualizado": false,
-   "ultimo_intento": "2026-11-24T09:59:36+00:00",
+   "ultimo_intento": "2026-11-25T10:02:54+00:00",
    "regulador": {
     "sigla": "OCEBA",
     "nombre": "Organismo de Control de Energía Eléctrica de la Provincia de Buenos Aires",
@@ -9598,7 +9598,7 @@
     "extra: OK https://www.edensa.com.ar/wp-content/uploads/2026/09/EDEN-Cuadro-Tarifario-Septiembre.pdf (2026-09, 5 tablas)",
     "se: ningún archivo descargable (2 enlaces con error)"
    ],
-   "verificado": "2026-11-24T09:59:36+00:00",
+   "verificado": "2026-11-25T10:02:54+00:00",
    "oficiales": {
     "links": [
      "https://www.edensa.com.ar/cuadro-tarifario/",
@@ -10394,16 +10394,16 @@
    "nota": "",
    "estado": "ok",
    "documento": {
-    "url": "https://www.ecsapem.com.ar/uploads/Cuadros_Tarifarios_Noviembre_2026_NO_SUBSIDIADO_Res_DP_374_26_8182ef395e.pdf",
-    "titulo": "Cuadros Tarifarios Noviembre 2026 - NO SUBSIDIADO-Res DP 374-26.pdf",
+    "url": "https://www.ecsapem.com.ar/uploads/Cuadros_Tarifarios_Diciembre_2026_Enero_2027_NO_SUBSIDIADO_Res_DP_374_26_641df918a1.pdf",
+    "titulo": "Cuadros Tarifarios Diciembre 2026-Enero 2027 - NO SUBSIDIADO Res DP 374-26.pdf",
     "pagina": "https://www.ecsapem.com.ar/organization/rates",
     "origen": "Distribuidora",
     "tipo": "pdf",
-    "sha256": "1141a056f92bfe65a8fbc035023a1fcc958af42fa082367e12a14585491550c6",
-    "bytes": 398997,
+    "sha256": "03a22f715d710f90b1f68d9114f355fb1d1766ba04184dfdfed7d2ac776759f2",
+    "bytes": 397389,
     "via": "búsqueda automática"
    },
-   "vigencia": "CUADRO TARIFARIO NOVIEMBRE 2026",
+   "vigencia": "CUADRO TARIFARIO DICIEMBRE 2026 - ENERO 2027",
    "tablas": [
     {
      "titulo": "T1 Residencial / General / AP",
@@ -10517,11 +10517,11 @@
     }
    ],
    "intentos": [
-    "primary: OK https://www.ecsapem.com.ar/uploads/Cuadros_Tarifarios_Noviembre_2026_NO_SUBSIDIADO_Res_DP_374_26_8182ef395e.pdf (2026-11, 1 tablas)",
+    "primary: OK https://www.ecsapem.com.ar/uploads/Cuadros_Tarifarios_Diciembre_2026_Enero_2027_NO_SUBSIDIADO_Res_DP_374_26_641df918a1.pdf (2027-01, 1 tablas)",
     "known: OK https://www.ecsapem.com.ar/uploads/Cuadro_Tarifario_Octubre_2026_NO_SUBSIDIADO_Res_DP_341_26_6645b45857.pdf (2026-10, 1 tablas)",
     "se: ningún archivo descargable (8 enlaces con error)"
    ],
-   "verificado": "2026-11-24T09:59:36+00:00",
+   "verificado": "2026-11-25T10:02:54+00:00",
    "oficiales": {
     "links": [
      "https://www.ecsapem.com.ar/organization/rates"
@@ -10532,13 +10532,13 @@
    "texto": true,
    "escaneado": false,
    "ocr": false,
-   "periodo_documento": "2026-11",
+   "periodo_documento": "2027-01",
    "candidatos": [
     {
-     "url": "https://www.ecsapem.com.ar/uploads/Cuadros_Tarifarios_Noviembre_2026_NO_SUBSIDIADO_Res_DP_374_26_8182ef395e.pdf",
-     "titulo": "Cuadros Tarifarios Noviembre 2026 - NO SUBSIDIADO-Res DP 374-26.pdf",
+     "url": "https://www.ecsapem.com.ar/uploads/Cuadros_Tarifarios_Diciembre_2026_Enero_2027_NO_SUBSIDIADO_Res_DP_374_26_641df918a1.pdf",
+     "titulo": "Cuadros Tarifarios Diciembre 2026-Enero 2027 - NO SUBSIDIADO Res DP 374-26.pdf",
      "origen": "Distribuidora",
-     "periodo": "2026-11",
+     "periodo": "2027-01",
      "valores": true,
      "usado": true
     },
@@ -10608,7 +10608,7 @@
      "resultado": "sin_archivo"
     }
    },
-   "mes_referencia": "2026-11",
+   "mes_referencia": "2027-01",
    "mes_referencia_origen": "vigencia",
    "regulador": {
     "sigla": "ENRE Catamarca",
@@ -14117,7 +14117,7 @@
     "primary: OK https://www.secheep.gob.ar/downloads/paginas/cuadros-tarifarios/Anexo-I-y-II-Cuadro-Tarifario-de-aplicacion-y-sin-subsidio-Noviembre-2026.pdf (2026-11, 9 tablas)",
     "se: ningún archivo descargable (9 enlaces con error)"
    ],
-   "verificado": "2026-11-24T09:59:36+00:00",
+   "verificado": "2026-11-25T10:02:54+00:00",
    "oficiales": {
     "links": [
      "https://www.secheep.gob.ar/cuadros-tarifarios.html"
@@ -15317,7 +15317,7 @@
    "intentos": [
     "se: ningún archivo descargable (1 enlaces con error)"
    ],
-   "verificado": "2026-11-24T09:59:36+00:00",
+   "verificado": "2026-11-25T10:02:54+00:00",
    "oficiales": {
     "links": [],
     "nota": "La tabla de fuentes de referencia lista a DGSP como observación, sin links oficiales."
@@ -16729,7 +16729,7 @@
     "extra: OK https://www.epec.com.ar/docs/cuadro-tarifario/cuadro-tarifario-publicado-30102026-aplicacion-011126.pdf (2026-11, 1 tablas)",
     "se: ningún archivo descargable (1 enlaces con error)"
    ],
-   "verificado": "2026-11-24T09:59:36+00:00",
+   "verificado": "2026-11-25T10:02:54+00:00",
    "oficiales": {
     "links": [
      "https://www.epec.com.ar/informacion-comercial/grandes-clientes",
@@ -18680,7 +18680,7 @@
     "extra: OK https://www.dpec.com.ar/es/articulo/1500/descarga/184/Anexo-BO-29570-15-10-2026---EPRE-Dpec-pass-throughSEP-OCT2026pdf (2026-10, 0 tablas)",
     "se: ningún archivo descargable (2 enlaces con error)"
    ],
-   "verificado": "2026-11-24T09:59:36+00:00",
+   "verificado": "2026-11-25T10:02:54+00:00",
    "oficiales": {
     "links": [
      "https://www.dpec.com.ar/1500/Cuadro-Tarifario"
@@ -19361,7 +19361,7 @@
     "primary: OK https://epre.gov.ar/web/wp-content/uploads/2026/11/resolucion-epre-184-26-anexo1.xlsx (2026-12, 4 tablas)",
     "se: ningún archivo descargable (4 enlaces con error)"
    ],
-   "verificado": "2026-11-24T09:59:36+00:00",
+   "verificado": "2026-11-25T10:02:54+00:00",
    "oficiales": {
     "links": [],
     "nota": "El SharePoint de ENERSA no permite descargar el PDF sin iniciar sesión; el EPRE publica la misma resolución."
@@ -19585,7 +19585,7 @@
     "nota": "No se localizó un sitio web propio del EROSP.",
     "fuente": "https://www.argentina.gob.ar/energia/entes-reguladores-provinciales-de-energia-electrica-y-gas-natural"
    },
-   "ultimo_intento": "2026-11-24T09:59:36+00:00",
+   "ultimo_intento": "2026-11-25T10:02:54+00:00",
    "ultimo_intento_fallido": true,
    "inyeccion": null
   },
@@ -19993,7 +19993,7 @@
     "primary: OK https://www.ejesa.com.ar/info/pwa/blog/GetFile?fileId=UkgRLDps50w= (2026-10, 4 tablas)",
     "se: ningún archivo descargable (3 enlaces con error)"
    ],
-   "verificado": "2026-11-24T09:59:36+00:00",
+   "verificado": "2026-11-25T10:02:54+00:00",
    "oficiales": {
     "links": [
      "https://www.ejesa.com.ar/info/pwa/institucional/costos-del-servicio"
@@ -21339,7 +21339,7 @@
     "known: OK https://ejsedsa.com.ar/wp-content/uploads/2026/06/CT-EJSEDSA-WEB-_-Res-198-2026-_-Mayo-a-Octubre-2026.pdf (2026-10, 1 tablas)",
     "se: ningún archivo descargable (2 enlaces con error)"
    ],
-   "verificado": "2026-11-24T09:59:36+00:00",
+   "verificado": "2026-11-25T10:02:54+00:00",
    "oficiales": {
     "links": [
      "https://ejsedsa.com.ar/wp-content/uploads/2026/06/CT-EJSEDSA-WEB-_-Res-198-2026-_-Mayo-a-Octubre-2026.pdf",
@@ -25276,7 +25276,7 @@
     "extra: OK docs/entregados/ape-res-42-26-usuarios-finales.pdf (2026-10, 16 tablas)",
     "se: ningún archivo descargable (1 enlaces con error)"
    ],
-   "verificado": "2026-11-24T09:59:36+00:00",
+   "verificado": "2026-11-25T10:02:54+00:00",
    "oficiales": {
     "links": [
      "docs/entregados/ape-res-41-26-cooperativas.pdf",
@@ -30646,7 +30646,7 @@
     "extra: OK https://www.edelar.com.ar/documentos/cuadro-tarifario.pdf (2026-04, 18 tablas)",
     "se: ningún archivo descargable (8 enlaces con error)"
    ],
-   "verificado": "2026-11-24T09:59:36+00:00",
+   "verificado": "2026-11-25T10:02:54+00:00",
    "oficiales": {
     "links": [
      "https://www.edelar.com.ar/clientes/pequenas-demandas",
@@ -31209,7 +31209,7 @@
     "primary: OK https://epremendoza.gob.ar/2019/informesT/cuadrosT-Vigentes/CT%20Res%20221-2026.pdf (2026-11, 2 tablas)",
     "se: ningún archivo descargable (8 enlaces con error)"
    ],
-   "verificado": "2026-11-24T09:59:36+00:00",
+   "verificado": "2026-11-25T10:02:54+00:00",
    "pago_mensual": {
     "texto": "La factura presenta dos vencimientos, cada uno correspondiente a la mitad del monto total.",
     "url": "https://www.edemsa.com/informacion-comercial/"
@@ -32214,7 +32214,7 @@
     "extra: OK https://www.edeste.com.ar/assets/pdf/cuadro-tarifario/CT-Vigente.pdf (2026-08, 2 tablas)",
     "se: ningún archivo descargable (3 enlaces con error)"
    ],
-   "verificado": "2026-11-24T09:59:36+00:00",
+   "verificado": "2026-11-25T10:02:54+00:00",
    "pago_mensual": {
     "texto": "La factura se encuentra desdoblada con 2 vencimientos, cada uno corresponde a una mitad del monto total.",
     "url": "https://www.edeste.com.ar/preguntasfrecuentes.html"
@@ -33209,7 +33209,7 @@
     "primary: OK https://www.boletindigital.misiones.gov.ar/boletines/16681.pdf (2026-08, 1 tablas)",
     "se: ningún archivo descargable (1 enlaces con error)"
    ],
-   "verificado": "2026-11-24T09:59:36+00:00",
+   "verificado": "2026-11-25T10:02:54+00:00",
    "oficiales": {
     "links": [
      "https://www.energiademisiones.com.ar/cuadros-tarifarios-vigentes/"
@@ -34575,7 +34575,7 @@
     "primary: OK https://www.epen.gov.ar/wp-content/uploads/2026/11/CT-consumos-09-2026.pdf (2026-09, 6 tablas)",
     "se: ningún archivo descargable (1 enlaces con error)"
    ],
-   "verificado": "2026-11-24T09:59:36+00:00",
+   "verificado": "2026-11-25T10:02:54+00:00",
    "oficiales": {
     "links": [
      "https://www.epen.gov.ar/index.php/cuadros-tarifarios/"
@@ -35479,7 +35479,7 @@
     "primary: OK https://www.edersa.com.ar/wp-content/uploads/2026/11/Cuadro-Tarifario-EdERSA-NOVIEMBRE-2026.pdf (2026-11, 1 tablas)",
     "se: ningún archivo descargable (4 enlaces con error)"
    ],
-   "verificado": "2026-11-24T09:59:36+00:00",
+   "verificado": "2026-11-25T10:02:54+00:00",
    "oficiales": {
     "links": [
      "https://www.edersa.com.ar/usuarios/cuadro-tarifario/"
@@ -35862,10 +35862,10 @@
    "intentos": [
     "primary: OK https://www.edesa.com.ar/wp-content/uploads/2026/10/Cuadro_Tarifario_Octubre_2026_EDESA.pdf (2026-10, 4 tablas)",
     "extra: OK https://www.edesa.com.ar/wp-content/uploads/2026/10/Resol-Ente-1770-26-CT-EDESA-Octubre-2026.pdf (2026-10, 4 tablas)",
-    "extra: OK https://ente.gob.ar/wp-content/uploads/2025/09/Resolucion-Ente-N°1528-25.pdf (2025-09, 2 tablas)",
+    "extra: LookupError: sin enlaces candidatos en https://ente.gob.ar/cuadros-tarifarios/",
     "se: ningún archivo descargable (5 enlaces con error)"
    ],
-   "verificado": "2026-11-24T09:59:36+00:00",
+   "verificado": "2026-11-25T10:02:54+00:00",
    "oficiales": {
     "links": [
      "https://www.edesa.com.ar/cuadros-tarifarios/",
@@ -35892,14 +35892,6 @@
      "titulo": "– Resol. ENRESP N° 1770/26 – Cuadro Tarifario EDESA octubre 2026",
      "origen": "Distribuidora",
      "periodo": "2026-10",
-     "valores": true,
-     "usado": false
-    },
-    {
-     "url": "https://ente.gob.ar/wp-content/uploads/2025/09/Resolucion-Ente-N°1528-25.pdf",
-     "titulo": "RESOLUCIÓN N°1528-25",
-     "origen": "Ente regulador (ENRESP)",
-     "periodo": "2025-09",
      "valores": true,
      "usado": false
     }
@@ -36559,7 +36551,7 @@
     "primary: OK https://www.naturgysj.com.ar/wp-content/uploads/2026/11/CT-01-11-2026-al-22-01-2027-ESJ.pdf (2027-01, 3 tablas)",
     "se: ningún archivo descargable (1 enlaces con error)"
    ],
-   "verificado": "2026-11-24T09:59:36+00:00",
+   "verificado": "2026-11-25T10:02:54+00:00",
    "pago_mensual": {
     "texto": "Medición bimestral; se emiten dos facturas mensuales (cuota 1 y cuota 2) que en conjunto representan el costo total del período.",
     "url": "https://www.naturgysj.com.ar/info-util/preguntas-frecuentes/"
@@ -37812,7 +37804,7 @@
     "extra: OK docs/entregados/edesal-cuadro-tarifario-2026-09.pdf (2026-09, 3 tablas)",
     "se: ningún archivo descargable (9 enlaces con error)"
    ],
-   "verificado": "2026-11-24T09:59:36+00:00",
+   "verificado": "2026-11-25T10:02:54+00:00",
    "oficiales": {
     "links": [
      "https://oficinavirtualedesal.com.ar/ove/upload/CuadroTarifario.pdf"
@@ -38978,7 +38970,7 @@
     "extra: OK docs/entregados/spse-cuadro-tarifario-web-2026-11-04.pdf (2026-09, 5 tablas)",
     "se: ningún archivo descargable (1 enlaces con error)"
    ],
-   "verificado": "2026-11-24T09:59:36+00:00",
+   "verificado": "2026-11-25T10:02:54+00:00",
    "oficiales": {
     "links": [
      "https://spse.ar/atencion-cliente#cuadroTarifario"
@@ -39193,247 +39185,34 @@
    "nombre": "Empresa Provincial de la Energía de Santa Fe",
    "provincia": "Santa Fe",
    "nota": "",
-   "estado": "ok",
+   "estado": "documento",
    "documento": {
-    "url": "https://epe.santafe.gov.ar/institucional-api/download/5acb3ae9-59e6-4c7b-a2b1-cad481ff0f7f",
-    "titulo": "Cuadro Tarifario Octubre 2026 (CUT_Residencial_Octubre_2026.pdf)",
+    "url": "https://epe.santafe.gov.ar/institucional-api/download/cb6055c2-3e76-48ef-ad63-f8e0452a4183",
+    "titulo": "Cuadro Tarifario Noviembre 2026 - No Residencial (CUT_No_Residencial_Noviembre_2026.pdf)",
     "pagina": "https://epe.santafe.gov.ar/institucional/usuarios",
     "origen": "Distribuidora",
     "tipo": "pdf",
-    "sha256": "57362d63e8c808341734c854201055d1242989de38b7003040dcdcf644159624",
-    "bytes": 563998,
+    "sha256": "801698a5ddab3d37c6733946921f32cbe22c37055ad0166c2c6406f816bf0a5f",
+    "bytes": 531559,
     "via": "búsqueda automática"
    },
-   "vigencia": "Consumos registrados desde el 1 de OCTUBRE de 2026",
-   "tablas": [
-    {
-     "titulo": "Residencial sin subsidio (valores mensuales, facturación bimestral) — Primeros 75 kWh/mes…",
-     "filas": [
-      {
-       "grupo": null,
-       "concepto": "Residencial hasta 20 kW: 1AA Urbano / 1NA Servicio Oficial Nacional / 1OA Servicio Oficial Provincial / 1PA Servicio Oficial Municipal",
-       "unidad": "$/mes; $/kWh",
-       "valores": [
-        3944.25564,
-        247.6447,
-        270.56492,
-        366.81394,
-        440.80713
-       ],
-       "columnas": [
-        "Cuota de Servicio ($/mes)",
-        "Primeros 75 kWh/mes ($/kWh)",
-        "Siguientes 75 kWh/mes ($/kWh)",
-        "Siguientes 150 kWh/mes ($/kWh)",
-        "Excedente de 300 kWh/mes ($/kWh)"
-       ]
-      },
-      {
-       "grupo": null,
-       "concepto": "1BA Rural",
-       "unidad": "$/mes; $/kWh",
-       "valores": [
-        5521.9579,
-        267.06601,
-        306.57296,
-        453.32428,
-        498.86093
-       ],
-       "columnas": [
-        "Cuota de Servicio ($/mes)",
-        "Primeros 75 kWh/mes ($/kWh)",
-        "Siguientes 75 kWh/mes ($/kWh)",
-        "Siguientes 150 kWh/mes ($/kWh)",
-        "Excedente de 300 kWh/mes ($/kWh)"
-       ]
-      },
-      {
-       "grupo": null,
-       "concepto": "1CA Rural - Nocturno",
-       "unidad": "$/mes; $/kWh",
-       "valores": [
-        0.0,
-        208.80206,
-        228.55553,
-        301.93119,
-        324.69952
-       ],
-       "columnas": [
-        "Cuota de Servicio ($/mes)",
-        "Primeros 75 kWh/mes ($/kWh)",
-        "Siguientes 75 kWh/mes ($/kWh)",
-        "Siguientes 150 kWh/mes ($/kWh)",
-        "Excedente de 300 kWh/mes ($/kWh)"
-       ]
-      },
-      {
-       "grupo": null,
-       "concepto": "Jubilados y Pensionados Hasta 120 kWh/mes: 1DA Urbano / 1EA Rural",
-       "unidad": "$/mes; $/kWh",
-       "valores": [
-        3944.25564,
-        170.37069,
-        190.38331
-       ],
-       "columnas": null
-      }
-     ]
-    },
-    {
-     "titulo": "Residencial sin subsidio (valores mensuales, facturación bimestral) — Primeros 150 kWh/mes…",
-     "filas": [
-      {
-       "grupo": null,
-       "concepto": "Residencial 1QA",
-       "unidad": "$/mes; $/kWh",
-       "valores": [
-        3944.25564,
-        247.6447,
-        270.56492,
-        366.81394,
-        440.80713
-       ],
-       "columnas": [
-        "Cuota de Servicio ($/mes)",
-        "Primeros 150 kWh/mes ($/kWh)",
-        "Siguientes 150 kWh/mes ($/kWh)",
-        "Siguientes 200 kWh/mes ($/kWh)",
-        "Excedente de 500 kWh/mes ($/kWh)"
-       ]
-      }
-     ]
-    },
-    {
-     "titulo": "Residencial con subsidio — Localidades MUY CÁLIDAS - Zonas Bioambientales Ia y Ib - Norma IRAM 11603:2012.",
-     "zona": "I",
-     "limite": 350,
-     "filas": [
-      {
-       "grupo": null,
-       "concepto": "1AE / 1NE Urbano / Servicio Oficial",
-       "unidad": "$/mes; $/kWh",
-       "valores": [
-        3944.25564,
-        142.23411,
-        165.15433,
-        261.40335,
-        440.80713,
-        3944.25564,
-        270.98873,
-        440.80713,
-        440.80713
-       ],
-       "columnas": [
-        "Hasta 350 kWh/mes: Cuota de Servicio ($/mes)",
-        "Hasta 350 kWh/mes: Primeros 75 kWh/mes ($/kWh)",
-        "Hasta 350 kWh/mes: Siguientes 75 kWh/mes ($/kWh)",
-        "Hasta 350 kWh/mes: Siguientes 150 kWh/mes ($/kWh)",
-        "Hasta 350 kWh/mes: Excedente de 300 kWh/mes ($/kWh)",
-        "Mayor a 350 kWh/mes: Cuota de Servicio ($/mes)",
-        "Mayor a 350 kWh/mes: Primeros 350 kWh/mes ($/kWh)",
-        "Mayor a 350 kWh/mes: Siguientes 200 kWh/mes ($/kWh)",
-        "Mayor a 350 kWh/mes: Excedente de 550 kWh/mes ($/kWh)"
-       ]
-      }
-     ]
-    },
-    {
-     "titulo": "Residencial con subsidio — Localidades CÁLIDAS - Zonas Bioambientales IIa y IIb - Norma IRAM 11603:2012.",
-     "zona": "II",
-     "limite": 350,
-     "filas": [
-      {
-       "grupo": null,
-       "concepto": "1AF / 1NF Urbano / Servicio Oficial",
-       "unidad": "$/mes; $/kWh",
-       "valores": [
-        3944.25564,
-        142.23411,
-        165.15433,
-        261.40335,
-        440.80713,
-        3944.25564,
-        270.98873,
-        440.80713,
-        440.80713
-       ],
-       "columnas": [
-        "Hasta 350 kWh/mes: Cuota de Servicio ($/mes)",
-        "Hasta 350 kWh/mes: Primeros 75 kWh/mes ($/kWh)",
-        "Hasta 350 kWh/mes: Siguientes 75 kWh/mes ($/kWh)",
-        "Hasta 350 kWh/mes: Siguientes 150 kWh/mes ($/kWh)",
-        "Hasta 350 kWh/mes: Excedente de 300 kWh/mes ($/kWh)",
-        "Mayor a 350 kWh/mes: Cuota de Servicio ($/mes)",
-        "Mayor a 350 kWh/mes: Primeros 350 kWh/mes ($/kWh)",
-        "Mayor a 350 kWh/mes: Siguientes 20 kWh/mes ($/kWh)",
-        "Mayor a 350 kWh/mes: Excedente de 370 kWh/mes ($/kWh)"
-       ]
-      }
-     ]
-    },
-    {
-     "titulo": "Residencial con subsidio — Localidades TEMPLADAS CÁLIDAS - Zonas Bioambientales IIIa y IIIb - Norma IRAM 11603:2012.",
-     "zona": "III",
-     "limite": 350,
-     "filas": [
-      {
-       "grupo": null,
-       "concepto": "1AG / 1NG Urbano / Servicio Oficial",
-       "unidad": "$/mes; $/kWh",
-       "valores": [
-        3944.25564,
-        142.23411,
-        165.15433,
-        261.40335,
-        440.80713,
-        3944.25564,
-        270.98873,
-        440.80713
-       ],
-       "columnas": [
-        "Hasta 350 kWh/mes: Cuota de Servicio ($/mes)",
-        "Hasta 350 kWh/mes: Primeros 75 kWh/mes ($/kWh)",
-        "Hasta 350 kWh/mes: Siguientes 75 kWh/mes ($/kWh)",
-        "Hasta 350 kWh/mes: Siguientes 150 kWh/mes ($/kWh)",
-        "Hasta 350 kWh/mes: Excedente de 300 kWh/mes ($/kWh)",
-        "Mayor a 350 kWh/mes: Cuota de Servicio ($/mes)",
-        "Mayor a 350 kWh/mes: Primeros 350 kWh/mes ($/kWh)",
-        "Mayor a 350 kWh/mes: Excedente de 350 kWh/mes ($/kWh)"
-       ]
-      }
-     ]
-    }
-   ],
+   "vigencia": null,
+   "tablas": [],
    "intentos": [
-    "primary: OK https://epe.santafe.gov.ar/institucional-api/download/5acb3ae9-59e6-4c7b-a2b1-cad481ff0f7f (2026-10, 5 tablas)",
+    "parser: ValueError: no se encontró la sección /TARIFA RESIDENCIAL - SIN SUBSIDIO/",
+    "primary: OK https://epe.santafe.gov.ar/institucional-api/download/cb6055c2-3e76-48ef-ad63-f8e0452a4183 (2026-11, 0 tablas)",
     "se: ningún archivo descargable (1 enlaces con error)"
    ],
-   "verificado": "2026-11-24T09:59:36+00:00",
+   "verificado": "2026-11-25T10:02:54+00:00",
    "oficiales": {
     "links": [],
     "nota": "En las páginas de EPE hay que ir a Tarifas y después a Cuadro Tarifario (usuarios y grandes usuarios) o a Transparencia y después a Comparativas Tarifarias."
    },
-   "comparable": {
-    "cargo_fijo": {
-     "valor": 3944.25564,
-     "unidad": "$/mes",
-     "concepto": "Residencial hasta 20 kW: 1AA Urbano / 1NA Servicio Oficial Nacional / 1OA Servicio Oficial Provincial / 1PA Servicio Oficial Municipal",
-     "grupo": null,
-     "columna": "Cuota de Servicio ($/mes)"
-    },
-    "cargo_variable": {
-     "valor": 247.6447,
-     "unidad": "$/kWh",
-     "concepto": "Residencial hasta 20 kW: 1AA Urbano / 1NA Servicio Oficial Nacional / 1OA Servicio Oficial Provincial / 1PA Servicio Oficial Municipal",
-     "grupo": null,
-     "columna": "Primeros 75 kWh/mes ($/kWh)"
-    },
-    "nota": "Residencial urbano sin subsidio (1AA), Primeros 75 kWh/mes"
-   },
+   "comparable": null,
    "texto": true,
    "escaneado": false,
    "ocr": false,
-   "periodo_documento": "2026-10",
+   "periodo_documento": "2026-11",
    "archivo_nacional": {
     "url": null,
     "pagina": "https://www.argentina.gob.ar/economia/energia/energia-electrica/estadisticas/cuadros-tarifarios-epe",
@@ -39449,8 +39228,8 @@
      "resultado": "sin_archivo"
     }
    },
-   "mes_referencia": "2026-10",
-   "mes_referencia_origen": "vigencia",
+   "mes_referencia": "2026-11",
+   "mes_referencia_origen": "título",
    "regulador": {
     "sigla": null,
     "nombre": "EPE (sin ente independiente)",
@@ -39458,95 +39237,11 @@
     "nota": "La lista oficial de entes reguladores provinciales nombra a la propia empresa: no hay un ente regulador independiente.",
     "fuente": "https://www.argentina.gob.ar/energia/entes-reguladores-provinciales-de-energia-electrica-y-gas-natural"
    },
-   "simulador": {
-    "periodo": "mes",
-    "criterio": "Residencial urbano sin subsidio (1AA)",
-    "categorias": [
-     {
-      "nombre": "1AA Urbano",
-      "hasta": null,
-      "fijo": 3944.25564,
-      "escalones": [
-       [
-        75,
-        247.6447
-       ],
-       [
-        150,
-        270.56492
-       ],
-       [
-        300,
-        366.81394
-       ],
-       [
-        null,
-        440.80713
-       ]
-      ]
-     }
-    ]
-   },
+   "simulador": null,
    "demanda": null,
    "simulador_ocr": null,
    "inyeccion": null,
-   "normalizado": {
-    "filas": [
-     {
-      "seccion": "Residencial (T1) — sin subsidio",
-      "categoria": "1AA Urbano",
-      "condicion": "todos los consumos",
-      "tension": null,
-      "concepto": "Cargo fijo",
-      "tramo": "",
-      "unidad": "$/mes",
-      "valor": 3944.25564
-     },
-     {
-      "seccion": "Residencial (T1) — sin subsidio",
-      "categoria": "1AA Urbano",
-      "condicion": "todos los consumos",
-      "tension": null,
-      "concepto": "Energía",
-      "tramo": "primeros 75 kWh/mes",
-      "unidad": "$/kWh",
-      "valor": 247.6447
-     },
-     {
-      "seccion": "Residencial (T1) — sin subsidio",
-      "categoria": "1AA Urbano",
-      "condicion": "todos los consumos",
-      "tension": null,
-      "concepto": "Energía",
-      "tramo": "de 75 a 150 kWh/mes",
-      "unidad": "$/kWh",
-      "valor": 270.56492
-     },
-     {
-      "seccion": "Residencial (T1) — sin subsidio",
-      "categoria": "1AA Urbano",
-      "condicion": "todos los consumos",
-      "tension": null,
-      "concepto": "Energía",
-      "tramo": "de 150 a 300 kWh/mes",
-      "unidad": "$/kWh",
-      "valor": 366.81394
-     },
-     {
-      "seccion": "Residencial (T1) — sin subsidio",
-      "categoria": "1AA Urbano",
-      "condicion": "todos los consumos",
-      "tension": null,
-      "concepto": "Energía",
-      "tramo": "excedente de 300 kWh/mes",
-      "unidad": "$/kWh",
-      "valor": 440.80713
-     }
-    ],
-    "notas": [
-     "Residencial (T1) — sin subsidio: Residencial urbano sin subsidio (1AA)"
-    ]
-   },
+   "normalizado": null,
    "desactualizado": false
   },
   {
@@ -40656,7 +40351,7 @@
     "extra: OK http://enrese.com.ar/cuadrostarifarios/CUADROTARIFARIOOctubre2026.pdf (2026-10, 0 tablas)",
     "se: ningún archivo descargable (9 enlaces con error)"
    ],
-   "verificado": "2026-11-24T09:59:36+00:00",
+   "verificado": "2026-11-25T10:02:54+00:00",
    "oficiales": {
     "links": [
      "https://www.edese.com.ar/public/assets/archivos/CuadroTarifarioVigente.pdf",
@@ -42358,7 +42053,7 @@
     "extra: OK https://drive.usercontent.google.com/download?id=1BsRmjbJiGuBky0H5a1-vjgWG8S95g8YW&export=download&confirm=t (2026-10, 14 tablas)",
     "se: ningún archivo descargable (1 enlaces con error)"
    ],
-   "verificado": "2026-11-24T09:59:36+00:00",
+   "verificado": "2026-11-25T10:02:54+00:00",
    "oficiales": {
     "links": [
      "https://www.dpe.com.ar/usuarios/cuadro_tarifario/",
@@ -44015,7 +43710,7 @@
     "primary: OK https://www.edetsa.com/info/pwa/blog/GetFile?fileId=gUDk5szwrI0= (sin fecha, 44 tablas)",
     "se: ningún archivo descargable (8 enlaces con error)"
    ],
-   "verificado": "2026-11-24T09:59:36+00:00",
+   "verificado": "2026-11-25T10:02:54+00:00",
    "oficiales": {
     "links": [
      "https://www.edetsa.com/info/pwa/institucional/costos-del-servicio",
