@@ -37858,5 +37858,219 @@
   "titulo": "Cuadro Tarifario Noviembre 2026 - No Residencial (CUT_No_Residencial_Noviembre_2026.pdf)",
   "vigencia": null,
   "tablas": []
+ },
+ {
+  "id": "edesa",
+  "detectado": "2026-11-26T10:00:25+00:00",
+  "sha256": "4a6263b37b2b21b87d96292f2114855028e28287d7ff1951aad1bc8793002432",
+  "url": "https://www.edesa.com.ar/wp-content/uploads/2026/11/Cuadro_Tarifario_Noviembre_2026_EDESA.pdf",
+  "titulo": "Cuadro_Tarifario_Noviembre_2026_EDESA.pdf",
+  "vigencia": "Resolución ENRESP N° 2060",
+  "tablas": [
+   {
+    "titulo": "T1 - Pequeñas demandas residenciales",
+    "filas": [
+     {
+      "grupo": null,
+      "concepto": "T1R1 [ 0 <= E <= 192]",
+      "unidad": null,
+      "valores": [
+       5965.37,
+       301.764
+      ],
+      "columnas": [
+       "Cargo fijo ($/Mes)",
+       "Cargo variable ($/KWh)"
+      ]
+     },
+     {
+      "grupo": null,
+      "concepto": "T1R2 (192 < E <= 500KWh/mes)",
+      "unidad": null,
+      "valores": [
+       10776.26,
+       315.7278
+      ],
+      "columnas": [
+       "Cargo fijo ($/Mes)",
+       "Cargo variable ($/KWh)"
+      ]
+     },
+     {
+      "grupo": null,
+      "concepto": "T1R2 (500 < E <= 700KWh/mes)",
+      "unidad": null,
+      "valores": [
+       14444.24,
+       320.0383
+      ],
+      "columnas": [
+       "Cargo fijo ($/Mes)",
+       "Cargo variable ($/KWh)"
+      ]
+     },
+     {
+      "grupo": null,
+      "concepto": "T1R2 (700 < E <= 1400KWh/mes)",
+      "unidad": null,
+      "valores": [
+       21217.54,
+       319.6933
+      ],
+      "columnas": [
+       "Cargo fijo ($/Mes)",
+       "Cargo variable ($/KWh)"
+      ]
+     },
+     {
+      "grupo": null,
+      "concepto": "T1R2 ( E > 1400KWh/mes)",
+      "unidad": null,
+      "valores": [
+       30809.76,
+       320.6151
+      ],
+      "columnas": [
+       "Cargo fijo ($/Mes)",
+       "Cargo variable ($/KWh)"
+      ]
+     }
+    ]
+   },
+   {
+    "titulo": "T1 - Residenciales electrodependientes",
+    "filas": [
+     {
+      "grupo": null,
+      "concepto": "T1R1 [ 0 <= E <= 192]",
+      "unidad": null,
+      "valores": [
+       5270.53,
+       102.3829
+      ],
+      "columnas": [
+       "Cargo fijo ($/Mes)",
+       "Cargo variable ($/KWh)"
+      ]
+     },
+     {
+      "grupo": null,
+      "concepto": "T1R2 [192 < E <= 500KWh/mes]",
+      "unidad": null,
+      "valores": [
+       9941.13,
+       109.9832
+      ],
+      "columnas": [
+       "Cargo fijo ($/Mes)",
+       "Cargo variable ($/KWh)"
+      ]
+     },
+     {
+      "grupo": null,
+      "concepto": "T1R2 [500 < E <= 700KWh/mes]",
+      "unidad": null,
+      "valores": [
+       13644.13,
+       118.9788
+      ],
+      "columnas": [
+       "Cargo fijo ($/Mes)",
+       "Cargo variable ($/KWh)"
+      ]
+     },
+     {
+      "grupo": null,
+      "concepto": "T1R2 [700 < E <= 1400KWh/mes]",
+      "unidad": null,
+      "valores": [
+       18196.55,
+       120.9743
+      ],
+      "columnas": [
+       "Cargo fijo ($/Mes)",
+       "Cargo variable ($/KWh)"
+      ]
+     },
+     {
+      "grupo": null,
+      "concepto": "T1R2 [E > 1400KWh/mes]",
+      "unidad": null,
+      "valores": [
+       27966.43,
+       128.1389
+      ],
+      "columnas": [
+       "Cargo fijo ($/Mes)",
+       "Cargo variable ($/KWh)"
+      ]
+     }
+    ]
+   },
+   {
+    "titulo": "T1 - Pequeñas demandas no residenciales",
+    "filas": [
+     {
+      "grupo": null,
+      "concepto": "T1G1 (0 <= E <= 205 KWh/mes)",
+      "unidad": null,
+      "valores": [
+       6183.2,
+       312.2663
+      ],
+      "columnas": [
+       "Cargo fijo ($/Mes)",
+       "Cargo variable ($/KWh)"
+      ]
+     },
+     {
+      "grupo": null,
+      "concepto": "T1G2 (205 < E < 2000 KWh/mes)",
+      "unidad": null,
+      "valores": [
+       17500.43,
+       355.9876
+      ],
+      "columnas": [
+       "Cargo fijo ($/Mes)",
+       "Cargo variable ($/KWh)"
+      ]
+     },
+     {
+      "grupo": null,
+      "concepto": "T1G2 (E >= 2000KWh/mes)",
+      "unidad": null,
+      "valores": [
+       54228.24,
+       320.6083
+      ],
+      "columnas": [
+       "Cargo fijo ($/Mes)",
+       "Cargo variable ($/KWh)"
+      ]
+     }
+    ]
+   },
+   {
+    "titulo": "Tarifa 2 - Demandas > 10 < 50 kW",
+    "filas": [
+     {
+      "grupo": null,
+      "concepto": "BT - MD",
+      "unidad": null,
+      "valores": [
+       20014.76,
+       27970.12,
+       254.4529
+      ],
+      "columnas": [
+       "Cargo por máxima capacidad de suministro contratada ($/KW-mes)",
+       "Cargo fijo ($/Mes)",
+       "Cargo variable ($/KWh)"
+      ]
+     }
+    ]
+   }
+  ]
  }
 ]

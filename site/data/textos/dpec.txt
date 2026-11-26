@@ -8,73 +8,69 @@
 
 
 
-CUADRO TARIFARIO Nº 108-H
+CUADRO TARIFARIO Nº 108-G
 
 
 APROBADO POR:
-                DECRETO Nº 2272/2026 (TARIFAS y BONIFICACIONES)
+                DECRETO Nº 1994/2026 (TARIFAS y BONIFICACIONES)
 
-                RESOLUCIÓN EPRE Nº 23/2026
+                RESOLUCIÓN EPRE Nº 19/2026
 
-                RESOLUCIÓN DPEC Nº 1143/2026
-                                                                  CUADRO TARIFARIO
+                RESOLUCIÓN DPEC Nº 1018/2026
+                                                                          CUADRO TARIFARIO
 
 PEQUEÑAS DEMANDAS (POTENCIA DEMANDADA MENOR A 10 kW)
 
 TARIFAS RESIDENCIALES
-          CATEGORÍA                                                DESCRIPCIÓN                            UNIDAD        TARIFA    TARIFA CON BONIFICAC.
-                                                                                                                       SIN BONIF. SEP/2026    OCT/2026
-PEQUEÑAS DEMANDAS RESIDENCIALES                   Cuota Fija por suministro                                $/Bim            32.597
-USUARIOS URBANOS NO BONIFICADOS                   Cargo Variable Primeros 600 kWh/bim o fracción           $/KWh           206,045
-                                                  Cargo Variable Excedente de 600 kWh/bim                  $/KWh           244,596
-PEQUEÑAS DEMANDAS RESIDENCIALES                   Cuota Fija por suministro Consumo hasta el Base          $/Bim            32.597            16.227            20.691
-USUARIOS URBANOS                                  Cuota Fija por suministro Consumo mayor al Base          $/Bim            32.597            32.597            32.597
-BONIFICADOS POR EL SEF                            Cargo Variable Primeros 300 kWh/bim o fracción           $/KWh           206,045           109,811           136,051
-ZONA BIOAMBIENTAL MUY CÁLIDA                      Cargo Variable Siguientes 100 kWh/bim o fracción         $/KWh           206,045           109,811           206,045
-(VER NOTA 1)                                      Cargo Variable Siguientes 200 kWh/bim o fracción         $/KWh           206,045           206,045           206,045
-                                                  Cargo Variable Siguientes 500 kWh/bim o fracción         $/KWh           244,596           244,596           244,596
-                                                  Cargo Variable Excedente de 1100 kWh/bim                 $/KWh           244,596           244,596           244,596
-PEQUEÑAS DEMANDAS RESIDENCIALES                   Cuota Fija por suministro Consumo hasta el Base          $/Bim            32.597            16.227            20.691
-USUARIOS URBANOS                                  Cuota Fija por suministro Consumo mayor al Base          $/Bim            32.597            32.597            32.597
-BONIFICADOS POR EL SEF                            Cargo Variable Primeros 300 kWh/bim o fracción           $/KWh           206,045           109,811           136,051
-ZONA BIOAMBIETAL CÁLIDA                           Cargo Variable Siguientes 100 kWh/bim o fracción         $/KWh           206,045           109,811           206,045
-(VER NOTA 2)                                      Cargo Variable Siguientes 200 kWh/bim o fracción         $/KWh           206,045           206,045           206,045
-                                                  Cargo Variable Siguientes 140 kWh/bim o fracción         $/KWh           244,596           244,596           244,596
-                                                  Cargo Variable Excedente de 740 kWh/bim                  $/KWh           244,596           244,596           244,596
-PEQUEÑAS DEMANDAS RESIDENCIALES                   Cuota Fija por suministro                                $/Bim            36.127
-USUARIOS RURALES NO BONIFICADOS                   Cargo Variable Primeros 600 kWh/bim o fracción           $/KWh           286,536
-                                                  Cargo Variable Excedente de 600 kWh/bim                  $/KWh           358,096
-PEQUEÑAS DEMANDAS RESIDENCIALES                   Cuota Fija por suministro Consumo hasta el Base          $/Bim            36.127            24.137            27.406
-USUARIOS RURALES                                  Cuota Fija por suministro Consumo mayor al Base          $/Bim            36.127            36.127            36.127
-BONIFICADOS POR EL SEF                            Cargo Variable Primeros 300 kWh/bim o fracción           $/KWh           286,536           196,571           221,102
-ZONA BIOAMBIENTAL MUY CÁLIDA                      Cargo Variable Siguientes 100 kWh/bim o fracción         $/KWh           286,536           196,571           286,536
-(VER NOTA 1)                                      Cargo Variable Siguientes 200 kWh/bim o fracción         $/KWh           286,536           286,536           286,536
-                                                  Cargo Variable Siguientes 500 kWh/bim o fracción         $/KWh           358,096           358,096           358,096
-                                                  Cargo Variable Excedente de 1100 kWh/bim                 $/KWh           358,096           358,096           358,096
-PEQUEÑAS DEMANDAS RESIDENCIALES                   Cuota Fija por suministro Consumo hasta el Base          $/Bim            36.127            24.137            27.406
-USUARIOS RURALES                                  Cuota Fija por suministro Consumo mayor al Base          $/Bim            36.127            36.127            36.127
-BONIFICADOS POR EL SEF                            Cargo Variable Primeros 300 kWh/bim o fracción           $/KWh           286,536           196,571           221,102
-ZONA BIOAMBIENTAL CÁLIDA                          Cargo Variable Siguientes 100 kWh/bim o fracción         $/KWh           286,536           196,571           286,536
-(VER NOTA 2)                                      Cargo Variable Siguientes 200 kWh/bim o fracción         $/KWh           286,536           286,536           286,536
-                                                  Cargo Variable Siguientes 140 kWh/bim o fracción         $/KWh           358,096           358,096           358,096
-                                                  Cargo Variable Excedente de 740 kWh/bim                  $/KWh           358,096           358,096           358,096
-Nota 1: Límite de consumo subsidiado para zona bioambiental muy cálida: Para los meses de enero, febrero y diciembre 1100 kWh/bim.; para mayo, junio, julio y agosto 600
-kWh/bim.; para septiembre 400 kWh/bim.; para el resto del año 300 kWh/bim.
-Nota 2: Límite de consumo subsidiado para zona bioambiental cálida: Para los meses de enero, febrero y diciembre 740 kWh/bim.; para mayo; junio, julio y agosto 600
-kWh/bim.; para septiembre 400 kWh/bim.; para el resto del año 300 kWh/bim.
+          CATEGORÍA                                                DESCRIPCIÓN                           UNIDAD        TARIFA                  TARIFA CON BONIFICACIÓN
+                                                                                                                      SIN BONIF.         AGO/2026           SEP/2026    OCT/2026
+PEQUEÑAS DEMANDAS RESIDENCIALES                   Cuota Fija por suministro                               $/Bim            33.878
+USUARIOS URBANOS NO BONIFICADOS                   Cargo Variable Primeros 600 kWh/bim o fracción          $/KWh           205,870
+                                                  Cargo Variable Excedente de 600 kWh/bim                 $/KWh           244,294
+PEQUEÑAS DEMANDAS RESIDENCIALES                   Cuota Fija por suministro Consumo hasta el Base         $/Bim            33.878             18.491           20.749      21.273
+USUARIOS URBANOS BONIFICADOS POR EL               Cuota Fija por suministro Consumo mayor al Base         $/Bim            33.878             33.878           33.878      33.878
+RÉGIMEN DE SUBSIDIOS ENERGÉTICO                   Cargo Variable Primeros 300 kWh/bim o fracción          $/KWh           205,870            120,586          133,099     136,006
+FOCALIZADO (SEF)                                  Cargo Variable Siguientes 300 kWh/bim o fracción        $/KWh           205,870            120,586          205,870     205,870
+ZONA BIOAMBIEMTAL MUY CÁLIDA                      Cargo Variable Siguientes 500 kWh/bim o fracción        $/KWh           244,294            244,294          244,294     244,294
+(VER NOTA 1)                                      Cargo Variable Excedente de 1100 kWh/bim                $/KWh           244,294            244,294          244,294     244,294
+PEQUEÑAS DEMANDAS RESIDENCIALES                   Cuota Fija por suministro Consumo hasta el Base         $/Bim            33.878             18.491           20.749      21.273
+USUARIOS URBANOS BONIFICADOS POR EL               Cuota Fija por suministro Consumo mayor al Base         $/Bim            33.878             33.878           33.878      33.878
+RÉGIMEN DE SUBSIDIOS ENERGÉTICO                   Cargo Variable Primeros 300 kWh/bim o fracción          $/KWh           205,870            120,586          133,099     136,006
+FOCALIZADO (SEF)                                  Cargo Variable Siguientes 300 kWh/bim o fracción        $/KWh           205,870            120,586          205,870     205,870
+ZONA BIOAMBIEMTAL CÁLIDA                          Cargo Variable Siguientes 140 kWh/bim o fracción        $/KWh           244,294            244,294          244,294     244,294
+(VER NOTA 2)                                      Cargo Variable Excedente de 740 kWh/bim                 $/KWh           244,294            244,294          244,294     244,294
+PEQUEÑAS DEMANDAS RESIDENCIALES                   Cuota Fija por suministro                               $/Bim            37.066
+USUARIOS RURALES NO BONIFICADOS                   Cargo Variable Primeros 600 kWh/bim o fracción          $/KWh           286,479
+                                                  Cargo Variable Excedente de 600 kWh/bim                 $/KWh           357,445
+PEQUEÑAS DEMANDAS RESIDENCIALES                   Cuota Fija por suministro Consumo hasta el Base         $/Bim            37.066             25.795           27.449      27.833
+USUARIOS RURALES BONIFICADOS POR EL               Cuota Fija por suministro Consumo mayor al Base         $/Bim            37.066             37.066           37.066      37.066
+RÉGIMEN DE SUBSIDIOS ENERGÉTICO                   Cargo Variable Primeros 300 kWh/bim o fracción          $/KWh           286,479            206,751          218,448     221,166
+FOCALIZADO (SEF)                                  Cargo Variable Siguientes 300 kWh/bim o fracción        $/KWh           286,479            206,751          286,479     286,479
+ZONA BIOAMBIEMTAL MUY CÁLIDA                      Cargo Variable Siguientes 500 kWh/bim o fracción        $/KWh           357,445            357,445          357,445     357,445
+(VER NOTA 1)                                      Cargo Variable Excedente de 1100 kWh/bim                $/KWh           357,445            357,445          357,445     357,445
+PEQUEÑAS DEMANDAS RESIDENCIALES                   Cuota Fija por suministro Consumo hasta el Base         $/Bim            37.066             25.795           27.449      27.833
+USUARIOS RURALES BONIFICADOS POR EL               Cuota Fija por suministro Consumo mayor al Base         $/Bim            37.066             37.066           37.066      37.066
+RÉGIMEN DE SUBSIDIOS ENERGÉTICO                   Cargo Variable Primeros 300 kWh/bim o fracción          $/KWh           286,479            206,751          218,448     221,166
+FOCALIZADO (SEF)                                  Cargo Variable Siguientes 300 kWh/bim o fracción        $/KWh           286,479            206,751          286,479     286,479
+ZONA BIOAMBIEMTAL CÁLIDA                          Cargo Variable Siguientes 140 kWh/bim o fracción        $/KWh           357,445            357,445          357,445     357,445
+(VER NOTA 2)                                      Cargo Variable Excedente de 740 kWh/bim                 $/KWh           357,445            357,445          357,445     357,445
+Nota 1: Límite de consumo subsidiado para la zona bioambiental muy cálida: Para los meses de enero, febrero y diciembre 1100 kWh/bim.; mayo, junio, julio
+       y agosto 600 kWh/bim.; para el resto del año 300 kWh/bim.
+Nota 2: Límite de consumo subsidiado para la zona bioambiental cálida: Para los meses de enero, febrero y diciembre 740 kWh/bim., mayo; junio, julio
+       y agosto 600 kWh/bim.; para el resto del año 300 kWh/bim.
                            CUADRO TARIFARIO
 
 PEQUEÑAS DEMANDAS (POTENCIA DEMANDADA MENOR A 10 kW)
 
-TARIFA ELECTRODEPENDIENTES
+TARIFAS ELECTRODEPENDIENTES
                                                                             TARIFA CON
              CATEGORÍA                    DESCRIPCIÓN              UNIDAD    SUBSIDIO
 
 
 PEQUEÑAS DEMANDAS RESIDENCIALES        Cuota Fija por suministro   $/Bim         10.771
-USUARIOS URBANOS ELECTRODEPENDIENTES   Todo el consumo             $/KWh         57,596
+USUARIOS URBANOS ELECTRODEPENDIENTES   Todo el consumo             $/KWh         57,661
 PEQUEÑAS DEMANDAS RESIDENCIALES        Cuota Fija por suministro   $/Bim         20.140
-USUARIOS RURALES ELECTRODEPENDIENTES   Todo el consumo             $/KWh        147,758
+USUARIOS RURALES ELECTRODEPENDIENTES   Todo el consumo             $/KWh        147,924
                                                         CUADRO TARIFARIO
 
 PEQUEÑAS DEMANDAS (POTENCIA DEMANDADA MENOR A 10 kW)
@@ -82,204 +78,204 @@ PEQUEÑAS DEMANDAS (POTENCIA DEMANDADA MENOR A 10 kW)
 TARIFAS SERVICIOS GENERALES
               CATEGORÍA                                                     DESCRIPCIÓN                     UNIDAD   TARIFA
 
-PEQUEÑAS DEMANDAS SERVICIOS GENERALES                     Cuota Fija por suministro                         $/Bim       91.973
-Comercial y Oficial con carácter comercial. Urbanos       Cargo Variable Primeros 4000 kWh/bim o fracción   $/KWh       214,206
-Industrial y Oficial con carácter industrial. Urbanos     Cargo Variable Excedente de 4000 kWh/bim          $/KWh       251,894
-PEQUEÑAS DEMANDAS SERVICIOS GENERALES                     Cuota Fija por suministro                         $/Bim      225.699
-Autoridades Nacionales, Provinciales y Municipales        Cargo Variable Primeros 4000 kWh/bim o fracción   $/KWh       226,503
-Usuarios urbanos                                          Cargo Variable Excedente de 4000 kWh/bim          $/KWh       267,267
-PEQUEÑAS DEMANDAS SERVICIOS GENERALES                     Cuota Fija por suministro                         $/Bim       95.734
-Asociaciones Civiles sin fines de lucro                   Cargo Variable Primeros 4000 kWh/bim o fracción   $/KWh       215,682
-Usuarios urbanos                                          Cargo Variable Excedente de 4000 kWh/bim          $/KWh       256,906
-PEQUEÑAS DEMANDAS SERVICIOS GENERALES                     Cuota Fija por suministro                         $/Bim       90.630
-Riego Agrícola                                            Cargo Variable Primeros 4000 kWh/bim o fracción   $/KWh       220,104
-Usuarios urbanos                                          Cargo Variable Excedente de 4000 kWh/bim          $/KWh       271,502
-PEQUEÑAS DEMANDAS SERVICIOS GENERALES                     Cuota Fija por suministro                         $/Bim      100.577
-Comercial y Oficial con carácter comercial. Rurales       Cargo Variable Primeros 4000 kWh/bim o fracción   $/KWh       274,713
-Industrial y Oficial con carácter industrial. Rurales     Cargo Variable Excedente de 4000 kWh/bim          $/KWh       333,693
-PEQUEÑAS DEMANDAS SERVICIOS GENERALES                     Cuota Fija por suministro                         $/Bim      134.374
-Autoridades Nacionales, Provinciales y Municipales        Cargo Variable Primeros 4000 kWh/bim o fracción   $/KWh       269,796
-Usuarios Rurales                                          Cargo Variable Excedente de 4000 kWh/bim          $/KWh       328,993
-PEQUEÑAS DEMANDAS SERVICIOS GENERALES                     Cuota Fija por suministro                         $/Bim       84.073
-Asociaciones Civiles sin fines de lucro                   Cargo Variable Primeros 4000 kWh/bim o fracción   $/KWh       274,117
-Usuarios Rurales                                          Cargo Variable Excedente de 4000 kWh/bim          $/KWh       343,494
-PEQUEÑAS DEMANDAS SERVICIOS GENERALES                     Cuota Fija por suministro                         $/Bim      101.295
-Riego Agrícola                                            Cargo Variable Primeros 4000 kWh/bim o fracción   $/KWh       272,367
-Usuarios Rurales                                          Cargo Variable Excedente de 4000 kWh/bim          $/KWh       336,024
+PEQUEÑAS DEMANDAS SERVICIOS GENERALES                     Cuota Fija por suministro                         $/Bim       95.112
+Comercial y Oficial con carácter comercial. Urbanos       Cargo Variable Primeros 4000 kWh/bim o fracción   $/KWh       198,459
+Industrial y Oficial con carácter industrial. Urbanos     Cargo Variable Excedente de 4000 kWh/bim          $/KWh       235,835
+PEQUEÑAS DEMANDAS SERVICIOS GENERALES                     Cuota Fija por suministro                         $/Bim      235.873
+Autoridades Nacionales, Provinciales y Municipales        Cargo Variable Primeros 4000 kWh/bim o fracción   $/KWh       210,770
+Usuarios urbanos                                          Cargo Variable Excedente de 4000 kWh/bim          $/KWh       251,226
+PEQUEÑAS DEMANDAS SERVICIOS GENERALES                     Cuota Fija por suministro                         $/Bim       98.636
+Asociaciones Civiles sin fines de lucro                   Cargo Variable Primeros 4000 kWh/bim o fracción   $/KWh       199,937
+Usuarios urbanos                                          Cargo Variable Excedente de 4000 kWh/bim          $/KWh       240,699
+PEQUEÑAS DEMANDAS SERVICIOS GENERALES                     Cuota Fija por suministro                         $/Bim       93.436
+Riego Agrícola                                            Cargo Variable Primeros 4000 kWh/bim o fracción   $/KWh       204,364
+Usuarios urbanos                                          Cargo Variable Excedente de 4000 kWh/bim          $/KWh       254,878
+PEQUEÑAS DEMANDAS SERVICIOS GENERALES                     Cuota Fija por suministro                         $/Bim      103.664
+Comercial y Oficial con carácter comercial. Rurales       Cargo Variable Primeros 4000 kWh/bim o fracción   $/KWh       259,034
+Industrial y Oficial con carácter industrial. Rurales     Cargo Variable Excedente de 4000 kWh/bim          $/KWh       317,430
+PEQUEÑAS DEMANDAS SERVICIOS GENERALES                     Cuota Fija por suministro                         $/Bim      137.299
+Autoridades Nacionales, Provinciales y Municipales        Cargo Variable Primeros 4000 kWh/bim o fracción   $/KWh       254,112
+Usuarios Rurales                                          Cargo Variable Excedente de 4000 kWh/bim          $/KWh       312,649
+PEQUEÑAS DEMANDAS SERVICIOS GENERALES                     Cuota Fija por suministro                         $/Bim       85.799
+Asociaciones Civiles sin fines de lucro                   Cargo Variable Primeros 4000 kWh/bim o fracción   $/KWh       258,438
+Usuarios Rurales                                          Cargo Variable Excedente de 4000 kWh/bim          $/KWh       326,736
+PEQUEÑAS DEMANDAS SERVICIOS GENERALES                     Cuota Fija por suministro                         $/Bim      104.084
+Riego Agrícola                                            Cargo Variable Primeros 4000 kWh/bim o fracción   $/KWh       256,686
+Usuarios Rurales                                          Cargo Variable Excedente de 4000 kWh/bim          $/KWh       319,511
 
 TARIFAS DE ALUMBRADO PÚBLICO
               CATEGORÍA                                                     DESCRIPCIÓN                     UNIDAD   TARIFA
                                                                                                                      ETAPA 2
-ALUMBRADO PUBLICO                                         Todo el consumo                                   $/KWh      274,596
+ALUMBRADO PUBLICO                                         Todo el consumo                                   $/KWh      260,868
 Suministro directo a prestadores del servicio
-ALUMBRADO PUBLICO                                         Cargo a cobrar al usuario                         $/mes         3753
+ALUMBRADO PUBLICO                                         Cargo a cobrar al usuario                         $/mes         3565
 Convenio con prestadores del servicio
-                                          CUADRO TARIFARIO
+                                        CUADRO TARIFARIO
 
 PEQUEÑAS DEMANDAS (POTENCIA DEMANDADA MENOR A 10 kW)
 
 TARIFAS SERVICIOS GENERALES - USUARIOS BONIFICADOS POR EL SEF
-              CATEGORÍA                          DESCRIPCIÓN                              UNIDAD   TARIFA CON BONIFICAC.
-                                                                                                    SEP/2026    OCT/2026
-PEQUEÑAS DEMANDAS SERVICIOS GENERALES   Cuota Fija por suministro                         $/Bim        58.665      68.772
-Asociaciones Civiles Clubes de barrio   Cargo Variable Primeros 4000 kWh/bim o fracción   $/KWh        99,273     123,843
-Usuarios urbanos                        Cargo Variable Excedente de 4000 kWh/bim          $/KWh       140,409     164,980
-PEQUEÑAS DEMANDAS SERVICIOS GENERALES   Cuota Fija por suministro                         $/Bim        84.073      84.073
-Asociaciones Civiles Clubes de barrio   Cargo Variable Primeros 4000 kWh/bim o fracción   $/KWh       157,708     182,278
-Usuarios Rurales                        Cargo Variable Excedente de 4000 kWh/bim          $/KWh       226,997     251,568
+              CATEGORÍA                          DESCRIPCIÓN                                UNIDAD    TARIFA
+                                                                                                     CON BONIF.
+PEQUEÑAS DEMANDAS SERVICIOS GENERALES     Cuota Fija por suministro                         $/Bim        63.791
+Asociaciones Civiles Clubes de barrio     Cargo Variable Primeros 4000 kWh/bim o fracción   $/KWh       109,345
+Usuarios urbanos                          Cargo Variable Excedente de 4000 kWh/bim          $/KWh       150,173
+PEQUEÑAS DEMANDAS SERVICIOS GENERALES     Cuota Fija por suministro                         $/Bim        85.799
+Asociaciones Civiles Clubes de barrio     Cargo Variable Primeros 4000 kWh/bim o fracción   $/KWh       167,846
+Usuarios Rurales                          Cargo Variable Excedente de 4000 kWh/bim          $/KWh       236,211
                                      CUADRO TARIFARIO
 
 MEDIANAS Y GRANDES DEMANDAS Y SERVICIOS PÚBLICOS SANITARIOS
 
                      CATEGORÍA                      DESCRIPCIÓN           UNIDAD     TARIFA
 
-MEDIANAS DEMANDAS                                 Cargo Fijo por potencia $/kW-Mes    33.315
+MEDIANAS DEMANDAS                                 Cargo Fijo por potencia $/kW-Mes    34.005
 Potencia convenida desde 10 kW no mayor a 50 kW   Cargo Variable
-                                                  Por todo el consumo     $/KWh      176,350
-GRANDES DEMANDAS                                  Cargo Fijo por potencia $/KW-Mes    32.873
+                                                  Por todo el consumo     $/KWh      160,527
+GRANDES DEMANDAS                                  Cargo Fijo por potencia $/KW-Mes    33.562
 Potencia convenida desde 50 kW y menor a 300 kW   Cargo Variable
-Suministro en Baja Tensión                        Horas Pico              $/KWh      180,522
-                                                  Horas Resto             $/KWh      175,597
-                                                  Horas Valle             $/KWh      174,430
-GRANDES DEMANDAS                                  Cargo Fijo por potencia $/KW-Mes    32.757
+Suministro en Baja Tensión                        Horas Pico              $/KWh      163,302
+                                                  Horas Resto             $/KWh      159,920
+                                                  Horas Valle             $/KWh      159,523
+GRANDES DEMANDAS                                  Cargo Fijo por potencia $/KW-Mes    33.447
 Potencia convenida desde 300 kW                   Cargo Variable
-Suministro en Baja Tensión                        Horas Pico              $/KWh      202,150
-Generales                                         Horas Resto             $/KWh      196,460
-                                                  Horas Valle             $/KWh      195,112
-GRANDES DEMANDAS                                  Cargo Fijo por potencia $/KW-Mes    19.672
+Suministro en Baja Tensión                        Horas Pico              $/KWh      179,938
+Generales                                         Horas Resto             $/KWh      176,088
+                                                  Horas Valle             $/KWh      175,638
+GRANDES DEMANDAS                                  Cargo Fijo por potencia $/KW-Mes    20.308
 Potencia convenida desde 50 kW y menor a 300 kW   Cargo Variable
-Suministro en Media Tensión                       Horas Pico              $/KWh      168,083
-                                                  Horas Resto             $/KWh      163,488
-                                                  Horas Valle             $/KWh      162,399
-GRANDES DEMANDAS                                  Cargo Fijo por potencia $/KW-Mes    19.549
+Suministro en Media Tensión                       Horas Pico              $/KWh      152,018
+                                                  Horas Resto             $/KWh      148,863
+                                                  Horas Valle             $/KWh      148,493
+GRANDES DEMANDAS                                  Cargo Fijo por potencia $/KW-Mes    20.185
 Potencia convenida desde 300 kW                   Cargo Variable
-Suministro en Media Tensión                       Horas Pico              $/KWh      188,259
-Generales                                         Horas Resto             $/KWh      182,952
-                                                  Horas Valle             $/KWh      181,693
-SERVICIOS PÚBLICOS SANITARIOS                     Cargo Fijo por potencia $/kW-Mes    34.350
+Suministro en Media Tensión                       Horas Pico              $/KWh      167,539
+Generales                                         Horas Resto             $/KWh      163,947
+                                                  Horas Valle             $/KWh      163,527
+SERVICIOS PÚBLICOS SANITARIOS                     Cargo Fijo por potencia $/kW-Mes    35.039
 (< 10 KW en Baja Tensión)                         Cargo Variable
-                                                  Por todo el consumo   $/kWh        176,746
-                                                             CUADRO TARIFARIO
+                                                  Por todo el consumo   $/kWh        160,803
+                                                                     CUADRO TARIFARIO
 
 TARIFAS A OTROS DISTRIBUIDORES (COOPERATIVAS)
 
 ENERGÍA DESTINADA A USUARIOS RESIDENCIALES
-                           CATEGORÍA                                      DESCRIPCIÓN             UNIDAD         TARIFA    TARIFA CON BONIFICAC.
-                                                                                                                SIN BONIF. SEP/2026    OCT/2026
-  Energía destinada a Usuarios Residenciales                           Cargo Fijo por potencia   $/KW-Mes            19.533
-     Sin bonificaciones                                                Cargo Variable
-     Todo el consumo                                                   Horas Pico              $/KWh               140,960
-                                                                       Horas Resto             $/KWh               137,261
-                                                                       Horas Valle             $/KWh               136,383
-  Energía destinada a Usuarios Residenciales                           Cargo Fijo por potencia $/KW-Mes             19.533             11.404           13.620
-     bonificados por el SEF                                            Cargo Variable
-     Consumo base                                                      Horas Pico              $/KWh               140,960             54,767           78,269
-           (Ver Notas 1 y 2)                                           Horas Resto             $/KWh               137,261             53,842           76,588
-                                                                       Horas Valle             $/KWh               136,383             53,623           76,189
-  Energía destinada a Usuarios Residenciales                           Cargo Fijo por potencia $/KW-Mes             19.533             19.533           19.533
-     bonificados por el SEF                                            Cargo Variable
-     Excedente de consumo base                                         Horas Pico                $/KWh             140,960           140,960          140,960
-           (Ver Notas 1 y 2)                                           Horas Resto               $/KWh             137,261           137,261          137,261
-                                                                       Horas Valle               $/KWh             136,383           136,383          136,383
-Nota 1: Límite de consumo subsidiado para zona bioambiental muy cálida: Para los meses de enero, febrero y diciembre 550 kWh/mes.; para mayo, junio, julio y
-agosto 300 kWh/mes; para septiembre 200 kWh/mes; para el resto del año 150 kWh/mes
-Nota 2: Límite de consumo subsidiado para zona bioambiental cálida: Para los meses de enero, febrero y diciembre 370 kWh/mes; para mayo; junio, julio y agosto
-300 kWh/mes; para septiembre 200 kWh/mes; para el resto del año 150 kWh/mes
-
-
+                           CATEGORÍA                                      DESCRIPCIÓN              UNIDAD        TARIFA               TARIFA CON BONIFICACIÓN
+                                                                                                                SIN BONIF.        AGO/2026         SEP/2026      OCT/2026
+   Energía destinada a Usuarios Residenciales                           Cargo Fijo por potencia   $/KW-Mes            20.169
+      Sin bonificaciones                                                Cargo Variable
+      Todo el consumo                                                   Horas Pico              $/KWh               140,004
+                                                                        Horas Resto             $/KWh               137,136
+                                                                        Horas Valle             $/KWh               136,800
+   Energía destinada a Usuarios Residenciales                           Cargo Fijo por potencia $/KW-Mes             20.169           12.528            13.649     13.910
+      Bonificados por el SEF                                            Cargo Variable
+      Consumo base                                                      Horas Pico              $/KWh               140,004           64,121            75,254     77,841
+      Zonas Bioambientales Cálida y Muy Cálida                          Horas Resto             $/KWh               137,136           63,162            74,016     76,537
+      (Ver Notas 1 y 2)                                                 Horas Valle             $/KWh               136,800           63,050            73,871     76,385
+   Energía destinada a Usuarios Residenciales                           Cargo Fijo por potencia $/KW-Mes             20.169           20.169            20.169     20.169
+      Usuarios bonificados por el SEF                                   Cargo Variable
+      Excedente de consumo base                                         Horas Pico                $/KWh             140,004          140,004           140,004    140,004
+      Zonas Bioambientales Cálida y Muy Cálida                          Horas Resto               $/KWh             137,136          137,136           137,136    137,136
+                                                                        Horas Valle               $/KWh             136,800          136,800           136,800    136,800
+Nota 1: Límite de consumo subsidiado para la zona bioambiental muy cálida: Para los meses de enero, febrero y diciembre 550 kWh/mes.; mayo, junio, julio
+       y agosto 300 kWh/mes.; para el resto del año 150 kWh/mes.
+Nota 2: Límite de consumo subsidiado para la zona bioambiental cálida: Para los meses de enero, febrero y diciembre 370 kWh/mes., mayo; junio, julio
+       y agosto 300 kWh/mes.; para el resto del año 150 kWh/mes.
 
 
 ENERGÍA DESTINADA A CLUBES DE BARRIO
-                           CATEGORÍA                                      DESCRIPCIÓN             UNIDAD       TARIFA CON BONIFICAC.
-                                                                                                                 SEP/2026        OCT/2026
-  Energía destinada a Clubes de barrio                                 Cargo Fijo por potencia   $/KW-Mes            11.404            13.620
-     Bonificados por el SEF                                            Cargo Variable
-     Todo el consumo                                                   Horas Pico                $/KWh               54,119            77,090
-                                                                       Horas Resto               $/KWh               53,402            75,787
-                                                                       Horas Valle               $/KWh               53,318            75,634
+                           CATEGORÍA                                      DESCRIPCIÓN              UNIDAD       TARIFA
+                                                                                                               CON BONIF.
+   Energía destinada a Usuarios Residenciales                           Cargo Fijo por potencia   $/KW-Mes            12.616
+      Bonificados por el SEF                                            Cargo Variable
+      Consumo base                                                      Horas Pico                $/KWh               59,050
+      Zonas Bioambientales Cálida y Muy Cálida                          Horas Resto               $/KWh               57,740
+                                                                        Horas Valle               $/KWh               57,458
                                                      CUADRO TARIFARIO
 
 TARIFAS A OTROS DISTRIBUIDORES (COOPERATIVAS)
 
                           CATEGORÍA                                             DESCRIPCIÓN        UNIDAD   TARIFA
                                                                                                             ETAPA 2
- Demanda destinada al consumo no residencial del Distribuidor          Cargo Fijo por potencia   $/KW-Mes      19.533
+ Demanda destinada al consumo no residencial del Distribuidor          Cargo Fijo por potencia   $/KW-Mes      20.169
      Usuarios con potencia desde 300 kW (GUDIS)                        Cargo Variable
-                                                                       Horas Pico                $/KWh        186,437
-                                                                       Horas Resto               $/KWh        181,130
-                                                                       Horas Valle               $/KWh        179,871
- Demanda dest. al consumo del resto de los usuarios del Distribuidor   Cargo Fijo por potencia   $/KW-Mes      19.533
+                                                                       Horas Pico                $/KWh        165,716
+                                                                       Horas Resto               $/KWh        162,124
+                                                                       Horas Valle               $/KWh        161,704
+ Demanda dest. al consumo del resto de los usuarios del Distribuidor   Cargo Fijo por potencia   $/KW-Mes      20.169
      Usuarios no residenciales con potencia menor a 300 kW             Cargo Variable
-                                                                       Horas Pico                $/KWh        166,261
-                                                                       Horas Resto               $/KWh        161,666
-                                                                       Horas Valle               $/KWh        160,577
+                                                                       Horas Pico                $/KWh        150,196
+                                                                       Horas Resto               $/KWh        147,040
+                                                                       Horas Valle               $/KWh        146,670
                                       CUADRO TARIFARIO
 
 TARIFAS A OTROS DISTRIBUIDORES (COOPERATIVAS)
 
                  CATEGORÍA                       DESCRIPCIÓN            UNIDAD   TARIFA
-
- Energía destinada a Usuarios Residenciales   Cargo Fijo Horas Pico   $/KW-Mes       8.694
+                                                                                 ETAPA 2
+ Energía destinada a Usuarios Residenciales   Cargo Fijo Horas Pico   $/KW-Mes        8694
     ELECTRODEPENDIENTES                       Cargo Variable
-    Todo el consumo                           Horas Pico              $/KWh          8,474
-                                              Horas Resto             $/KWh          8,474
-                                              Horas Valle             $/KWh          8,474
+    Todo el consumo                           Horas Pico              $/KWh          8,486
+                                              Horas Resto             $/KWh          8,486
+                                              Horas Valle             $/KWh          8,486
                                         CUADRO TARIFARIO
 
 TARIFAS DE PEAJE DE GRANDES USUARIOS DEL MEM
 
                    CATEGORÍA                             DESCRIPCIÓN         UNIDAD    TARIFA
 
-GUPAs (>= 10 kW y <= 30 kW)                       Cargo Fijo por Potencia   $/kW-Mes     23.270
+GUPAs (>= 10 kW y <= 30 kW)                       Cargo Fijo por Potencia   $/kW-Mes     23.370
 Potencia convenida desde 10 kW no mayor a 50 kW   Cargo Variable
-                                                  Por todo el consumo       $/KWh        30,756
-GUPAs y GUMEs (> 50 kW y < 300 kW)                Cargo Fijo por Potencia   $/KW-Mes     22.828
+                                                  Por todo el consumo       $/KWh        28,714
+GUPAs y GUMEs (> 50 kW y < 300 kW)                Cargo Fijo por Potencia   $/KW-Mes     22.927
 Potencia convenida desde 50 kW y menor a 300 kW   Cargo Variable
-Suministro en Baja Tensión                        Horas Pico                $/KWh        31,298
-                                                  Horas Resto               $/KWh        30,659
-                                                  Horas Valle               $/KWh        30,507
-GUDIs, GUMEs y GUMAs (>=300 kW)                   Cargo Fijo por Potencia   $/KW-Mes     22.712
+Suministro en Baja Tensión                        Horas Pico                $/KWh        29,074
+                                                  Horas Resto               $/KWh        28,636
+                                                  Horas Valle               $/KWh        28,584
+GUDIs, GUMEs y GUMAs (>=300 kW)                   Cargo Fijo por Potencia   $/KW-Mes     22.812
 Potencia convenida desde 300 kW                   Cargo Variable
-Suministro en Baja Tensión                        Horas Pico                $/KWh        34,104
-                                                  Horas Resto               $/KWh        33,366
-                                                  Horas Valle               $/KWh        33,191
-GUPAs y GUMEs (> 50 kW y < 300 kW)                Cargo Fijo por Potencia   $/KW-Mes      9.626
+Suministro en Baja Tensión                        Horas Pico                $/KWh        31,233
+                                                  Horas Resto               $/KWh        30,734
+                                                  Horas Valle               $/KWh        30,675
+GUPAs y GUMEs (> 50 kW y < 300 kW)                Cargo Fijo por Potencia   $/KW-Mes      9.673
 Potencia convenida desde 50 kW y menor a 300 kW   Cargo Variable
-Suministro en Media Tensión                       Horas Pico                $/KWh        18,858
-                                                  Horas Resto               $/KWh        18,550
-                                                  Horas Valle               $/KWh        18,477
-GUDIs, GUMEs y GUMAs (>=300 kW)                   Cargo Fijo por Potencia   $/KW-Mes      9.504
+Suministro en Media Tensión                       Horas Pico                $/KWh        17,791
+                                                  Horas Resto               $/KWh        17,579
+                                                  Horas Valle               $/KWh        17,555
+GUDIs, GUMEs y GUMAs (>=300 kW)                   Cargo Fijo por Potencia   $/KW-Mes      9.550
 Potencia convenida desde 300 kW                   Cargo Variable
-Suministro en Media Tensión                       Horas Pico                $/KWh        20,213
-                                                  Horas Resto               $/KWh        19,857
-                                                  Horas Valle               $/KWh        19,772
+Suministro en Media Tensión                       Horas Pico                $/KWh        18,834
+                                                  Horas Resto               $/KWh        18,592
+                                                  Horas Valle               $/KWh        18,564
                                       CUADRO TARIFARIO
 
 TARIFAS DE REINTEGRO A PROSUMIDORES
 
 PEQUEÑAS DEMANDAS
-                          CATEGORÍA                                                       REINTEGRO
-                                                                                            $/kWh
-Residenciales - Sin Subsidios                                                                 111,653
-Residenciales con bonificaciones del SEF, mes de sept-2026 (sept-2026: 50% + 25,00%)           29,794
-Residenciales con bonificaciones del SEF, mes de oct-2026 (oct-2026: 50% + 4,55%)              52,115
-Electrodependientes                                                                             0,000
-Comercial e Industrial (Particulares y Oficiales)                                             132,194
-Autoridades Nacionales, Provinciales y Municipales                                            134,566
-Asociaciones Civiles sin fines de lucro                                                       133,260
-Clubes de barrio con bonificaciones del SEF, mes de sept-2026 (sept-2026: 50% + 25,00%)        40,225
-Clubes de barrio con bonificaciones del SEF, mes de oct-2026 (oct-2026: 50% + 4,55%)           59,862
-Riego Agrícola                                                                                132,089
+                          CATEGORÍA                                                      REINTEGRO
+                                                                                           $/kWh
+Residenciales - Sin Subsidios                                                                112,254
+Residenciales con bonificaciones del SEF, mes de ago-2026 (ago-2026: 50% + 16,59%)            39,174
+Residenciales con bonificaciones del SEF, mes de sept-2026 (sept-2026: 50% + 6,82%)           49,896
+Residenciales con bonificaciones del SEF, mes de oct-2026 (oct-2026: 50% + 4,55%)             52,387
+Electrodependientes                                                                            0,000
+Comercial e Industrial (Particulares y Oficiales)                                            120,308
+Autoridades Nacionales, Provinciales y Municipales                                           122,818
+Asociaciones Civiles sin fines de lucro                                                      121,436
+Clubes de barrio con bonificaciones del SEF, mes de ago-2026 (ago-2026: 50% + 16,59%)         49,034
+Clubes de barrio con bonificaciones del SEF, mes de sept-2026 (sept-2026: 50% + 6,82%)        58,395
+Clubes de barrio con bonificaciones del SEF, mes de oct-2026 (oct-2026: 50% + 4,55%)          60,570
+Riego Agrícola                                                                               120,196
 
 MEDIANAS Y GRANDES DEMANDAS Y SERVICIOS PÚBLICOS SANITARIOS
-                     CATEGORÍA                              DESCRIPCION                   REINTEGRO
-                                                                                            $/kWh
-Medianas demandas Potencia convenida desde 10 kW no mayor a 50 kW                             123,401
-Grandes demandas                                            Horas Pico                        127,024
-Potencia convenida desde 50 kW y menor a 300 kW             Horas Resto                       123,088
-Suministro en Baja o Media Tensión                          Horas Valle                       122,155
-Grandes demandas                                            Horas Pico                        143,102
-Potencia convenida desde 300 kW                             Horas Resto                       138,555
-Suministro en Baja o Media Tensión                          Horas Valle                       137,477
-Servicios Públicos Sanitarios (Hasta 10 KW en Baja Tensión)                                   121,856
+                     CATEGORÍA                              DESCRIPCION                  REINTEGRO
+                                                                                           $/kWh
+Medianas demandas Potencia convenida desde 10 kW no mayor a 50 kW                            110,985
+Grandes demandas                                            Horas Pico                       113,508
+Potencia convenida desde 50 kW y menor a 300 kW             Horas Resto                      110,805
+Suministro en Baja o Media Tensión                          Horas Valle                      110,488
+Grandes demandas                                            Horas Pico                       125,527
+Potencia convenida desde 300 kW                             Horas Resto                      122,450
+Suministro en Baja o Media Tensión                          Horas Valle                      122,090
+Servicios Públicos Sanitarios (Hasta 10 KW en Baja Tensión)                                  109,235
 

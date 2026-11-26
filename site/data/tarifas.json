@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-25T10:02:54+00:00",
+ "generado": "2026-11-26T10:00:25+00:00",
  "distribuidoras": [
   {
    "id": "edenor",
@@ -1376,7 +1376,7 @@
     "extra: OK https://www.edenor.com/files/2026-11/Cuadro-Tarifario.pdf (2026-11, 32 tablas)",
     "se: ningún archivo descargable (8 enlaces con error)"
    ],
-   "verificado": "2026-11-25T10:02:54+00:00",
+   "verificado": "2026-11-26T10:00:25+00:00",
    "oficiales": {
     "links": [
      "https://www.edenor.com/institucional/marco-regulatorio",
@@ -3625,7 +3625,7 @@
     "extra: OK https://www.edesur.com.ar/wp-content/uploads/2026/11/CT_NOV26_WEB-1.jpg (2026-11, 0 tablas)",
     "se: ningún archivo descargable (6 enlaces con error)"
    ],
-   "verificado": "2026-11-25T10:02:54+00:00",
+   "verificado": "2026-11-26T10:00:25+00:00",
    "oficiales": {
     "links": [
      "https://www.edesur.com.ar/tarifas-cuadro-tarifario/"
@@ -5342,7 +5342,7 @@
     "extra: OK https://www.infoedes.com/wp-content/uploads/2026/09/EDES-Cuadro-Tarifario-Septiembre-1.pdf (2026-09, 5 tablas)",
     "se: ningún archivo descargable (1 enlaces con error)"
    ],
-   "verificado": "2026-11-25T10:02:54+00:00",
+   "verificado": "2026-11-26T10:00:25+00:00",
    "oficiales": {
     "links": [
      "https://www.infoedes.com/cuadro-tarifario/",
@@ -6980,7 +6980,7 @@
     "extra: OK https://www.oceba.gba.gov.ar/nueva_web/adjuntos/ct202609/IF-2026-27778457-GDEBA-GMOCEBA.pdf (2026-09, 4 tablas)",
     "se: ningún archivo descargable (2 enlaces con error)"
    ],
-   "verificado": "2026-11-25T10:02:54+00:00",
+   "verificado": "2026-11-26T10:00:25+00:00",
    "oficiales": {
     "links": [
      "https://www.edeaweb.com.ar/cuadro-tarifario/",
@@ -8732,7 +8732,7 @@
     ]
    },
    "desactualizado": false,
-   "ultimo_intento": "2026-11-25T10:02:54+00:00",
+   "ultimo_intento": "2026-11-26T10:00:25+00:00",
    "regulador": {
     "sigla": "OCEBA",
     "nombre": "Organismo de Control de Energía Eléctrica de la Provincia de Buenos Aires",
@@ -9598,7 +9598,7 @@
     "extra: OK https://www.edensa.com.ar/wp-content/uploads/2026/09/EDEN-Cuadro-Tarifario-Septiembre.pdf (2026-09, 5 tablas)",
     "se: ningún archivo descargable (2 enlaces con error)"
    ],
-   "verificado": "2026-11-25T10:02:54+00:00",
+   "verificado": "2026-11-26T10:00:25+00:00",
    "oficiales": {
     "links": [
      "https://www.edensa.com.ar/cuadro-tarifario/",
@@ -10521,7 +10521,7 @@
     "known: OK https://www.ecsapem.com.ar/uploads/Cuadro_Tarifario_Octubre_2026_NO_SUBSIDIADO_Res_DP_341_26_6645b45857.pdf (2026-10, 1 tablas)",
     "se: ningún archivo descargable (8 enlaces con error)"
    ],
-   "verificado": "2026-11-25T10:02:54+00:00",
+   "verificado": "2026-11-26T10:00:25+00:00",
    "oficiales": {
     "links": [
      "https://www.ecsapem.com.ar/organization/rates"
@@ -14117,7 +14117,7 @@
     "primary: OK https://www.secheep.gob.ar/downloads/paginas/cuadros-tarifarios/Anexo-I-y-II-Cuadro-Tarifario-de-aplicacion-y-sin-subsidio-Noviembre-2026.pdf (2026-11, 9 tablas)",
     "se: ningún archivo descargable (9 enlaces con error)"
    ],
-   "verificado": "2026-11-25T10:02:54+00:00",
+   "verificado": "2026-11-26T10:00:25+00:00",
    "oficiales": {
     "links": [
      "https://www.secheep.gob.ar/cuadros-tarifarios.html"
@@ -15317,7 +15317,7 @@
    "intentos": [
     "se: ningún archivo descargable (1 enlaces con error)"
    ],
-   "verificado": "2026-11-25T10:02:54+00:00",
+   "verificado": "2026-11-26T10:00:25+00:00",
    "oficiales": {
     "links": [],
     "nota": "La tabla de fuentes de referencia lista a DGSP como observación, sin links oficiales."
@@ -16729,7 +16729,7 @@
     "extra: OK https://www.epec.com.ar/docs/cuadro-tarifario/cuadro-tarifario-publicado-30102026-aplicacion-011126.pdf (2026-11, 1 tablas)",
     "se: ningún archivo descargable (1 enlaces con error)"
    ],
-   "verificado": "2026-11-25T10:02:54+00:00",
+   "verificado": "2026-11-26T10:00:25+00:00",
    "oficiales": {
     "links": [
      "https://www.epec.com.ar/informacion-comercial/grandes-clientes",
@@ -16983,16 +16983,16 @@
    "nota": "",
    "estado": "ok",
    "documento": {
-    "url": "https://www.dpec.com.ar/es/articulo/1500/descarga/180/CUADRO-TARIFARIO-108-Hpdf",
-    "titulo": "Cuadro Tarifario 108-H",
-    "pagina": "https://www.dpec.com.ar/1500/Cuadro-Tarifario",
+    "url": "https://www.dpec.com.ar/es/articulo/1500/descarga/176/CUADRO-TARIFARIO-108-Gpdf",
+    "titulo": "CUADRO-TARIFARIO-108-Gpdf",
+    "pagina": null,
     "origen": "Distribuidora",
     "tipo": "pdf",
-    "sha256": "b0d5e7f1e1118f22450b4a6bc6a6206bb288708aa36b05123f4b5fdc060a6aca",
-    "bytes": 610108,
-    "via": "búsqueda automática"
+    "sha256": "0274c2144c09adf9e6a299d41ba50e86d90767b359bb94510faaf70133cebb61",
+    "bytes": 610845,
+    "via": "URL conocida"
    },
-   "vigencia": "Cuadro Tarifario N° 108-H: septiembre a octubre de 2026",
+   "vigencia": "Cuadro Tarifario N° 108-G: agosto a octubre de 2026",
    "tablas": [
     {
      "titulo": "Tarifas residenciales (bimestral)",
@@ -17002,7 +17002,7 @@
        "concepto": "PEQUEÑAS DEMANDAS RESIDENCIALES Cuota Fija por suministro",
        "unidad": "$/Bim",
        "valores": [
-        32597.0
+        33878.0
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -17013,7 +17013,7 @@
        "concepto": "USUARIOS URBANOS NO BONIFICADOS Cargo Variable Primeros 600 kWh/bim o fracción",
        "unidad": "$/KWh",
        "valores": [
-        206.045
+        205.87
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -17024,7 +17024,7 @@
        "concepto": "Cargo Variable Excedente de 600 kWh/bim",
        "unidad": "$/KWh",
        "valores": [
-        244.596
+        244.294
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -17035,161 +17035,211 @@
        "concepto": "PEQUEÑAS DEMANDAS RESIDENCIALES Cuota Fija por suministro Consumo hasta el Base",
        "unidad": "$/Bim",
        "valores": [
-        32597.0,
-        16227.0,
-        20691.0
+        33878.0,
+        18491.0,
+        20749.0,
+        21273.0
        ],
-       "columnas": null
+       "columnas": [
+        "Tarifa sin bonif.",
+        "Con bonif. AGO/2026",
+        "Con bonif. SEP/2026",
+        "Con bonif. OCT/2026"
+       ]
       },
       {
        "grupo": null,
-       "concepto": "USUARIOS URBANOS Cuota Fija por suministro Consumo mayor al Base",
+       "concepto": "USUARIOS URBANOS BONIFICADOS POR EL Cuota Fija por suministro Consumo mayor al Base",
        "unidad": "$/Bim",
        "valores": [
-        32597.0,
-        32597.0,
-        32597.0
+        33878.0,
+        33878.0,
+        33878.0,
+        33878.0
        ],
-       "columnas": null
+       "columnas": [
+        "Tarifa sin bonif.",
+        "Con bonif. AGO/2026",
+        "Con bonif. SEP/2026",
+        "Con bonif. OCT/2026"
+       ]
       },
       {
        "grupo": null,
-       "concepto": "BONIFICADOS POR EL SEF Cargo Variable Primeros 300 kWh/bim o fracción",
+       "concepto": "RÉGIMEN DE SUBSIDIOS ENERGÉTICO Cargo Variable Primeros 300 kWh/bim o fracción",
        "unidad": "$/KWh",
        "valores": [
-        206.045,
-        109.811,
-        136.051
+        205.87,
+        120.586,
+        133.099,
+        136.006
        ],
-       "columnas": null
+       "columnas": [
+        "Tarifa sin bonif.",
+        "Con bonif. AGO/2026",
+        "Con bonif. SEP/2026",
+        "Con bonif. OCT/2026"
+       ]
       },
       {
        "grupo": null,
-       "concepto": "ZONA BIOAMBIENTAL MUY CÁLIDA Cargo Variable Siguientes 100 kWh/bim o fracción",
+       "concepto": "FOCALIZADO (SEF) Cargo Variable Siguientes 300 kWh/bim o fracción",
        "unidad": "$/KWh",
        "valores": [
-        206.045,
-        109.811,
-        206.045
+        205.87,
+        120.586,
+        205.87,
+        205.87
        ],
-       "columnas": null
+       "columnas": [
+        "Tarifa sin bonif.",
+        "Con bonif. AGO/2026",
+        "Con bonif. SEP/2026",
+        "Con bonif. OCT/2026"
+       ]
       },
       {
        "grupo": null,
-       "concepto": "(VER NOTA 1) Cargo Variable Siguientes 200 kWh/bim o fracción",
+       "concepto": "ZONA BIOAMBIEMTAL MUY CÁLIDA Cargo Variable Siguientes 500 kWh/bim o fracción",
        "unidad": "$/KWh",
        "valores": [
-        206.045,
-        206.045,
-        206.045
+        244.294,
+        244.294,
+        244.294,
+        244.294
        ],
-       "columnas": null
+       "columnas": [
+        "Tarifa sin bonif.",
+        "Con bonif. AGO/2026",
+        "Con bonif. SEP/2026",
+        "Con bonif. OCT/2026"
+       ]
       },
       {
        "grupo": null,
-       "concepto": "Cargo Variable Siguientes 500 kWh/bim o fracción",
+       "concepto": "(VER NOTA 1) Cargo Variable Excedente de 1100 kWh/bim",
        "unidad": "$/KWh",
        "valores": [
-        244.596,
-        244.596,
-        244.596
+        244.294,
+        244.294,
+        244.294,
+        244.294
        ],
-       "columnas": null
-      },
-      {
-       "grupo": null,
-       "concepto": "Cargo Variable Excedente de 1100 kWh/bim",
-       "unidad": "$/KWh",
-       "valores": [
-        244.596,
-        244.596,
-        244.596
-       ],
-       "columnas": null
+       "columnas": [
+        "Tarifa sin bonif.",
+        "Con bonif. AGO/2026",
+        "Con bonif. SEP/2026",
+        "Con bonif. OCT/2026"
+       ]
       },
       {
        "grupo": null,
        "concepto": "PEQUEÑAS DEMANDAS RESIDENCIALES Cuota Fija por suministro Consumo hasta el Base",
        "unidad": "$/Bim",
        "valores": [
-        32597.0,
-        16227.0,
-        20691.0
+        33878.0,
+        18491.0,
+        20749.0,
+        21273.0
        ],
-       "columnas": null
+       "columnas": [
+        "Tarifa sin bonif.",
+        "Con bonif. AGO/2026",
+        "Con bonif. SEP/2026",
+        "Con bonif. OCT/2026"
+       ]
       },
       {
        "grupo": null,
-       "concepto": "USUARIOS URBANOS Cuota Fija por suministro Consumo mayor al Base",
+       "concepto": "USUARIOS URBANOS BONIFICADOS POR EL Cuota Fija por suministro Consumo mayor al Base",
        "unidad": "$/Bim",
        "valores": [
-        32597.0,
-        32597.0,
-        32597.0
+        33878.0,
+        33878.0,
+        33878.0,
+        33878.0
        ],
-       "columnas": null
+       "columnas": [
+        "Tarifa sin bonif.",
+        "Con bonif. AGO/2026",
+        "Con bonif. SEP/2026",
+        "Con bonif. OCT/2026"
+       ]
       },
       {
        "grupo": null,
-       "concepto": "BONIFICADOS POR EL SEF Cargo Variable Primeros 300 kWh/bim o fracción",
+       "concepto": "RÉGIMEN DE SUBSIDIOS ENERGÉTICO Cargo Variable Primeros 300 kWh/bim o fracción",
        "unidad": "$/KWh",
        "valores": [
-        206.045,
-        109.811,
-        136.051
+        205.87,
+        120.586,
+        133.099,
+        136.006
        ],
-       "columnas": null
+       "columnas": [
+        "Tarifa sin bonif.",
+        "Con bonif. AGO/2026",
+        "Con bonif. SEP/2026",
+        "Con bonif. OCT/2026"
+       ]
       },
       {
        "grupo": null,
-       "concepto": "ZONA BIOAMBIETAL CÁLIDA Cargo Variable Siguientes 100 kWh/bim o fracción",
+       "concepto": "FOCALIZADO (SEF) Cargo Variable Siguientes 300 kWh/bim o fracción",
        "unidad": "$/KWh",
        "valores": [
-        206.045,
-        109.811,
-        206.045
+        205.87,
+        120.586,
+        205.87,
+        205.87
        ],
-       "columnas": null
+       "columnas": [
+        "Tarifa sin bonif.",
+        "Con bonif. AGO/2026",
+        "Con bonif. SEP/2026",
+        "Con bonif. OCT/2026"
+       ]
       },
       {
        "grupo": null,
-       "concepto": "(VER NOTA 2) Cargo Variable Siguientes 200 kWh/bim o fracción",
+       "concepto": "ZONA BIOAMBIEMTAL CÁLIDA Cargo Variable Siguientes 140 kWh/bim o fracción",
        "unidad": "$/KWh",
        "valores": [
-        206.045,
-        206.045,
-        206.045
+        244.294,
+        244.294,
+        244.294,
+        244.294
        ],
-       "columnas": null
+       "columnas": [
+        "Tarifa sin bonif.",
+        "Con bonif. AGO/2026",
+        "Con bonif. SEP/2026",
+        "Con bonif. OCT/2026"
+       ]
       },
       {
        "grupo": null,
-       "concepto": "Cargo Variable Siguientes 140 kWh/bim o fracción",
+       "concepto": "(VER NOTA 2) Cargo Variable Excedente de 740 kWh/bim",
        "unidad": "$/KWh",
        "valores": [
-        244.596,
-        244.596,
-        244.596
+        244.294,
+        244.294,
+        244.294,
+        244.294
        ],
-       "columnas": null
-      },
-      {
-       "grupo": null,
-       "concepto": "Cargo Variable Excedente de 740 kWh/bim",
-       "unidad": "$/KWh",
-       "valores": [
-        244.596,
-        244.596,
-        244.596
-       ],
-       "columnas": null
+       "columnas": [
+        "Tarifa sin bonif.",
+        "Con bonif. AGO/2026",
+        "Con bonif. SEP/2026",
+        "Con bonif. OCT/2026"
+       ]
       },
       {
        "grupo": null,
        "concepto": "PEQUEÑAS DEMANDAS RESIDENCIALES Cuota Fija por suministro",
        "unidad": "$/Bim",
        "valores": [
-        36127.0
+        37066.0
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -17200,7 +17250,7 @@
        "concepto": "USUARIOS RURALES NO BONIFICADOS Cargo Variable Primeros 600 kWh/bim o fracción",
        "unidad": "$/KWh",
        "valores": [
-        286.536
+        286.479
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -17211,7 +17261,7 @@
        "concepto": "Cargo Variable Excedente de 600 kWh/bim",
        "unidad": "$/KWh",
        "valores": [
-        358.096
+        357.445
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -17222,154 +17272,204 @@
        "concepto": "PEQUEÑAS DEMANDAS RESIDENCIALES Cuota Fija por suministro Consumo hasta el Base",
        "unidad": "$/Bim",
        "valores": [
-        36127.0,
-        24137.0,
-        27406.0
+        37066.0,
+        25795.0,
+        27449.0,
+        27833.0
        ],
-       "columnas": null
+       "columnas": [
+        "Tarifa sin bonif.",
+        "Con bonif. AGO/2026",
+        "Con bonif. SEP/2026",
+        "Con bonif. OCT/2026"
+       ]
       },
       {
        "grupo": null,
-       "concepto": "USUARIOS RURALES Cuota Fija por suministro Consumo mayor al Base",
+       "concepto": "USUARIOS RURALES BONIFICADOS POR EL Cuota Fija por suministro Consumo mayor al Base",
        "unidad": "$/Bim",
        "valores": [
-        36127.0,
-        36127.0,
-        36127.0
+        37066.0,
+        37066.0,
+        37066.0,
+        37066.0
        ],
-       "columnas": null
+       "columnas": [
+        "Tarifa sin bonif.",
+        "Con bonif. AGO/2026",
+        "Con bonif. SEP/2026",
+        "Con bonif. OCT/2026"
+       ]
       },
       {
        "grupo": null,
-       "concepto": "BONIFICADOS POR EL SEF Cargo Variable Primeros 300 kWh/bim o fracción",
+       "concepto": "RÉGIMEN DE SUBSIDIOS ENERGÉTICO Cargo Variable Primeros 300 kWh/bim o fracción",
        "unidad": "$/KWh",
        "valores": [
-        286.536,
-        196.571,
-        221.102
+        286.479,
+        206.751,
+        218.448,
+        221.166
        ],
-       "columnas": null
+       "columnas": [
+        "Tarifa sin bonif.",
+        "Con bonif. AGO/2026",
+        "Con bonif. SEP/2026",
+        "Con bonif. OCT/2026"
+       ]
       },
       {
        "grupo": null,
-       "concepto": "ZONA BIOAMBIENTAL MUY CÁLIDA Cargo Variable Siguientes 100 kWh/bim o fracción",
+       "concepto": "FOCALIZADO (SEF) Cargo Variable Siguientes 300 kWh/bim o fracción",
        "unidad": "$/KWh",
        "valores": [
-        286.536,
-        196.571,
-        286.536
+        286.479,
+        206.751,
+        286.479,
+        286.479
        ],
-       "columnas": null
+       "columnas": [
+        "Tarifa sin bonif.",
+        "Con bonif. AGO/2026",
+        "Con bonif. SEP/2026",
+        "Con bonif. OCT/2026"
+       ]
       },
       {
        "grupo": null,
-       "concepto": "(VER NOTA 1) Cargo Variable Siguientes 200 kWh/bim o fracción",
+       "concepto": "ZONA BIOAMBIEMTAL MUY CÁLIDA Cargo Variable Siguientes 500 kWh/bim o fracción",
        "unidad": "$/KWh",
        "valores": [
-        286.536,
-        286.536,
-        286.536
+        357.445,
+        357.445,
+        357.445,
+        357.445
        ],
-       "columnas": null
+       "columnas": [
+        "Tarifa sin bonif.",
+        "Con bonif. AGO/2026",
+        "Con bonif. SEP/2026",
+        "Con bonif. OCT/2026"
+       ]
       },
       {
        "grupo": null,
-       "concepto": "Cargo Variable Siguientes 500 kWh/bim o fracción",
+       "concepto": "(VER NOTA 1) Cargo Variable Excedente de 1100 kWh/bim",
        "unidad": "$/KWh",
        "valores": [
-        358.096,
-        358.096,
-        358.096
+        357.445,
+        357.445,
+        357.445,
+        357.445
        ],
-       "columnas": null
-      },
-      {
-       "grupo": null,
-       "concepto": "Cargo Variable Excedente de 1100 kWh/bim",
-       "unidad": "$/KWh",
-       "valores": [
-        358.096,
-        358.096,
-        358.096
-       ],
-       "columnas": null
+       "columnas": [
+        "Tarifa sin bonif.",
+        "Con bonif. AGO/2026",
+        "Con bonif. SEP/2026",
+        "Con bonif. OCT/2026"
+       ]
       },
       {
        "grupo": null,
        "concepto": "PEQUEÑAS DEMANDAS RESIDENCIALES Cuota Fija por suministro Consumo hasta el Base",
        "unidad": "$/Bim",
        "valores": [
-        36127.0,
-        24137.0,
-        27406.0
+        37066.0,
+        25795.0,
+        27449.0,
+        27833.0
        ],
-       "columnas": null
+       "columnas": [
+        "Tarifa sin bonif.",
+        "Con bonif. AGO/2026",
+        "Con bonif. SEP/2026",
+        "Con bonif. OCT/2026"
+       ]
       },
       {
        "grupo": null,
-       "concepto": "USUARIOS RURALES Cuota Fija por suministro Consumo mayor al Base",
+       "concepto": "USUARIOS RURALES BONIFICADOS POR EL Cuota Fija por suministro Consumo mayor al Base",
        "unidad": "$/Bim",
        "valores": [
-        36127.0,
-        36127.0,
-        36127.0
+        37066.0,
+        37066.0,
+        37066.0,
+        37066.0
        ],
-       "columnas": null
+       "columnas": [
+        "Tarifa sin bonif.",
+        "Con bonif. AGO/2026",
+        "Con bonif. SEP/2026",
+        "Con bonif. OCT/2026"
+       ]
       },
       {
        "grupo": null,
-       "concepto": "BONIFICADOS POR EL SEF Cargo Variable Primeros 300 kWh/bim o fracción",
+       "concepto": "RÉGIMEN DE SUBSIDIOS ENERGÉTICO Cargo Variable Primeros 300 kWh/bim o fracción",
        "unidad": "$/KWh",
        "valores": [
-        286.536,
-        196.571,
-        221.102
+        286.479,
+        206.751,
+        218.448,
+        221.166
        ],
-       "columnas": null
+       "columnas": [
+        "Tarifa sin bonif.",
+        "Con bonif. AGO/2026",
+        "Con bonif. SEP/2026",
+        "Con bonif. OCT/2026"
+       ]
       },
       {
        "grupo": null,
-       "concepto": "ZONA BIOAMBIENTAL CÁLIDA Cargo Variable Siguientes 100 kWh/bim o fracción",
+       "concepto": "FOCALIZADO (SEF) Cargo Variable Siguientes 300 kWh/bim o fracción",
        "unidad": "$/KWh",
        "valores": [
-        286.536,
-        196.571,
-        286.536
+        286.479,
+        206.751,
+        286.479,
+        286.479
        ],
-       "columnas": null
+       "columnas": [
+        "Tarifa sin bonif.",
+        "Con bonif. AGO/2026",
+        "Con bonif. SEP/2026",
+        "Con bonif. OCT/2026"
+       ]
       },
       {
        "grupo": null,
-       "concepto": "(VER NOTA 2) Cargo Variable Siguientes 200 kWh/bim o fracción",
+       "concepto": "ZONA BIOAMBIEMTAL CÁLIDA Cargo Variable Siguientes 140 kWh/bim o fracción",
        "unidad": "$/KWh",
        "valores": [
-        286.536,
-        286.536,
-        286.536
+        357.445,
+        357.445,
+        357.445,
+        357.445
        ],
-       "columnas": null
+       "columnas": [
+        "Tarifa sin bonif.",
+        "Con bonif. AGO/2026",
+        "Con bonif. SEP/2026",
+        "Con bonif. OCT/2026"
+       ]
       },
       {
        "grupo": null,
-       "concepto": "Cargo Variable Siguientes 140 kWh/bim o fracción",
+       "concepto": "(VER NOTA 2) Cargo Variable Excedente de 740 kWh/bim",
        "unidad": "$/KWh",
        "valores": [
-        358.096,
-        358.096,
-        358.096
+        357.445,
+        357.445,
+        357.445,
+        357.445
        ],
-       "columnas": null
-      },
-      {
-       "grupo": null,
-       "concepto": "Cargo Variable Excedente de 740 kWh/bim",
-       "unidad": "$/KWh",
-       "valores": [
-        358.096,
-        358.096,
-        358.096
-       ],
-       "columnas": null
+       "columnas": [
+        "Tarifa sin bonif.",
+        "Con bonif. AGO/2026",
+        "Con bonif. SEP/2026",
+        "Con bonif. OCT/2026"
+       ]
       },
       {
        "grupo": null,
@@ -17387,7 +17487,7 @@
        "concepto": "USUARIOS URBANOS ELECTRODEPENDIENTES Todo el consumo",
        "unidad": "$/KWh",
        "valores": [
-        57.596
+        57.661
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -17409,7 +17509,7 @@
        "concepto": "USUARIOS RURALES ELECTRODEPENDIENTES Todo el consumo",
        "unidad": "$/KWh",
        "valores": [
-        147.758
+        147.924
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -17420,7 +17520,7 @@
        "concepto": "PEQUEÑAS DEMANDAS SERVICIOS GENERALES Cuota Fija por suministro",
        "unidad": "$/Bim",
        "valores": [
-        91973.0
+        95112.0
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -17431,7 +17531,7 @@
        "concepto": "Comercial y Oficial con carácter comercial. Urbanos Cargo Variable Primeros 4000 kWh/bim o fracción",
        "unidad": "$/KWh",
        "valores": [
-        214.206
+        198.459
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -17442,7 +17542,7 @@
        "concepto": "Industrial y Oficial con carácter industrial. Urbanos Cargo Variable Excedente de 4000 kWh/bim",
        "unidad": "$/KWh",
        "valores": [
-        251.894
+        235.835
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -17453,7 +17553,7 @@
        "concepto": "PEQUEÑAS DEMANDAS SERVICIOS GENERALES Cuota Fija por suministro",
        "unidad": "$/Bim",
        "valores": [
-        225699.0
+        235873.0
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -17464,7 +17564,7 @@
        "concepto": "Autoridades Nacionales, Provinciales y Municipales Cargo Variable Primeros 4000 kWh/bim o fracción",
        "unidad": "$/KWh",
        "valores": [
-        226.503
+        210.77
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -17475,7 +17575,7 @@
        "concepto": "Usuarios urbanos Cargo Variable Excedente de 4000 kWh/bim",
        "unidad": "$/KWh",
        "valores": [
-        267.267
+        251.226
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -17486,7 +17586,7 @@
        "concepto": "PEQUEÑAS DEMANDAS SERVICIOS GENERALES Cuota Fija por suministro",
        "unidad": "$/Bim",
        "valores": [
-        95734.0
+        98636.0
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -17497,7 +17597,7 @@
        "concepto": "Asociaciones Civiles sin fines de lucro Cargo Variable Primeros 4000 kWh/bim o fracción",
        "unidad": "$/KWh",
        "valores": [
-        215.682
+        199.937
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -17508,7 +17608,7 @@
        "concepto": "Usuarios urbanos Cargo Variable Excedente de 4000 kWh/bim",
        "unidad": "$/KWh",
        "valores": [
-        256.906
+        240.699
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -17519,7 +17619,7 @@
        "concepto": "PEQUEÑAS DEMANDAS SERVICIOS GENERALES Cuota Fija por suministro",
        "unidad": "$/Bim",
        "valores": [
-        90630.0
+        93436.0
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -17530,7 +17630,7 @@
        "concepto": "Riego Agrícola Cargo Variable Primeros 4000 kWh/bim o fracción",
        "unidad": "$/KWh",
        "valores": [
-        220.104
+        204.364
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -17541,7 +17641,7 @@
        "concepto": "Usuarios urbanos Cargo Variable Excedente de 4000 kWh/bim",
        "unidad": "$/KWh",
        "valores": [
-        271.502
+        254.878
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -17552,7 +17652,7 @@
        "concepto": "PEQUEÑAS DEMANDAS SERVICIOS GENERALES Cuota Fija por suministro",
        "unidad": "$/Bim",
        "valores": [
-        100577.0
+        103664.0
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -17563,7 +17663,7 @@
        "concepto": "Comercial y Oficial con carácter comercial. Rurales Cargo Variable Primeros 4000 kWh/bim o fracción",
        "unidad": "$/KWh",
        "valores": [
-        274.713
+        259.034
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -17574,7 +17674,7 @@
        "concepto": "Industrial y Oficial con carácter industrial. Rurales Cargo Variable Excedente de 4000 kWh/bim",
        "unidad": "$/KWh",
        "valores": [
-        333.693
+        317.43
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -17585,7 +17685,7 @@
        "concepto": "PEQUEÑAS DEMANDAS SERVICIOS GENERALES Cuota Fija por suministro",
        "unidad": "$/Bim",
        "valores": [
-        134374.0
+        137299.0
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -17596,7 +17696,7 @@
        "concepto": "Autoridades Nacionales, Provinciales y Municipales Cargo Variable Primeros 4000 kWh/bim o fracción",
        "unidad": "$/KWh",
        "valores": [
-        269.796
+        254.112
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -17607,7 +17707,7 @@
        "concepto": "Usuarios Rurales Cargo Variable Excedente de 4000 kWh/bim",
        "unidad": "$/KWh",
        "valores": [
-        328.993
+        312.649
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -17618,7 +17718,7 @@
        "concepto": "PEQUEÑAS DEMANDAS SERVICIOS GENERALES Cuota Fija por suministro",
        "unidad": "$/Bim",
        "valores": [
-        84073.0
+        85799.0
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -17629,7 +17729,7 @@
        "concepto": "Asociaciones Civiles sin fines de lucro Cargo Variable Primeros 4000 kWh/bim o fracción",
        "unidad": "$/KWh",
        "valores": [
-        274.117
+        258.438
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -17640,7 +17740,7 @@
        "concepto": "Usuarios Rurales Cargo Variable Excedente de 4000 kWh/bim",
        "unidad": "$/KWh",
        "valores": [
-        343.494
+        326.736
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -17651,7 +17751,7 @@
        "concepto": "PEQUEÑAS DEMANDAS SERVICIOS GENERALES Cuota Fija por suministro",
        "unidad": "$/Bim",
        "valores": [
-        101295.0
+        104084.0
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -17662,7 +17762,7 @@
        "concepto": "Riego Agrícola Cargo Variable Primeros 4000 kWh/bim o fracción",
        "unidad": "$/KWh",
        "valores": [
-        272.367
+        256.686
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -17673,7 +17773,7 @@
        "concepto": "Usuarios Rurales Cargo Variable Excedente de 4000 kWh/bim",
        "unidad": "$/KWh",
        "valores": [
-        336.024
+        319.511
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -17684,7 +17784,7 @@
        "concepto": "ALUMBRADO PUBLICO Todo el consumo",
        "unidad": "$/KWh",
        "valores": [
-        274.596
+        260.868
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -17695,7 +17795,7 @@
        "concepto": "ALUMBRADO PUBLICO Cargo a cobrar al usuario",
        "unidad": "$/mes",
        "valores": [
-        3753.0
+        3565.0
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -17706,67 +17806,73 @@
        "concepto": "PEQUEÑAS DEMANDAS SERVICIOS GENERALES Cuota Fija por suministro",
        "unidad": "$/Bim",
        "valores": [
-        58665.0,
-        68772.0
+        63791.0
        ],
-       "columnas": null
+       "columnas": [
+        "Tarifa sin bonif."
+       ]
       },
       {
        "grupo": null,
        "concepto": "Asociaciones Civiles Clubes de barrio Cargo Variable Primeros 4000 kWh/bim o fracción",
        "unidad": "$/KWh",
        "valores": [
-        99.273,
-        123.843
+        109.345
        ],
-       "columnas": null
+       "columnas": [
+        "Tarifa sin bonif."
+       ]
       },
       {
        "grupo": null,
        "concepto": "Usuarios urbanos Cargo Variable Excedente de 4000 kWh/bim",
        "unidad": "$/KWh",
        "valores": [
-        140.409,
-        164.98
+        150.173
        ],
-       "columnas": null
+       "columnas": [
+        "Tarifa sin bonif."
+       ]
       },
       {
        "grupo": null,
        "concepto": "PEQUEÑAS DEMANDAS SERVICIOS GENERALES Cuota Fija por suministro",
        "unidad": "$/Bim",
        "valores": [
-        84073.0,
-        84073.0
+        85799.0
        ],
-       "columnas": null
+       "columnas": [
+        "Tarifa sin bonif."
+       ]
       },
       {
        "grupo": null,
        "concepto": "Asociaciones Civiles Clubes de barrio Cargo Variable Primeros 4000 kWh/bim o fracción",
        "unidad": "$/KWh",
        "valores": [
-        157.708,
-        182.278
+        167.846
        ],
-       "columnas": null
+       "columnas": [
+        "Tarifa sin bonif."
+       ]
       },
       {
        "grupo": null,
        "concepto": "Usuarios Rurales Cargo Variable Excedente de 4000 kWh/bim",
        "unidad": "$/KWh",
        "valores": [
-        226.997,
-        251.568
+        236.211
        ],
-       "columnas": null
+       "columnas": [
+        "Tarifa sin bonif."
+       ]
       },
       {
        "grupo": null,
        "concepto": "MEDIANAS DEMANDAS Cargo Fijo por potencia",
        "unidad": "$/kW-Mes",
        "valores": [
-        33315.0
+        34005.0
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -17777,7 +17883,7 @@
        "concepto": "Por todo el consumo",
        "unidad": "$/KWh",
        "valores": [
-        176.35
+        160.527
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -17788,7 +17894,7 @@
        "concepto": "GRANDES DEMANDAS Cargo Fijo por potencia",
        "unidad": "$/KW-Mes",
        "valores": [
-        32873.0
+        33562.0
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -17799,7 +17905,7 @@
        "concepto": "Suministro en Baja Tensión Horas Pico",
        "unidad": "$/KWh",
        "valores": [
-        180.522
+        163.302
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -17810,7 +17916,7 @@
        "concepto": "Horas Resto",
        "unidad": "$/KWh",
        "valores": [
-        175.597
+        159.92
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -17821,7 +17927,7 @@
        "concepto": "Horas Valle",
        "unidad": "$/KWh",
        "valores": [
-        174.43
+        159.523
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -17832,7 +17938,7 @@
        "concepto": "GRANDES DEMANDAS Cargo Fijo por potencia",
        "unidad": "$/KW-Mes",
        "valores": [
-        32757.0
+        33447.0
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -17843,7 +17949,7 @@
        "concepto": "Suministro en Baja Tensión Horas Pico",
        "unidad": "$/KWh",
        "valores": [
-        202.15
+        179.938
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -17854,7 +17960,7 @@
        "concepto": "Generales Horas Resto",
        "unidad": "$/KWh",
        "valores": [
-        196.46
+        176.088
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -17865,7 +17971,7 @@
        "concepto": "Horas Valle",
        "unidad": "$/KWh",
        "valores": [
-        195.112
+        175.638
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -17876,7 +17982,7 @@
        "concepto": "GRANDES DEMANDAS Cargo Fijo por potencia",
        "unidad": "$/KW-Mes",
        "valores": [
-        19672.0
+        20308.0
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -17887,7 +17993,7 @@
        "concepto": "Suministro en Media Tensión Horas Pico",
        "unidad": "$/KWh",
        "valores": [
-        168.083
+        152.018
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -17898,7 +18004,7 @@
        "concepto": "Horas Resto",
        "unidad": "$/KWh",
        "valores": [
-        163.488
+        148.863
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -17909,7 +18015,7 @@
        "concepto": "Horas Valle",
        "unidad": "$/KWh",
        "valores": [
-        162.399
+        148.493
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -17920,7 +18026,7 @@
        "concepto": "GRANDES DEMANDAS Cargo Fijo por potencia",
        "unidad": "$/KW-Mes",
        "valores": [
-        19549.0
+        20185.0
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -17931,7 +18037,7 @@
        "concepto": "Suministro en Media Tensión Horas Pico",
        "unidad": "$/KWh",
        "valores": [
-        188.259
+        167.539
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -17942,7 +18048,7 @@
        "concepto": "Generales Horas Resto",
        "unidad": "$/KWh",
        "valores": [
-        182.952
+        163.947
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -17953,7 +18059,7 @@
        "concepto": "Horas Valle",
        "unidad": "$/KWh",
        "valores": [
-        181.693
+        163.527
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -17964,7 +18070,7 @@
        "concepto": "SERVICIOS PÚBLICOS SANITARIOS Cargo Fijo por potencia",
        "unidad": "$/kW-Mes",
        "valores": [
-        34350.0
+        35039.0
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -17975,7 +18081,7 @@
        "concepto": "Por todo el consumo",
        "unidad": "$/kWh",
        "valores": [
-        176.746
+        160.803
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -17986,7 +18092,7 @@
        "concepto": "Energía destinada a Usuarios Residenciales Cargo Fijo por potencia",
        "unidad": "$/KW-Mes",
        "valores": [
-        19533.0
+        20169.0
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -17997,7 +18103,7 @@
        "concepto": "Todo el consumo Horas Pico",
        "unidad": "$/KWh",
        "valores": [
-        140.96
+        140.004
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -18008,7 +18114,7 @@
        "concepto": "Horas Resto",
        "unidad": "$/KWh",
        "valores": [
-        137.261
+        137.136
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -18019,7 +18125,7 @@
        "concepto": "Horas Valle",
        "unidad": "$/KWh",
        "valores": [
-        136.383
+        136.8
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -18030,135 +18136,187 @@
        "concepto": "Energía destinada a Usuarios Residenciales Cargo Fijo por potencia",
        "unidad": "$/KW-Mes",
        "valores": [
-        19533.0,
-        11404.0,
-        13620.0
+        20169.0,
+        12528.0,
+        13649.0,
+        13910.0
        ],
-       "columnas": null
+       "columnas": [
+        "Tarifa sin bonif.",
+        "Con bonif. AGO/2026",
+        "Con bonif. SEP/2026",
+        "Con bonif. OCT/2026"
+       ]
       },
       {
        "grupo": null,
        "concepto": "Consumo base Horas Pico",
        "unidad": "$/KWh",
        "valores": [
-        140.96,
-        54.767,
-        78.269
+        140.004,
+        64.121,
+        75.254,
+        77.841
        ],
-       "columnas": null
+       "columnas": [
+        "Tarifa sin bonif.",
+        "Con bonif. AGO/2026",
+        "Con bonif. SEP/2026",
+        "Con bonif. OCT/2026"
+       ]
       },
       {
        "grupo": null,
-       "concepto": "(Ver Notas 1 y 2) Horas Resto",
+       "concepto": "Zonas Bioambientales Cálida y Muy Cálida Horas Resto",
        "unidad": "$/KWh",
        "valores": [
-        137.261,
-        53.842,
-        76.588
+        137.136,
+        63.162,
+        74.016,
+        76.537
        ],
-       "columnas": null
+       "columnas": [
+        "Tarifa sin bonif.",
+        "Con bonif. AGO/2026",
+        "Con bonif. SEP/2026",
+        "Con bonif. OCT/2026"
+       ]
       },
       {
        "grupo": null,
-       "concepto": "Horas Valle",
+       "concepto": "(Ver Notas 1 y 2) Horas Valle",
        "unidad": "$/KWh",
        "valores": [
-        136.383,
-        53.623,
-        76.189
+        136.8,
+        63.05,
+        73.871,
+        76.385
        ],
-       "columnas": null
+       "columnas": [
+        "Tarifa sin bonif.",
+        "Con bonif. AGO/2026",
+        "Con bonif. SEP/2026",
+        "Con bonif. OCT/2026"
+       ]
       },
       {
        "grupo": null,
        "concepto": "Energía destinada a Usuarios Residenciales Cargo Fijo por potencia",
        "unidad": "$/KW-Mes",
        "valores": [
-        19533.0,
-        19533.0,
-        19533.0
+        20169.0,
+        20169.0,
+        20169.0,
+        20169.0
        ],
-       "columnas": null
+       "columnas": [
+        "Tarifa sin bonif.",
+        "Con bonif. AGO/2026",
+        "Con bonif. SEP/2026",
+        "Con bonif. OCT/2026"
+       ]
       },
       {
        "grupo": null,
        "concepto": "Excedente de consumo base Horas Pico",
        "unidad": "$/KWh",
        "valores": [
-        140.96,
-        140.96,
-        140.96
+        140.004,
+        140.004,
+        140.004,
+        140.004
        ],
-       "columnas": null
+       "columnas": [
+        "Tarifa sin bonif.",
+        "Con bonif. AGO/2026",
+        "Con bonif. SEP/2026",
+        "Con bonif. OCT/2026"
+       ]
       },
       {
        "grupo": null,
-       "concepto": "(Ver Notas 1 y 2) Horas Resto",
+       "concepto": "Zonas Bioambientales Cálida y Muy Cálida Horas Resto",
        "unidad": "$/KWh",
        "valores": [
-        137.261,
-        137.261,
-        137.261
+        137.136,
+        137.136,
+        137.136,
+        137.136
        ],
-       "columnas": null
+       "columnas": [
+        "Tarifa sin bonif.",
+        "Con bonif. AGO/2026",
+        "Con bonif. SEP/2026",
+        "Con bonif. OCT/2026"
+       ]
       },
       {
        "grupo": null,
        "concepto": "Horas Valle",
        "unidad": "$/KWh",
        "valores": [
-        136.383,
-        136.383,
-        136.383
+        136.8,
+        136.8,
+        136.8,
+        136.8
        ],
-       "columnas": null
+       "columnas": [
+        "Tarifa sin bonif.",
+        "Con bonif. AGO/2026",
+        "Con bonif. SEP/2026",
+        "Con bonif. OCT/2026"
+       ]
       },
       {
        "grupo": null,
-       "concepto": "Energía destinada a Clubes de barrio Cargo Fijo por potencia",
+       "concepto": "Energía destinada a Usuarios Residenciales Cargo Fijo por potencia",
        "unidad": "$/KW-Mes",
        "valores": [
-        11404.0,
-        13620.0
+        12616.0
        ],
-       "columnas": null
+       "columnas": [
+        "Tarifa sin bonif."
+       ]
       },
       {
        "grupo": null,
-       "concepto": "Todo el consumo Horas Pico",
+       "concepto": "Consumo base Horas Pico",
        "unidad": "$/KWh",
        "valores": [
-        54.119,
-        77.09
+        59.05
        ],
-       "columnas": null
+       "columnas": [
+        "Tarifa sin bonif."
+       ]
       },
       {
        "grupo": null,
-       "concepto": "Horas Resto",
+       "concepto": "Zonas Bioambientales Cálida y Muy Cálida Horas Resto",
        "unidad": "$/KWh",
        "valores": [
-        53.402,
-        75.787
+        57.74
        ],
-       "columnas": null
+       "columnas": [
+        "Tarifa sin bonif."
+       ]
       },
       {
        "grupo": null,
        "concepto": "Horas Valle",
        "unidad": "$/KWh",
        "valores": [
-        53.318,
-        75.634
+        57.458
        ],
-       "columnas": null
+       "columnas": [
+        "Tarifa sin bonif."
+       ]
       },
       {
        "grupo": null,
        "concepto": "Demanda destinada al consumo no residencial del Distribuidor Cargo Fijo por potencia",
        "unidad": "$/KW-Mes",
        "valores": [
-        19533.0
+        20169.0
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -18169,7 +18327,7 @@
        "concepto": "Horas Pico",
        "unidad": "$/KWh",
        "valores": [
-        186.437
+        165.716
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -18180,7 +18338,7 @@
        "concepto": "Horas Resto",
        "unidad": "$/KWh",
        "valores": [
-        181.13
+        162.124
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -18191,7 +18349,7 @@
        "concepto": "Horas Valle",
        "unidad": "$/KWh",
        "valores": [
-        179.871
+        161.704
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -18202,7 +18360,7 @@
        "concepto": "Demanda dest. al consumo del resto de los usuarios del Distribuidor Cargo Fijo por potencia",
        "unidad": "$/KW-Mes",
        "valores": [
-        19533.0
+        20169.0
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -18213,7 +18371,7 @@
        "concepto": "Horas Pico",
        "unidad": "$/KWh",
        "valores": [
-        166.261
+        150.196
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -18224,7 +18382,7 @@
        "concepto": "Horas Resto",
        "unidad": "$/KWh",
        "valores": [
-        161.666
+        147.04
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -18235,7 +18393,7 @@
        "concepto": "Horas Valle",
        "unidad": "$/KWh",
        "valores": [
-        160.577
+        146.67
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -18257,7 +18415,7 @@
        "concepto": "Todo el consumo Horas Pico",
        "unidad": "$/KWh",
        "valores": [
-        8.474
+        8.486
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -18268,7 +18426,7 @@
        "concepto": "Horas Resto",
        "unidad": "$/KWh",
        "valores": [
-        8.474
+        8.486
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -18279,7 +18437,7 @@
        "concepto": "Horas Valle",
        "unidad": "$/KWh",
        "valores": [
-        8.474
+        8.486
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -18290,7 +18448,7 @@
        "concepto": "GUPAs (>= 10 kW y <= 30 kW) Cargo Fijo por Potencia",
        "unidad": "$/kW-Mes",
        "valores": [
-        23270.0
+        23370.0
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -18301,7 +18459,7 @@
        "concepto": "Por todo el consumo",
        "unidad": "$/KWh",
        "valores": [
-        30.756
+        28.714
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -18312,7 +18470,7 @@
        "concepto": "GUPAs y GUMEs (> 50 kW y < 300 kW) Cargo Fijo por Potencia",
        "unidad": "$/KW-Mes",
        "valores": [
-        22828.0
+        22927.0
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -18323,7 +18481,7 @@
        "concepto": "Suministro en Baja Tensión Horas Pico",
        "unidad": "$/KWh",
        "valores": [
-        31.298
+        29.074
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -18334,7 +18492,7 @@
        "concepto": "Horas Resto",
        "unidad": "$/KWh",
        "valores": [
-        30.659
+        28.636
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -18345,7 +18503,7 @@
        "concepto": "Horas Valle",
        "unidad": "$/KWh",
        "valores": [
-        30.507
+        28.584
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -18356,7 +18514,7 @@
        "concepto": "GUDIs, GUMEs y GUMAs (>=300 kW) Cargo Fijo por Potencia",
        "unidad": "$/KW-Mes",
        "valores": [
-        22712.0
+        22812.0
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -18367,7 +18525,7 @@
        "concepto": "Suministro en Baja Tensión Horas Pico",
        "unidad": "$/KWh",
        "valores": [
-        34.104
+        31.233
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -18378,7 +18536,7 @@
        "concepto": "Horas Resto",
        "unidad": "$/KWh",
        "valores": [
-        33.366
+        30.734
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -18389,7 +18547,7 @@
        "concepto": "Horas Valle",
        "unidad": "$/KWh",
        "valores": [
-        33.191
+        30.675
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -18400,7 +18558,7 @@
        "concepto": "GUPAs y GUMEs (> 50 kW y < 300 kW) Cargo Fijo por Potencia",
        "unidad": "$/KW-Mes",
        "valores": [
-        9626.0
+        9673.0
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -18411,7 +18569,7 @@
        "concepto": "Suministro en Media Tensión Horas Pico",
        "unidad": "$/KWh",
        "valores": [
-        18.858
+        17.791
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -18422,7 +18580,7 @@
        "concepto": "Horas Resto",
        "unidad": "$/KWh",
        "valores": [
-        18.55
+        17.579
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -18433,7 +18591,7 @@
        "concepto": "Horas Valle",
        "unidad": "$/KWh",
        "valores": [
-        18.477
+        17.555
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -18444,7 +18602,7 @@
        "concepto": "GUDIs, GUMEs y GUMAs (>=300 kW) Cargo Fijo por Potencia",
        "unidad": "$/KW-Mes",
        "valores": [
-        9504.0
+        9550.0
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -18455,7 +18613,7 @@
        "concepto": "Suministro en Media Tensión Horas Pico",
        "unidad": "$/KWh",
        "valores": [
-        20.213
+        18.834
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -18466,7 +18624,7 @@
        "concepto": "Horas Resto",
        "unidad": "$/KWh",
        "valores": [
-        19.857
+        18.592
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -18477,7 +18635,7 @@
        "concepto": "Horas Valle",
        "unidad": "$/KWh",
        "valores": [
-        19.772
+        18.564
        ],
        "columnas": [
         "Tarifa sin bonif."
@@ -18493,7 +18651,7 @@
        "concepto": "Cargo Fijo por potencia",
        "unidad": "$/kW-Mes",
        "valores": [
-        33315.0
+        34005.0
        ],
        "columnas": null
       },
@@ -18502,7 +18660,7 @@
        "concepto": "Por todo el consumo",
        "unidad": "$/KWh",
        "valores": [
-        176.35
+        160.527
        ],
        "columnas": null
       }
@@ -18516,7 +18674,7 @@
        "concepto": "Cargo Fijo por potencia",
        "unidad": "$/KW-Mes",
        "valores": [
-        32873.0
+        33562.0
        ],
        "columnas": null
       },
@@ -18525,7 +18683,7 @@
        "concepto": "Horas Pico",
        "unidad": "$/KWh",
        "valores": [
-        180.522
+        163.302
        ],
        "columnas": null
       },
@@ -18534,7 +18692,7 @@
        "concepto": "Horas Resto",
        "unidad": "$/KWh",
        "valores": [
-        175.597
+        159.92
        ],
        "columnas": null
       },
@@ -18543,7 +18701,7 @@
        "concepto": "Horas Valle",
        "unidad": "$/KWh",
        "valores": [
-        174.43
+        159.523
        ],
        "columnas": null
       }
@@ -18557,7 +18715,7 @@
        "concepto": "Cargo Fijo por potencia",
        "unidad": "$/KW-Mes",
        "valores": [
-        32757.0
+        33447.0
        ],
        "columnas": null
       },
@@ -18566,7 +18724,7 @@
        "concepto": "Horas Pico",
        "unidad": "$/KWh",
        "valores": [
-        202.15
+        179.938
        ],
        "columnas": null
       },
@@ -18575,7 +18733,7 @@
        "concepto": "Horas Resto",
        "unidad": "$/KWh",
        "valores": [
-        196.46
+        176.088
        ],
        "columnas": null
       },
@@ -18584,7 +18742,7 @@
        "concepto": "Horas Valle",
        "unidad": "$/KWh",
        "valores": [
-        195.112
+        175.638
        ],
        "columnas": null
       }
@@ -18598,7 +18756,7 @@
        "concepto": "Cargo Fijo por potencia",
        "unidad": "$/KW-Mes",
        "valores": [
-        19672.0
+        20308.0
        ],
        "columnas": null
       },
@@ -18607,7 +18765,7 @@
        "concepto": "Horas Pico",
        "unidad": "$/KWh",
        "valores": [
-        168.083
+        152.018
        ],
        "columnas": null
       },
@@ -18616,7 +18774,7 @@
        "concepto": "Horas Resto",
        "unidad": "$/KWh",
        "valores": [
-        163.488
+        148.863
        ],
        "columnas": null
       },
@@ -18625,7 +18783,7 @@
        "concepto": "Horas Valle",
        "unidad": "$/KWh",
        "valores": [
-        162.399
+        148.493
        ],
        "columnas": null
       }
@@ -18639,7 +18797,7 @@
        "concepto": "Cargo Fijo por potencia",
        "unidad": "$/KW-Mes",
        "valores": [
-        19549.0
+        20185.0
        ],
        "columnas": null
       },
@@ -18648,7 +18806,7 @@
        "concepto": "Horas Pico",
        "unidad": "$/KWh",
        "valores": [
-        188.259
+        167.539
        ],
        "columnas": null
       },
@@ -18657,7 +18815,7 @@
        "concepto": "Horas Resto",
        "unidad": "$/KWh",
        "valores": [
-        182.952
+        163.947
        ],
        "columnas": null
       },
@@ -18666,7 +18824,7 @@
        "concepto": "Horas Valle",
        "unidad": "$/KWh",
        "valores": [
-        181.693
+        163.527
        ],
        "columnas": null
       }
@@ -18674,13 +18832,12 @@
     }
    ],
    "intentos": [
-    "primary: OK https://www.dpec.com.ar/es/articulo/1500/descarga/180/CUADRO-TARIFARIO-108-Hpdf (2026-10, 6 tablas)",
+    "primary: HTTPError: 500 Server Error: Internal Server Error for url: https://www.dpec.com.ar/es/articulo/1500/descarga/180/CUADRO-TARIFARIO-108-Hpdf",
     "known: OK https://www.dpec.com.ar/es/articulo/1500/descarga/176/CUADRO-TARIFARIO-108-Gpdf (2026-10, 6 tablas)",
-    "parser: ValueError: no se encontró la sección /TARIFAS RESIDENCIALES/",
-    "extra: OK https://www.dpec.com.ar/es/articulo/1500/descarga/184/Anexo-BO-29570-15-10-2026---EPRE-Dpec-pass-throughSEP-OCT2026pdf (2026-10, 0 tablas)",
+    "extra: HTTPError: 500 Server Error: Internal Server Error for url: https://www.dpec.com.ar/es/articulo/1500/descarga/184/Anexo-BO-29570-15-10-2026---EPRE-Dpec-pass-throughSEP-OCT2026pdf",
     "se: ningún archivo descargable (2 enlaces con error)"
    ],
-   "verificado": "2026-11-25T10:02:54+00:00",
+   "verificado": "2026-11-26T10:00:25+00:00",
    "oficiales": {
     "links": [
      "https://www.dpec.com.ar/1500/Cuadro-Tarifario"
@@ -18689,14 +18846,14 @@
    },
    "comparable": {
     "cargo_fijo": {
-     "valor": 32597.0,
+     "valor": 33878.0,
      "unidad": "$/Bim",
      "concepto": "PEQUEÑAS DEMANDAS RESIDENCIALES Cuota Fija por suministro",
      "grupo": null,
      "columna": "Tarifa sin bonif."
     },
     "cargo_variable": {
-     "valor": 206.045,
+     "valor": 205.87,
      "unidad": "$/KWh",
      "concepto": "USUARIOS URBANOS NO BONIFICADOS Cargo Variable Primeros 600 kWh/bim o fracción",
      "grupo": null,
@@ -18708,32 +18865,6 @@
    "escaneado": false,
    "ocr": false,
    "periodo_documento": "2026-10",
-   "candidatos": [
-    {
-     "url": "https://www.dpec.com.ar/es/articulo/1500/descarga/180/CUADRO-TARIFARIO-108-Hpdf",
-     "titulo": "Cuadro Tarifario 108-H",
-     "origen": "Distribuidora",
-     "periodo": "2026-10",
-     "valores": true,
-     "usado": true
-    },
-    {
-     "url": "https://www.dpec.com.ar/es/articulo/1500/descarga/176/CUADRO-TARIFARIO-108-Gpdf",
-     "titulo": "CUADRO-TARIFARIO-108-Gpdf",
-     "origen": "Distribuidora",
-     "periodo": "2026-10",
-     "valores": true,
-     "usado": false
-    },
-    {
-     "url": "https://www.dpec.com.ar/es/articulo/1500/descarga/184/Anexo-BO-29570-15-10-2026---EPRE-Dpec-pass-throughSEP-OCT2026pdf",
-     "titulo": "Anexo-BO 29.570-15-10-2026---EPRE-Dpec",
-     "origen": "Ente regulador / organismo provincial",
-     "periodo": "2026-10",
-     "valores": false,
-     "usado": false
-    }
-   ],
    "archivo_nacional": {
     "url": null,
     "pagina": "https://www.argentina.gob.ar/economia/energia/energia-electrica/estadisticas/cuadros-tarifarios-dpec",
@@ -18771,15 +18902,15 @@
      {
       "nombre": "Pequeñas demandas residenciales",
       "hasta": null,
-      "fijo": 32597.0,
+      "fijo": 33878.0,
       "escalones": [
        [
         600,
-        206.045
+        205.87
        ],
        [
         null,
-        244.596
+        244.294
        ]
       ]
      }
@@ -18797,11 +18928,11 @@
       "potencia": [
        [
         "Cargo fijo por potencia",
-        33315.0
+        34005.0
        ]
       ],
       "energia": {
-       "unica": 176.35
+       "unica": 160.527
       }
      },
      {
@@ -18813,13 +18944,13 @@
       "potencia": [
        [
         "Cargo fijo por potencia",
-        32873.0
+        33562.0
        ]
       ],
       "energia": {
-       "pico": 180.522,
-       "resto": 175.597,
-       "valle": 174.43
+       "pico": 163.302,
+       "resto": 159.92,
+       "valle": 159.523
       }
      },
      {
@@ -18831,13 +18962,13 @@
       "potencia": [
        [
         "Cargo fijo por potencia",
-        32757.0
+        33447.0
        ]
       ],
       "energia": {
-       "pico": 202.15,
-       "resto": 196.46,
-       "valle": 195.112
+       "pico": 179.938,
+       "resto": 176.088,
+       "valle": 175.638
       }
      },
      {
@@ -18849,13 +18980,13 @@
       "potencia": [
        [
         "Cargo fijo por potencia",
-        19672.0
+        20308.0
        ]
       ],
       "energia": {
-       "pico": 168.083,
-       "resto": 163.488,
-       "valle": 162.399
+       "pico": 152.018,
+       "resto": 148.863,
+       "valle": 148.493
       }
      },
      {
@@ -18867,13 +18998,13 @@
       "potencia": [
        [
         "Cargo fijo por potencia",
-        19549.0
+        20185.0
        ]
       ],
       "energia": {
-       "pico": 188.259,
-       "resto": 182.952,
-       "valle": 181.693
+       "pico": 167.539,
+       "resto": 163.947,
+       "valle": 163.527
       }
      }
     ]
@@ -18890,7 +19021,7 @@
       "concepto": "Cargo fijo",
       "tramo": "",
       "unidad": "$/bim",
-      "valor": 32597.0
+      "valor": 33878.0
      },
      {
       "seccion": "Residencial (T1) — sin subsidio",
@@ -18900,7 +19031,7 @@
       "concepto": "Energía",
       "tramo": "primeros 600 kWh/bim",
       "unidad": "$/kWh",
-      "valor": 206.045
+      "valor": 205.87
      },
      {
       "seccion": "Residencial (T1) — sin subsidio",
@@ -18910,7 +19041,7 @@
       "concepto": "Energía",
       "tramo": "excedente de 600 kWh/bim",
       "unidad": "$/kWh",
-      "valor": 244.596
+      "valor": 244.294
      },
      {
       "seccion": "Medianas y grandes demandas (T2 y T3)",
@@ -18920,7 +19051,7 @@
       "concepto": "Cargo fijo por potencia",
       "tramo": "",
       "unidad": "$/kW-mes",
-      "valor": 33315.0
+      "valor": 34005.0
      },
      {
       "seccion": "Medianas y grandes demandas (T2 y T3)",
@@ -18930,7 +19061,7 @@
       "concepto": "Energía",
       "tramo": "todo el consumo",
       "unidad": "$/kWh",
-      "valor": 176.35
+      "valor": 160.527
      },
      {
       "seccion": "Medianas y grandes demandas (T2 y T3)",
@@ -18940,7 +19071,7 @@
       "concepto": "Cargo fijo por potencia",
       "tramo": "",
       "unidad": "$/kW-mes",
-      "valor": 32873.0
+      "valor": 33562.0
      },
      {
       "seccion": "Medianas y grandes demandas (T2 y T3)",
@@ -18950,7 +19081,7 @@
       "concepto": "Energía",
       "tramo": "pico",
       "unidad": "$/kWh",
-      "valor": 180.522
+      "valor": 163.302
      },
      {
       "seccion": "Medianas y grandes demandas (T2 y T3)",
@@ -18960,7 +19091,7 @@
       "concepto": "Energía",
       "tramo": "resto",
       "unidad": "$/kWh",
-      "valor": 175.597
+      "valor": 159.92
      },
      {
       "seccion": "Medianas y grandes demandas (T2 y T3)",
@@ -18970,7 +19101,7 @@
       "concepto": "Energía",
       "tramo": "valle",
       "unidad": "$/kWh",
-      "valor": 174.43
+      "valor": 159.523
      },
      {
       "seccion": "Medianas y grandes demandas (T2 y T3)",
@@ -18980,7 +19111,7 @@
       "concepto": "Cargo fijo por potencia",
       "tramo": "",
       "unidad": "$/kW-mes",
-      "valor": 32757.0
+      "valor": 33447.0
      },
      {
       "seccion": "Medianas y grandes demandas (T2 y T3)",
@@ -18990,7 +19121,7 @@
       "concepto": "Energía",
       "tramo": "pico",
       "unidad": "$/kWh",
-      "valor": 202.15
+      "valor": 179.938
      },
      {
       "seccion": "Medianas y grandes demandas (T2 y T3)",
@@ -19000,7 +19131,7 @@
       "concepto": "Energía",
       "tramo": "resto",
       "unidad": "$/kWh",
-      "valor": 196.46
+      "valor": 176.088
      },
      {
       "seccion": "Medianas y grandes demandas (T2 y T3)",
@@ -19010,7 +19141,7 @@
       "concepto": "Energía",
       "tramo": "valle",
       "unidad": "$/kWh",
-      "valor": 195.112
+      "valor": 175.638
      },
      {
       "seccion": "Medianas y grandes demandas (T2 y T3)",
@@ -19020,7 +19151,7 @@
       "concepto": "Cargo fijo por potencia",
       "tramo": "",
       "unidad": "$/kW-mes",
-      "valor": 19672.0
+      "valor": 20308.0
      },
      {
       "seccion": "Medianas y grandes demandas (T2 y T3)",
@@ -19030,7 +19161,7 @@
       "concepto": "Energía",
       "tramo": "pico",
       "unidad": "$/kWh",
-      "valor": 168.083
+      "valor": 152.018
      },
      {
       "seccion": "Medianas y grandes demandas (T2 y T3)",
@@ -19040,7 +19171,7 @@
       "concepto": "Energía",
       "tramo": "resto",
       "unidad": "$/kWh",
-      "valor": 163.488
+      "valor": 148.863
      },
      {
       "seccion": "Medianas y grandes demandas (T2 y T3)",
@@ -19050,7 +19181,7 @@
       "concepto": "Energía",
       "tramo": "valle",
       "unidad": "$/kWh",
-      "valor": 162.399
+      "valor": 148.493
      },
      {
       "seccion": "Medianas y grandes demandas (T2 y T3)",
@@ -19060,7 +19191,7 @@
       "concepto": "Cargo fijo por potencia",
       "tramo": "",
       "unidad": "$/kW-mes",
-      "valor": 19549.0
+      "valor": 20185.0
      },
      {
       "seccion": "Medianas y grandes demandas (T2 y T3)",
@@ -19070,7 +19201,7 @@
       "concepto": "Energía",
       "tramo": "pico",
       "unidad": "$/kWh",
-      "valor": 188.259
+      "valor": 167.539
      },
      {
       "seccion": "Medianas y grandes demandas (T2 y T3)",
@@ -19080,7 +19211,7 @@
       "concepto": "Energía",
       "tramo": "resto",
       "unidad": "$/kWh",
-      "valor": 182.952
+      "valor": 163.947
      },
      {
       "seccion": "Medianas y grandes demandas (T2 y T3)",
@@ -19090,7 +19221,7 @@
       "concepto": "Energía",
       "tramo": "valle",
       "unidad": "$/kWh",
-      "valor": 181.693
+      "valor": 163.527
      }
     ],
     "notas": [
@@ -19361,7 +19492,7 @@
     "primary: OK https://epre.gov.ar/web/wp-content/uploads/2026/11/resolucion-epre-184-26-anexo1.xlsx (2026-12, 4 tablas)",
     "se: ningún archivo descargable (4 enlaces con error)"
    ],
-   "verificado": "2026-11-25T10:02:54+00:00",
+   "verificado": "2026-11-26T10:00:25+00:00",
    "oficiales": {
     "links": [],
     "nota": "El SharePoint de ENERSA no permite descargar el PDF sin iniciar sesión; el EPRE publica la misma resolución."
@@ -19585,7 +19716,7 @@
     "nota": "No se localizó un sitio web propio del EROSP.",
     "fuente": "https://www.argentina.gob.ar/energia/entes-reguladores-provinciales-de-energia-electrica-y-gas-natural"
    },
-   "ultimo_intento": "2026-11-25T10:02:54+00:00",
+   "ultimo_intento": "2026-11-26T10:00:25+00:00",
    "ultimo_intento_fallido": true,
    "inyeccion": null
   },
@@ -19993,7 +20124,7 @@
     "primary: OK https://www.ejesa.com.ar/info/pwa/blog/GetFile?fileId=UkgRLDps50w= (2026-10, 4 tablas)",
     "se: ningún archivo descargable (3 enlaces con error)"
    ],
-   "verificado": "2026-11-25T10:02:54+00:00",
+   "verificado": "2026-11-26T10:00:25+00:00",
    "oficiales": {
     "links": [
      "https://www.ejesa.com.ar/info/pwa/institucional/costos-del-servicio"
@@ -21339,7 +21470,7 @@
     "known: OK https://ejsedsa.com.ar/wp-content/uploads/2026/06/CT-EJSEDSA-WEB-_-Res-198-2026-_-Mayo-a-Octubre-2026.pdf (2026-10, 1 tablas)",
     "se: ningún archivo descargable (2 enlaces con error)"
    ],
-   "verificado": "2026-11-25T10:02:54+00:00",
+   "verificado": "2026-11-26T10:00:25+00:00",
    "oficiales": {
     "links": [
      "https://ejsedsa.com.ar/wp-content/uploads/2026/06/CT-EJSEDSA-WEB-_-Res-198-2026-_-Mayo-a-Octubre-2026.pdf",
@@ -25276,7 +25407,7 @@
     "extra: OK docs/entregados/ape-res-42-26-usuarios-finales.pdf (2026-10, 16 tablas)",
     "se: ningún archivo descargable (1 enlaces con error)"
    ],
-   "verificado": "2026-11-25T10:02:54+00:00",
+   "verificado": "2026-11-26T10:00:25+00:00",
    "oficiales": {
     "links": [
      "docs/entregados/ape-res-41-26-cooperativas.pdf",
@@ -30646,7 +30777,7 @@
     "extra: OK https://www.edelar.com.ar/documentos/cuadro-tarifario.pdf (2026-04, 18 tablas)",
     "se: ningún archivo descargable (8 enlaces con error)"
    ],
-   "verificado": "2026-11-25T10:02:54+00:00",
+   "verificado": "2026-11-26T10:00:25+00:00",
    "oficiales": {
     "links": [
      "https://www.edelar.com.ar/clientes/pequenas-demandas",
@@ -31209,7 +31340,7 @@
     "primary: OK https://epremendoza.gob.ar/2019/informesT/cuadrosT-Vigentes/CT%20Res%20221-2026.pdf (2026-11, 2 tablas)",
     "se: ningún archivo descargable (8 enlaces con error)"
    ],
-   "verificado": "2026-11-25T10:02:54+00:00",
+   "verificado": "2026-11-26T10:00:25+00:00",
    "pago_mensual": {
     "texto": "La factura presenta dos vencimientos, cada uno correspondiente a la mitad del monto total.",
     "url": "https://www.edemsa.com/informacion-comercial/"
@@ -32214,7 +32345,7 @@
     "extra: OK https://www.edeste.com.ar/assets/pdf/cuadro-tarifario/CT-Vigente.pdf (2026-08, 2 tablas)",
     "se: ningún archivo descargable (3 enlaces con error)"
    ],
-   "verificado": "2026-11-25T10:02:54+00:00",
+   "verificado": "2026-11-26T10:00:25+00:00",
    "pago_mensual": {
     "texto": "La factura se encuentra desdoblada con 2 vencimientos, cada uno corresponde a una mitad del monto total.",
     "url": "https://www.edeste.com.ar/preguntasfrecuentes.html"
@@ -33209,7 +33340,7 @@
     "primary: OK https://www.boletindigital.misiones.gov.ar/boletines/16681.pdf (2026-08, 1 tablas)",
     "se: ningún archivo descargable (1 enlaces con error)"
    ],
-   "verificado": "2026-11-25T10:02:54+00:00",
+   "verificado": "2026-11-26T10:00:25+00:00",
    "oficiales": {
     "links": [
      "https://www.energiademisiones.com.ar/cuadros-tarifarios-vigentes/"
@@ -34575,7 +34706,7 @@
     "primary: OK https://www.epen.gov.ar/wp-content/uploads/2026/11/CT-consumos-09-2026.pdf (2026-09, 6 tablas)",
     "se: ningún archivo descargable (1 enlaces con error)"
    ],
-   "verificado": "2026-11-25T10:02:54+00:00",
+   "verificado": "2026-11-26T10:00:25+00:00",
    "oficiales": {
     "links": [
      "https://www.epen.gov.ar/index.php/cuadros-tarifarios/"
@@ -35479,7 +35610,7 @@
     "primary: OK https://www.edersa.com.ar/wp-content/uploads/2026/11/Cuadro-Tarifario-EdERSA-NOVIEMBRE-2026.pdf (2026-11, 1 tablas)",
     "se: ningún archivo descargable (4 enlaces con error)"
    ],
-   "verificado": "2026-11-25T10:02:54+00:00",
+   "verificado": "2026-11-26T10:00:25+00:00",
    "oficiales": {
     "links": [
      "https://www.edersa.com.ar/usuarios/cuadro-tarifario/"
@@ -35643,16 +35774,16 @@
    "nota": "Cada mes EDESA publica la resolución del ENRESP (escaneada, solo legible por OCR) y un cuadro tarifario con texto: se usa el cuadro con texto; la resolución se lee por OCR solo si es más nueva.",
    "estado": "ok",
    "documento": {
-    "url": "https://www.edesa.com.ar/wp-content/uploads/2026/10/Cuadro_Tarifario_Octubre_2026_EDESA.pdf",
-    "titulo": "Cuadro_Tarifario_Octubre_2026_EDESA.pdf",
+    "url": "https://www.edesa.com.ar/wp-content/uploads/2026/11/Cuadro_Tarifario_Noviembre_2026_EDESA.pdf",
+    "titulo": "Cuadro_Tarifario_Noviembre_2026_EDESA.pdf",
     "pagina": "https://www.edesa.com.ar/wp-json/wp/v2/media?search=Cuadro_Tarifario&per_page=30&orderby=date&mime_type=application/pdf",
     "origen": "Distribuidora",
     "tipo": "pdf",
-    "sha256": "c9fc6327ae6d220ca1efadd365bdffbfde29cfaf118c61a13e0dea9132f686f5",
-    "bytes": 666755,
+    "sha256": "4a6263b37b2b21b87d96292f2114855028e28287d7ff1951aad1bc8793002432",
+    "bytes": 663758,
     "via": "búsqueda automática"
    },
-   "vigencia": "Resolución ENRESP N° 1770/26",
+   "vigencia": "Resolución ENRESP N° 2060",
    "tablas": [
     {
      "titulo": "T1 - Pequeñas demandas residenciales",
@@ -35662,8 +35793,8 @@
        "concepto": "T1R1 [ 0 <= E <= 192]",
        "unidad": null,
        "valores": [
-        5842.64,
-        291.9371
+        5965.37,
+        301.764
        ],
        "columnas": [
         "Cargo fijo ($/Mes)",
@@ -35675,8 +35806,8 @@
        "concepto": "T1R2 (192 < E <= 500KWh/mes)",
        "unidad": null,
        "valores": [
-        10564.94,
-        305.6299
+        10776.26,
+        315.7278
        ],
        "columnas": [
         "Cargo fijo ($/Mes)",
@@ -35688,8 +35819,8 @@
        "concepto": "T1R2 (500 < E <= 700KWh/mes)",
        "unidad": null,
        "valores": [
-        14165.59,
-        309.8772
+        14444.24,
+        320.0383
        ],
        "columnas": [
         "Cargo fijo ($/Mes)",
@@ -35701,8 +35832,8 @@
        "concepto": "T1R2 (700 < E <= 1400KWh/mes)",
        "unidad": null,
        "valores": [
-        20814.68,
-        309.5418
+        21217.54,
+        319.6933
        ],
        "columnas": [
         "Cargo fijo ($/Mes)",
@@ -35714,8 +35845,8 @@
        "concepto": "T1R2 ( E > 1400KWh/mes)",
        "unidad": null,
        "valores": [
-        30232.14,
-        310.4589
+        30809.76,
+        320.6151
        ],
        "columnas": [
         "Cargo fijo ($/Mes)",
@@ -35732,8 +35863,8 @@
        "concepto": "T1R1 [ 0 <= E <= 192]",
        "unidad": null,
        "valores": [
-        5160.65,
-        96.7325
+        5270.53,
+        102.3829
        ],
        "columnas": [
         "Cargo fijo ($/Mes)",
@@ -35745,8 +35876,8 @@
        "concepto": "T1R2 [192 < E <= 500KWh/mes]",
        "unidad": null,
        "valores": [
-        9746.26,
-        104.1873
+        9941.13,
+        109.9832
        ],
        "columnas": [
         "Cargo fijo ($/Mes)",
@@ -35758,8 +35889,8 @@
        "concepto": "T1R2 [500 < E <= 700KWh/mes]",
        "unidad": null,
        "valores": [
-        13382.05,
-        113.0264
+        13644.13,
+        118.9788
        ],
        "columnas": [
         "Cargo fijo ($/Mes)",
@@ -35771,8 +35902,8 @@
        "concepto": "T1R2 [700 < E <= 1400KWh/mes]",
        "unidad": null,
        "valores": [
-        17851.51,
-        114.9868
+        18196.55,
+        120.9743
        ],
        "columnas": [
         "Cargo fijo ($/Mes)",
@@ -35784,8 +35915,8 @@
        "concepto": "T1R2 [E > 1400KWh/mes]",
        "unidad": null,
        "valores": [
-        27444.79,
-        122.0282
+        27966.43,
+        128.1389
        ],
        "columnas": [
         "Cargo fijo ($/Mes)",
@@ -35802,8 +35933,8 @@
        "concepto": "T1G1 (0 <= E <= 205 KWh/mes)",
        "unidad": null,
        "valores": [
-        6056.69,
-        295.4366
+        6183.2,
+        312.2663
        ],
        "columnas": [
         "Cargo fijo ($/Mes)",
@@ -35815,8 +35946,8 @@
        "concepto": "T1G2 (205 < E < 2000 KWh/mes)",
        "unidad": null,
        "valores": [
-        17166.16,
-        338.3707
+        17500.43,
+        355.9876
        ],
        "columnas": [
         "Cargo fijo ($/Mes)",
@@ -35828,8 +35959,8 @@
        "concepto": "T1G2 (E >= 2000KWh/mes)",
        "unidad": null,
        "valores": [
-        53219.41,
-        303.6387
+        54228.24,
+        320.6083
        ],
        "columnas": [
         "Cargo fijo ($/Mes)",
@@ -35846,9 +35977,9 @@
        "concepto": "BT - MD",
        "unidad": null,
        "valores": [
-        19640.86,
-        27385.08,
-        238.7184
+        20014.76,
+        27970.12,
+        254.4529
        ],
        "columnas": [
         "Cargo por máxima capacidad de suministro contratada ($/KW-mes)",
@@ -35860,12 +35991,12 @@
     }
    ],
    "intentos": [
-    "primary: OK https://www.edesa.com.ar/wp-content/uploads/2026/10/Cuadro_Tarifario_Octubre_2026_EDESA.pdf (2026-10, 4 tablas)",
+    "primary: OK https://www.edesa.com.ar/wp-content/uploads/2026/11/Cuadro_Tarifario_Noviembre_2026_EDESA.pdf (2026-11, 4 tablas)",
     "extra: OK https://www.edesa.com.ar/wp-content/uploads/2026/10/Resol-Ente-1770-26-CT-EDESA-Octubre-2026.pdf (2026-10, 4 tablas)",
     "extra: LookupError: sin enlaces candidatos en https://ente.gob.ar/cuadros-tarifarios/",
     "se: ningún archivo descargable (5 enlaces con error)"
    ],
-   "verificado": "2026-11-25T10:02:54+00:00",
+   "verificado": "2026-11-26T10:00:25+00:00",
    "oficiales": {
     "links": [
      "https://www.edesa.com.ar/cuadros-tarifarios/",
@@ -35877,13 +36008,13 @@
    "texto": true,
    "escaneado": false,
    "ocr": false,
-   "periodo_documento": "2026-10",
+   "periodo_documento": "2026-11",
    "candidatos": [
     {
-     "url": "https://www.edesa.com.ar/wp-content/uploads/2026/10/Cuadro_Tarifario_Octubre_2026_EDESA.pdf",
-     "titulo": "Cuadro_Tarifario_Octubre_2026_EDESA.pdf",
+     "url": "https://www.edesa.com.ar/wp-content/uploads/2026/11/Cuadro_Tarifario_Noviembre_2026_EDESA.pdf",
+     "titulo": "Cuadro_Tarifario_Noviembre_2026_EDESA.pdf",
      "origen": "Distribuidora",
-     "periodo": "2026-10",
+     "periodo": "2026-11",
      "valores": true,
      "usado": true
     },
@@ -35935,7 +36066,7 @@
      "resultado": "sin_archivo"
     }
    },
-   "mes_referencia": "2026-10",
+   "mes_referencia": "2026-11",
    "mes_referencia_origen": "título",
    "regulador": {
     "sigla": "ENRESP",
@@ -35951,55 +36082,55 @@
      {
       "nombre": "T1R1 [ 0 <= E <= 192]",
       "hasta": 192,
-      "fijo": 5842.64,
+      "fijo": 5965.37,
       "escalones": [
        [
         null,
-        291.9371
+        301.764
        ]
       ]
      },
      {
       "nombre": "T1R2 (192 < E <= 500KWh/mes)",
       "hasta": 500,
-      "fijo": 10564.94,
+      "fijo": 10776.26,
       "escalones": [
        [
         null,
-        305.6299
+        315.7278
        ]
       ]
      },
      {
       "nombre": "T1R2 (500 < E <= 700KWh/mes)",
       "hasta": 700,
-      "fijo": 14165.59,
+      "fijo": 14444.24,
       "escalones": [
        [
         null,
-        309.8772
+        320.0383
        ]
       ]
      },
      {
       "nombre": "T1R2 (700 < E <= 1400KWh/mes)",
       "hasta": 1400,
-      "fijo": 20814.68,
+      "fijo": 21217.54,
       "escalones": [
        [
         null,
-        309.5418
+        319.6933
        ]
       ]
      },
      {
       "nombre": "T1R2 ( E > 1400KWh/mes)",
       "hasta": null,
-      "fijo": 30232.14,
+      "fijo": 30809.76,
       "escalones": [
        [
         null,
-        310.4589
+        320.6151
        ]
       ]
      }
@@ -36008,11 +36139,11 @@
    "demanda": null,
    "simulador_ocr": null,
    "inyeccion": {
-    "residencial": 90.8446,
-    "no_residencial": 90.8446,
+    "residencial": 92.0244,
+    "no_residencial": 92.0244,
     "detalle": "«Tarifa Balance Neto - Origen Solar» (T_BN_SOL)",
     "unidad": "$/kWh",
-    "documento": "https://www.edesa.com.ar/wp-content/uploads/2026/10/Cuadro_Tarifario_Octubre_2026_EDESA.pdf"
+    "documento": "https://www.edesa.com.ar/wp-content/uploads/2026/11/Cuadro_Tarifario_Noviembre_2026_EDESA.pdf"
    },
    "normalizado": {
     "filas": [
@@ -36024,7 +36155,7 @@
       "concepto": "Cargo fijo",
       "tramo": "",
       "unidad": "$/mes",
-      "valor": 5842.64
+      "valor": 5965.37
      },
      {
       "seccion": "Residencial (T1) — sin subsidio",
@@ -36034,7 +36165,7 @@
       "concepto": "Energía",
       "tramo": "todo el consumo",
       "unidad": "$/kWh",
-      "valor": 291.9371
+      "valor": 301.764
      },
      {
       "seccion": "Residencial (T1) — sin subsidio",
@@ -36044,7 +36175,7 @@
       "concepto": "Cargo fijo",
       "tramo": "",
       "unidad": "$/mes",
-      "valor": 10564.94
+      "valor": 10776.26
      },
      {
       "seccion": "Residencial (T1) — sin subsidio",
@@ -36054,7 +36185,7 @@
       "concepto": "Energía",
       "tramo": "todo el consumo",
       "unidad": "$/kWh",
-      "valor": 305.6299
+      "valor": 315.7278
      },
      {
       "seccion": "Residencial (T1) — sin subsidio",
@@ -36064,7 +36195,7 @@
       "concepto": "Cargo fijo",
       "tramo": "",
       "unidad": "$/mes",
-      "valor": 14165.59
+      "valor": 14444.24
      },
      {
       "seccion": "Residencial (T1) — sin subsidio",
@@ -36074,7 +36205,7 @@
       "concepto": "Energía",
       "tramo": "todo el consumo",
       "unidad": "$/kWh",
-      "valor": 309.8772
+      "valor": 320.0383
      },
      {
       "seccion": "Residencial (T1) — sin subsidio",
@@ -36084,7 +36215,7 @@
       "concepto": "Cargo fijo",
       "tramo": "",
       "unidad": "$/mes",
-      "valor": 20814.68
+      "valor": 21217.54
      },
      {
       "seccion": "Residencial (T1) — sin subsidio",
@@ -36094,7 +36225,7 @@
       "concepto": "Energía",
       "tramo": "todo el consumo",
       "unidad": "$/kWh",
-      "valor": 309.5418
+      "valor": 319.6933
      },
      {
       "seccion": "Residencial (T1) — sin subsidio",
@@ -36104,7 +36235,7 @@
       "concepto": "Cargo fijo",
       "tramo": "",
       "unidad": "$/mes",
-      "valor": 30232.14
+      "valor": 30809.76
      },
      {
       "seccion": "Residencial (T1) — sin subsidio",
@@ -36114,7 +36245,7 @@
       "concepto": "Energía",
       "tramo": "todo el consumo",
       "unidad": "$/kWh",
-      "valor": 310.4589
+      "valor": 320.6151
      }
     ],
     "notas": [
@@ -36551,7 +36682,7 @@
     "primary: OK https://www.naturgysj.com.ar/wp-content/uploads/2026/11/CT-01-11-2026-al-22-01-2027-ESJ.pdf (2027-01, 3 tablas)",
     "se: ningún archivo descargable (1 enlaces con error)"
    ],
-   "verificado": "2026-11-25T10:02:54+00:00",
+   "verificado": "2026-11-26T10:00:25+00:00",
    "pago_mensual": {
     "texto": "Medición bimestral; se emiten dos facturas mensuales (cuota 1 y cuota 2) que en conjunto representan el costo total del período.",
     "url": "https://www.naturgysj.com.ar/info-util/preguntas-frecuentes/"
@@ -37804,7 +37935,7 @@
     "extra: OK docs/entregados/edesal-cuadro-tarifario-2026-09.pdf (2026-09, 3 tablas)",
     "se: ningún archivo descargable (9 enlaces con error)"
    ],
-   "verificado": "2026-11-25T10:02:54+00:00",
+   "verificado": "2026-11-26T10:00:25+00:00",
    "oficiales": {
     "links": [
      "https://oficinavirtualedesal.com.ar/ove/upload/CuadroTarifario.pdf"
@@ -38970,7 +39101,7 @@
     "extra: OK docs/entregados/spse-cuadro-tarifario-web-2026-11-04.pdf (2026-09, 5 tablas)",
     "se: ningún archivo descargable (1 enlaces con error)"
    ],
-   "verificado": "2026-11-25T10:02:54+00:00",
+   "verificado": "2026-11-26T10:00:25+00:00",
    "oficiales": {
     "links": [
      "https://spse.ar/atencion-cliente#cuadroTarifario"
@@ -39203,7 +39334,7 @@
     "primary: OK https://epe.santafe.gov.ar/institucional-api/download/cb6055c2-3e76-48ef-ad63-f8e0452a4183 (2026-11, 0 tablas)",
     "se: ningún archivo descargable (1 enlaces con error)"
    ],
-   "verificado": "2026-11-25T10:02:54+00:00",
+   "verificado": "2026-11-26T10:00:25+00:00",
    "oficiales": {
     "links": [],
     "nota": "En las páginas de EPE hay que ir a Tarifas y después a Cuadro Tarifario (usuarios y grandes usuarios) o a Transparencia y después a Comparativas Tarifarias."
@@ -40351,7 +40482,7 @@
     "extra: OK http://enrese.com.ar/cuadrostarifarios/CUADROTARIFARIOOctubre2026.pdf (2026-10, 0 tablas)",
     "se: ningún archivo descargable (9 enlaces con error)"
    ],
-   "verificado": "2026-11-25T10:02:54+00:00",
+   "verificado": "2026-11-26T10:00:25+00:00",
    "oficiales": {
     "links": [
      "https://www.edese.com.ar/public/assets/archivos/CuadroTarifarioVigente.pdf",
@@ -42053,7 +42184,7 @@
     "extra: OK https://drive.usercontent.google.com/download?id=1BsRmjbJiGuBky0H5a1-vjgWG8S95g8YW&export=download&confirm=t (2026-10, 14 tablas)",
     "se: ningún archivo descargable (1 enlaces con error)"
    ],
-   "verificado": "2026-11-25T10:02:54+00:00",
+   "verificado": "2026-11-26T10:00:25+00:00",
    "oficiales": {
     "links": [
      "https://www.dpe.com.ar/usuarios/cuadro_tarifario/",
@@ -43710,7 +43841,7 @@
     "primary: OK https://www.edetsa.com/info/pwa/blog/GetFile?fileId=gUDk5szwrI0= (sin fecha, 44 tablas)",
     "se: ningún archivo descargable (8 enlaces con error)"
    ],
-   "verificado": "2026-11-25T10:02:54+00:00",
+   "verificado": "2026-11-26T10:00:25+00:00",
    "oficiales": {
     "links": [
      "https://www.edetsa.com/info/pwa/institucional/costos-del-servicio",
